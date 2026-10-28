@@ -9,7 +9,7 @@ quizlet_url: "https://quizlet.com/1228543579/flashcards/embed?i=53ndi1&x=1jj1"
 
 Описать свой день, назвать время, договориться о встрече и сказать, что вы успеваете сделать.
 
-**55 слов и выражений · 16 глаголов · уровень A1–A2.**
+**67 слов и выражений · 16 глаголов · уровень A1–A2.**
 
 ## Утро и вечер {#morning-and-evening}
 
@@ -65,6 +65,23 @@ quizlet_url: "https://quizlet.com/1228543579/flashcards/embed?i=53ndi1&x=1jj1"
 | perjantai   | Friday    | Perjantaina työ loppuu aikaisin. | Work finishes early on Friday.         |
 | lauantai    | Saturday  | Lauantaina nukun pitkään.        | I sleep in on Saturday.                |
 | sunnuntai   | Sunday    | Sunnuntaina lepään.              | I rest on Sunday.                      |
+
+## Месяцы {#months}
+
+| Слово | Перевод | Пример | Перевод примера |
+| --- | --- | --- | --- |
+| tammikuu | January | Tammikuussa aloitan uuden kurssin. | I am starting a new course in January. |
+| helmikuu | February | Helmikuussa käyn hammaslääkärissä. | I am going to the dentist in February. |
+| maaliskuu | March | Maaliskuussa tapaan ystävän. | I am meeting a friend in March. |
+| huhtikuu | April | Huhtikuussa muutan uuteen asuntoon. | I am moving to a new flat in April. |
+| toukokuu | May | Toukokuussa meillä on juhlat. | We are having a party in May. |
+| kesäkuu | June | Kesäkuussa olen lomalla. | I am on holiday in June. |
+| heinäkuu | July | Heinäkuussa käymme mökillä. | We are visiting the summer cottage in July. |
+| elokuu | August | Elokuussa palaan töihin. | I am returning to work in August. |
+| syyskuu | September | Syyskuussa aloitan uuden työn. | I am starting a new job in September. |
+| lokakuu | October | Lokakuussa matkustan Turkuun. | I am travelling to Turku in October. |
+| marraskuu | November | Marraskuussa käyn Suomessa. | I am visiting Finland in November. |
+| joulukuu | December | Joulukuussa olen perheeni kanssa. | I am with my family in December. |
 
 ## Когда {#when}
 
@@ -147,12 +164,21 @@ Kuinka kauan matka kestää? — How long does the journey take?
 Matka kestää puoli tuntia. — The journey takes half an hour.  
 Tapaaminen kestää kaksi tuntia. — The meeting lasts two hours.
 
+#### ★ Month + -ssa — In + month {#talking-about-months}
+
+Названия месяцев в финском пишутся со строчной буквы. Чтобы сказать, в каком месяце что-то происходит, добавьте -ssa: tammikuu → tammikuussa, helmikuu → helmikuussa. У всех 12 названий месяцев получается окончание -kuussa.
+
+Kurssi alkaa tammikuussa. — The course starts in January.  
+Olen lomalla heinäkuussa. — I am on holiday in July.  
+Tapaamme joulukuussa. — We will meet in December.
+
 <!-- quizlet -->
 
 ## Источники {#sources}
 
 Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
 
+- [Названия месяцев](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/the-months-kuukaudet)
 - [Время на часах](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/telling-the-time-in-finnish-mita-kello-on)
 - [Вопросы о времени](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/questions-of-time-ajanilmaukset)
 - [Как сказать «нужно»](https://uusikielemme.fi/finnish-grammar/syntax/sentence-types/necessity-sentences-taytyy-pitaa-on-pakko)
