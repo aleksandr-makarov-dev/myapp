@@ -150,19 +150,6 @@ Saanko istua tähän? — Можно мне сюда сесть?
 Saan vastauksen huomenna. — Я получу ответ завтра.  
 Saan apua ystävältä. — Я получаю помощь от друга.
 
-## Модальные вопросы и ответы {#voprosy-i-otvety}
-
-Короткие диалоги для бытовых ситуаций. Вопросы помогают попросить разрешения, узнать о возможности, желании или необходимости что-либо сделать.
-
-**Вопрос:** Voitko kirjoittaa nimesi paperille? — Можешь написать своё имя на бумаге?  
-**Ответ:** Voin. Kirjoitan myös numeroni. — Могу. Напишу ещё и свой номер.
-
-**Вопрос:** Haluatko, että puhun hitaammin? — Хочешь, чтобы я говорил медленнее?  
-**Ответ:** Kyllä, kiitos. Ymmärrän silloin paremmin. — Да, спасибо. Тогда я лучше понимаю.
-
-**Вопрос:** Saanko kirjoittaa vastauksen? — Можно мне написать ответ?  
-**Ответ:** Saat. Voit kirjoittaa sen tähän. — Можно. Можешь написать его здесь.
-
 <!-- quizlet -->
 
 ## Источники {#istochniki}

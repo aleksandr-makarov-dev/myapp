@@ -130,19 +130,6 @@ Haluaisin kahvin. — Я хотел бы кофе.
 Saisinko kupin teetä? — Можно мне чашку чая?  
 Saisinko lasin vettä? — Можно мне стакан воды?
 
-## Модальные вопросы и ответы {#voprosy-i-otvety}
-
-Короткие диалоги для бытовых ситуаций. Вопросы помогают попросить разрешения, узнать о возможности, желании или необходимости что-либо сделать.
-
-**Вопрос:** Voiko tämän annoksen saada ilman juustoa? — Можно это блюдо без сыра?  
-**Ответ:** Voi. Teemme sen ilman juustoa. — Можно. Мы приготовим его без сыра.
-
-**Вопрос:** Haluatko lisää teetä? — Хочешь ещё чаю?  
-**Ответ:** En halua, kiitos. Minulla on vielä teetä. — Не хочу, спасибо. У меня ещё есть чай.
-
-**Вопрос:** Saammeko istua tähän pöytään? — Можно нам сесть за этот стол?  
-**Ответ:** Saatte. Se on vapaa. — Можно. Он свободен.
-
 <!-- quizlet -->
 
 ## Источники {#istochniki}

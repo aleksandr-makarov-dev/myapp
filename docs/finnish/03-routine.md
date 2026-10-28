@@ -147,19 +147,6 @@ Kuinka kauan matka kestää? — Сколько длится поездка?
 Matka kestää puoli tuntia. — Поездка длится полчаса.  
 Tapaaminen kestää kaksi tuntia. — Встреча длится два часа.
 
-## Модальные вопросы и ответы {#voprosy-i-otvety}
-
-Короткие диалоги для бытовых ситуаций. Вопросы помогают попросить разрешения, узнать о возможности, желании или необходимости что-либо сделать.
-
-**Вопрос:** Voimmeko tavata puoli kuudelta? — Мы можем встретиться в половине шестого?  
-**Ответ:** Voimme. Olen silloin vapaa. — Можем. Я тогда свободен.
-
-**Вопрос:** Täytyykö minun tulla aamulla? — Мне нужно прийти утром?  
-**Ответ:** Ei tarvitse. Voit tulla iltapäivällä. — Не нужно. Можешь прийти после обеда.
-
-**Вопрос:** Ehditkö käydä kaupassa ennen töitä? — Ты успеешь сходить в магазин перед работой?  
-**Ответ:** En ehdi. Käyn siellä illalla. — Не успею. Схожу туда вечером.
-
 <!-- quizlet -->
 
 ## Источники {#istochniki}

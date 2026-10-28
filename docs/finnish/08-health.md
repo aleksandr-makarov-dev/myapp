@@ -135,19 +135,6 @@ Aika здесь означает запись на приём. В этих фр�
 Haluan varata ajan lääkärille. — Я хочу записаться к врачу.  
 Haluan perua huomisen ajan. — Я хочу отменить завтрашнюю запись.
 
-## Модальные вопросы и ответы {#voprosy-i-otvety}
-
-Короткие диалоги для бытовых ситуаций. Вопросы помогают попросить разрешения, узнать о возможности, желании или необходимости что-либо сделать.
-
-**Вопрос:** Voinko varata ajan verkossa? — Можно записаться на приём через интернет?  
-**Ответ:** Voit. Ajanvaraus löytyy verkkosivulta. — Можно. Запись на приём есть на сайте.
-
-**Вопрос:** Saanko tulla vastaanotolle puolisoni kanssa? — Можно прийти на приём с супругом?  
-**Ответ:** Saat. Voitte tulla yhdessä. — Можно. Вы можете прийти вместе.
-
-**Вопрос:** Täytyykö minun odottaa täällä? — Мне нужно ждать здесь?  
-**Ответ:** Kyllä. Hoitaja tulee pian. — Да. Медсестра скоро придёт.
-
 <!-- quizlet -->
 
 ## Источники {#istochniki}
