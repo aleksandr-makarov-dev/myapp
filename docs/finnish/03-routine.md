@@ -2,156 +2,156 @@
 title: "День и время"
 description: "Описать свой день, назвать время, договориться о встрече и сказать, что вы успеваете сделать."
 template: finnish.html
-quizlet_url: ""
+quizlet_url: "https://quizlet.com/1228543579/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
-# 03. День и время {#den-i-vremya}
+# 03. День и время {#day-and-time}
 
 Описать свой день, назвать время, договориться о встрече и сказать, что вы успеваете сделать.
 
 **55 слов и выражений · 16 глаголов · уровень A1–A2.**
 
-## Утро и вечер {#utro-i-vecher}
+## Утро и вечер {#morning-and-evening}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| herätä | просыпаться | Herään yleensä seitsemältä. | Обычно я просыпаюсь в семь. |
-| nousta | вставать | Nousen sängystä heti. | Я сразу встаю с кровати. |
-| nukkua | спать | Nukun kahdeksan tuntia yössä. | Я сплю восемь часов за ночь. |
-| levätä | отдыхать | Lepään hetken työn jälkeen. | Я немного отдыхаю после работы. |
-| pukeutua | одеваться | Pukeudun nopeasti aamulla. | Утром я быстро одеваюсь. |
-| riisua | снимать одежду | Riisun takin eteisessä. | Я снимаю куртку в прихожей. |
-| käydä | посещать, ходить куда-либо ненадолго | Käyn kaupassa työn jälkeen. | Я захожу в магазин после работы. |
-| tehdä | делать | Mitä teet illalla? | Что ты делаешь вечером? |
+| Слово    | Перевод                        | Пример                        | Перевод примера                       |
+| -------- | ------------------------------ | ----------------------------- | ------------------------------------- |
+| herätä   | to wake up                     | Herään yleensä seitsemältä.   | I usually wake up at seven.           |
+| nousta   | to get up                      | Nousen sängystä heti.         | I get out of bed straight away.       |
+| nukkua   | to sleep                       | Nukun kahdeksan tuntia yössä. | I sleep eight hours a night.          |
+| levätä   | to rest                        | Lepään hetken työn jälkeen.   | I rest for a while after work.        |
+| pukeutua | to get dressed                 | Pukeudun nopeasti aamulla.    | I get dressed quickly in the morning. |
+| riisua   | to take off clothes            | Riisun takin eteisessä.       | I take off my jacket in the hallway.  |
+| käydä    | to visit, go somewhere briefly | Käyn kaupassa työn jälkeen.   | I go to the shop after work.          |
+| tehdä    | to do                          | Mitä teet illalla?            | What are you doing this evening?      |
 
-## Планы и дела {#plany-i-dela}
+## Планы и дела {#plans-and-tasks}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| alkaa | начинаться | Työpäivä alkaa kahdeksalta. | Рабочий день начинается в восемь. |
-| loppua | заканчиваться | Kurssi loppuu kolmelta. | Курс заканчивается в три. |
-| ehtiä | успевать | En ehdi syödä aamupalaa. | Я не успеваю позавтракать. |
-| kestää | длиться | Matka kestää puoli tuntia. | Поездка длится полчаса. |
-| muistaa | помнить | Muistan tapaamisen. | Я помню о встрече. |
-| unohtaa | забывать | Unohdan usein avaimet kotiin. | Я часто забываю ключи дома. |
-| suunnitella | планировать | Suunnittelen huomista päivää. | Я планирую завтрашний день. |
-| täytyä | быть необходимым, нужно | Minun täytyy lähteä nyt. | Мне нужно сейчас уходить. |
+| Слово       | Перевод            | Пример                        | Перевод примера                           |
+| ----------- | ------------------ | ----------------------------- | ----------------------------------------- |
+| alkaa       | to start, begin    | Työpäivä alkaa kahdeksalta.   | The working day starts at eight.          |
+| loppua      | to end             | Kurssi loppuu kolmelta.       | The course ends at three.                 |
+| ehtiä       | to have time to    | En ehdi syödä aamupalaa.      | I do not have time to eat breakfast.      |
+| kestää      | to last, take time | Matka kestää puoli tuntia.    | The journey takes half an hour.           |
+| muistaa     | to remember        | Muistan tapaamisen.           | I remember the meeting.                   |
+| unohtaa     | to forget          | Unohdan usein avaimet kotiin. | I often leave my keys at home by mistake. |
+| suunnitella | to plan            | Suunnittelen huomista päivää. | I am planning tomorrow.                   |
+| täytyä      | to have to, must   | Minun täytyy lähteä nyt.      | I have to leave now.                      |
 
-## Время {#vremya}
+## Время {#time}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| aamu | утро | Aamu on minulle kiireinen. | Утро у меня загруженное. |
-| päivä | день | Tänään on vapaa päivä. | Сегодня свободный день. |
-| ilta | вечер | Ilta on vapaa. | Вечер свободен. |
-| yö | ночь | Viime yö oli rauhallinen. | Прошлая ночь была спокойной. |
-| viikko | неделя | Olen lomalla viikon. | Я буду в отпуске неделю. |
-| kuukausi | месяц | Kurssi kestää kuukauden. | Курс длится месяц. |
-| vuosi | год | Lapsi on vuoden vanha. | Ребёнку один год. |
-| tunti | час | Minulla on tunti aikaa. | У меня есть час времени. |
-| minuutti | минута | Odota viisi minuuttia. | Подожди пять минут. |
-| kello | часы; время на часах | Mitä kello on? | Который час? |
-| aika | время | Minulla ei ole nyt aikaa. | У меня сейчас нет времени. |
-| viikonloppu | выходные | Mitä teet viikonloppuna? | Что ты делаешь в выходные? |
+| Слово       | Перевод                | Пример                     | Перевод примера                    |
+| ----------- | ---------------------- | -------------------------- | ---------------------------------- |
+| aamu        | morning                | Aamu on minulle kiireinen. | My morning is busy.                |
+| päivä       | day                    | Tänään on vapaa päivä.     | Today is a day off.                |
+| ilta        | evening                | Ilta on vapaa.             | The evening is free.               |
+| yö          | night                  | Viime yö oli rauhallinen.  | Last night was quiet.              |
+| viikko      | week                   | Olen lomalla viikon.       | I will be on holiday for a week.   |
+| kuukausi    | month                  | Kurssi kestää kuukauden.   | The course lasts a month.          |
+| vuosi       | year                   | Lapsi on vuoden vanha.     | The child is one year old.         |
+| tunti       | hour                   | Minulla on tunti aikaa.    | I have an hour.                    |
+| minuutti    | minute                 | Odota viisi minuuttia.     | Wait five minutes.                 |
+| kello       | clock, time on a clock | Mitä kello on?             | What time is it?                   |
+| aika        | time                   | Minulla ei ole nyt aikaa.  | I do not have time now.            |
+| viikonloppu | weekend                | Mitä teet viikonloppuna?   | What are you doing at the weekend? |
 
-## Дни недели {#dni-nedeli}
+## Дни недели {#days-of-the-week}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| maanantai | понедельник | Maanantaina menen kurssille. | В понедельник я пойду на курс. |
-| tiistai | вторник | Tiistaina olen kotona. | Во вторник я дома. |
-| keskiviikko | среда | Keskiviikkona tapaan ystävän. | В среду я встречусь с другом. |
-| torstai | четверг | Torstaina käyn kirjastossa. | В четверг я схожу в библиотеку. |
-| perjantai | пятница | Perjantaina työ loppuu aikaisin. | В пятницу работа заканчивается рано. |
-| lauantai | суббота | Lauantaina nukun pitkään. | В субботу я долго сплю. |
-| sunnuntai | воскресенье | Sunnuntaina lepään. | В воскресенье я отдыхаю. |
+| Слово       | Перевод   | Пример                           | Перевод примера                        |
+| ----------- | --------- | -------------------------------- | -------------------------------------- |
+| maanantai   | Monday    | Maanantaina menen kurssille.     | I am going to the course on Monday.    |
+| tiistai     | Tuesday   | Tiistaina olen kotona.           | I am at home on Tuesday.               |
+| keskiviikko | Wednesday | Keskiviikkona tapaan ystävän.    | I am meeting a friend on Wednesday.    |
+| torstai     | Thursday  | Torstaina käyn kirjastossa.      | I am going to the library on Thursday. |
+| perjantai   | Friday    | Perjantaina työ loppuu aikaisin. | Work finishes early on Friday.         |
+| lauantai    | Saturday  | Lauantaina nukun pitkään.        | I sleep in on Saturday.                |
+| sunnuntai   | Sunday    | Sunnuntaina lepään.              | I rest on Sunday.                      |
 
-## Когда {#kogda}
+## Когда {#when}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| tänään | сегодня | Tänään minulla on aikaa. | Сегодня у меня есть время. |
-| huomenna | завтра | Huomenna olen vapaa. | Завтра я свободен. |
-| eilen | вчера | Eilen olin kotona. | Вчера я был дома. |
-| nyt | сейчас | En voi puhua nyt. | Я сейчас не могу говорить. |
-| pian | скоро | Tulen pian kotiin. | Я скоро приду домой. |
-| myöhemmin | позже | Soitan myöhemmin. | Я позвоню позже. |
+| Слово     | Перевод   | Пример                   | Перевод примера          |
+| --------- | --------- | ------------------------ | ------------------------ |
+| tänään    | today     | Tänään minulla on aikaa. | I have time today.       |
+| huomenna  | tomorrow  | Huomenna olen vapaa.     | I am free tomorrow.      |
+| eilen     | yesterday | Eilen olin kotona.       | I was at home yesterday. |
+| nyt       | now       | En voi puhua nyt.        | I cannot talk now.       |
+| pian      | soon      | Tulen pian kotiin.       | I will come home soon.   |
+| myöhemmin | later     | Soitan myöhemmin.        | I will call later.       |
 
-## Как часто {#kak-chasto}
+## Как часто {#how-often}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| aina | всегда | Syön aina aamupalaa. | Я всегда завтракаю. |
-| usein | часто | Käyn täällä usein. | Я часто сюда хожу. |
-| joskus | иногда | Joskus menen töihin bussilla. | Иногда я езжу на работу на автобусе. |
-| harvoin | редко | Olen harvoin myöhässä. | Я редко опаздываю. |
-| tavallisesti | обычно | Tavallisesti herään seitsemältä. | Обычно я просыпаюсь в семь. |
+| Слово        | Перевод   | Пример                           | Перевод примера                |
+| ------------ | --------- | -------------------------------- | ------------------------------ |
+| aina         | always    | Syön aina aamupalaa.             | I always eat breakfast.        |
+| usein        | often     | Käyn täällä usein.               | I come here often.             |
+| joskus       | sometimes | Joskus menen töihin bussilla.    | Sometimes I go to work by bus. |
+| harvoin      | rarely    | Olen harvoin myöhässä.           | I am rarely late.              |
+| tavallisesti | usually   | Tavallisesti herään seitsemältä. | I usually wake up at seven.    |
 
-## Порядок действий {#poryadok-deystviy}
+## Порядок действий {#sequence-of-actions}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| ensin | сначала | Ensin syön, sitten lähden. | Сначала я поем, потом уйду. |
-| sitten | затем | Käyn kaupassa ja sitten menen kotiin. | Я зайду в магазин, а затем пойду домой. |
-| ennen | до, перед | Syön ennen kurssia. | Я ем перед курсом. |
-| jälkeen | после | Lepään työn jälkeen. | Я отдыхаю после работы. |
+| Слово   | Перевод | Пример                                | Перевод примера                         |
+| ------- | ------- | ------------------------------------- | --------------------------------------- |
+| ensin   | first   | Ensin syön, sitten lähden.            | First I will eat, then I will leave.    |
+| sitten  | then    | Käyn kaupassa ja sitten menen kotiin. | I will go to the shop and then go home. |
+| ennen   | before  | Syön ennen kurssia.                   | I eat before the course.                |
+| jälkeen | after   | Lepään työn jälkeen.                  | I rest after work.                      |
 
-## Договориться о времени {#vremya-vstrechi}
+## Договориться о времени {#arranging-a-time}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| joka päivä | каждый день | Kävelen joka päivä. | Я гуляю каждый день. |
-| mihin aikaan | во сколько | Mihin aikaan tapaamme? | Во сколько мы встретимся? |
-| kuinka kauan | как долго | Kuinka kauan odotat? | Как долго ты ждёшь? |
-| ajoissa | вовремя | Tulen ajoissa. | Я приду вовремя. |
-| myöhässä | с опозданием | Bussi on myöhässä. | Автобус опаздывает. |
+| Слово        | Перевод      | Пример                 | Перевод примера          |
+| ------------ | ------------ | ---------------------- | ------------------------ |
+| joka päivä   | every day    | Kävelen joka päivä.    | I walk every day.        |
+| mihin aikaan | at what time | Mihin aikaan tapaamme? | What time shall we meet? |
+| kuinka kauan | how long     | Kuinka kauan odotat?   | How long will you wait?  |
+| ajoissa      | on time      | Tulen ajoissa.         | I will be on time.       |
+| myöhässä     | late         | Bussi on myöhässä.     | The bus is late.         |
 
-## Hyödylliset lauserakenteet — Полезные конструкции предложений {#poleznye-modeli}
+## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
 
-#### ★ Kello on + время — Сейчас… {#kello-on}
+#### ★ Kello on + time — It is… {#telling-the-time}
 
 Так называют время на часах. В puoli kolme имеется в виду половина следующего часа: 2:30, а не 3:30.
 
-Kello on seitsemän. — Сейчас семь часов.  
-Kello on puoli kolme. — Сейчас половина третьего.
+Kello on seitsemän. — It is seven o'clock.  
+Kello on puoli kolme. — It is half past two.
 
-#### ★ Herään + во сколько — Я просыпаюсь в… {#moneltako}
+#### ★ Herään + time — I wake up at… {#waking-up-times}
 
 Для целого часа запоминайте формы: seitsemältä, kahdeksalta, kolmelta. Для вопроса подойдёт Moneltako? или Mihin aikaan?
 
-Herään seitsemältä. — Я просыпаюсь в семь.  
-Työpäivä alkaa kahdeksalta. — Рабочий день начинается в восемь.  
-Moneltako tapaamme? — Во сколько мы встретимся?
+Herään seitsemältä. — I wake up at seven.  
+Työpäivä alkaa kahdeksalta. — The working day starts at eight.  
+Moneltako tapaamme? — What time shall we meet?
 
-#### ★ Minun täytyy + инфинитив — Мне нужно… {#minun-taytyy}
+#### ★ Minun täytyy + infinitive — I have to… {#necessity}
 
 Говорите minun, sinun, meidän. Форма täytyy не меняется, а следующий глагол остаётся в инфинитиве.
 
-Minun täytyy lähteä nyt. — Мне нужно сейчас уходить.  
-Sinun täytyy levätä. — Тебе нужно отдохнуть.  
-Meidän täytyy herätä aikaisin. — Нам нужно рано проснуться.
+Minun täytyy lähteä nyt. — I have to leave now.  
+Sinun täytyy levätä. — You need to rest.  
+Meidän täytyy herätä aikaisin. — We have to wake up early.
 
-#### ★ Ennen + событие / событие + jälkeen — До и после… {#ennen-ja-jalkeen}
+#### ★ Ennen + event / event + jälkeen — Before / after… {#before-and-after}
 
 После ennen нужен partitiivi: ennen kurssia. Перед jälkeen нужен genetiivi: kurssin jälkeen, työn jälkeen.
 
-Syön ennen kurssia. — Я ем перед курсом.  
-Lepään kurssin jälkeen. — Я отдыхаю после курса.  
-Soitan työn jälkeen. — Я позвоню после работы.
+Syön ennen kurssia. — I eat before the course.  
+Lepään kurssin jälkeen. — I rest after the course.  
+Soitan työn jälkeen. — I will call after work.
 
-#### ★ Kuinka kauan…? — Как долго…? {#kuinka-kauan}
+#### ★ Kuinka kauan…? — How long…? {#duration}
 
 Так спрашивают о длительности. В ответе удобно использовать kestää и готовый промежуток времени: puoli tuntia, tunnin, kaksi tuntia.
 
-Kuinka kauan matka kestää? — Сколько длится поездка?  
-Matka kestää puoli tuntia. — Поездка длится полчаса.  
-Tapaaminen kestää kaksi tuntia. — Встреча длится два часа.
+Kuinka kauan matka kestää? — How long does the journey take?  
+Matka kestää puoli tuntia. — The journey takes half an hour.  
+Tapaaminen kestää kaksi tuntia. — The meeting lasts two hours.
 
 <!-- quizlet -->
 
-## Источники {#istochniki}
+## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и русские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
 
 - [Время на часах](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/telling-the-time-in-finnish-mita-kello-on)
 - [Вопросы о времени](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/questions-of-time-ajanilmaukset)

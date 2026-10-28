@@ -2,144 +2,144 @@
 title: "Здоровье"
 description: "Описать симптомы, назвать место боли, записаться на приём и задать вопрос в аптеке."
 template: finnish.html
-quizlet_url: ""
+quizlet_url: "https://quizlet.com/1228544695/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
-# 08. Здоровье {#zdorovye}
+# 08. Здоровье {#health}
 
 Описать симптомы, назвать место боли, записаться на приём и задать вопрос в аптеке.
 
 **55 слов и выражений · 15 глаголов · уровень A1–A2.**
 
-## Самочувствие {#samochuvstvie}
+## Самочувствие {#how-you-feel}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| sairastua | заболевать | Sairastuin eilen. | Я заболел вчера. |
-| parantua | выздоравливать | Haluan parantua ennen matkaa. | Я хочу выздороветь до поездки. |
-| sattua | болеть, причинять боль | Mihin sinua sattuu? | Где у тебя болит? |
-| särkeä | ныть, болеть | Päätäni särkee. | У меня болит голова. |
-| yskiä | кашлять | Yskin paljon öisin. | Я много кашляю по ночам. |
-| aivastaa | чихать | Aivastan usein keväällä. | Я часто чихаю весной. |
-| hengittää | дышать | Minun on vaikea hengittää. | Мне трудно дышать. |
-| oksentaa | рвать | Oksensin aamulla. | Меня вырвало утром. |
-| vuotaa | течь | Nenäni vuotaa koko ajan. | У меня всё время течёт из носа. |
+| Слово     | Перевод                | Пример                        | Перевод примера                       |
+| --------- | ---------------------- | ----------------------------- | ------------------------------------- |
+| sairastua | to get ill             | Sairastuin eilen.             | I got ill yesterday.                  |
+| parantua  | to recover, get better | Haluan parantua ennen matkaa. | I want to get better before the trip. |
+| sattua    | to hurt                | Mihin sinua sattuu?           | Where does it hurt?                   |
+| särkeä    | to ache                | Päätäni särkee.               | My head aches.                        |
+| yskiä     | to cough               | Yskin paljon öisin.           | I cough a lot at night.               |
+| aivastaa  | to sneeze              | Aivastan usein keväällä.      | I often sneeze in spring.             |
+| hengittää | to breathe             | Minun on vaikea hengittää.    | I find it hard to breathe.            |
+| oksentaa  | to vomit               | Oksensin aamulla.             | I vomited this morning.               |
+| vuotaa    | to run, leak           | Nenäni vuotaa koko ajan.      | My nose is running all the time.      |
 
-## Запись и осмотр {#zapis-i-osmotr}
+## Запись и осмотр {#appointments-and-examinations}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| varata | записывать, бронировать | Haluan varata ajan lääkärille. | Я хочу записаться к врачу. |
-| perua | отменять | Minun täytyy perua huominen aika. | Мне нужно отменить завтрашнюю запись. |
-| mitata | измерять | Mittaan kuumeen. | Я измерю температуру. |
-| hoitaa | лечить | Lääkäri hoitaa potilasta. | Врач лечит пациента. |
-| tutkia | осматривать, обследовать | Lääkäri tutkii korvani. | Врач осматривает мои уши. |
-| kaatua | падать | Kaaduin eilen ja satutin jalkani. | Вчера я упал и повредил ногу. |
+| Слово  | Перевод      | Пример                            | Перевод примера                          |
+| ------ | ------------ | --------------------------------- | ---------------------------------------- |
+| varata | to book      | Haluan varata ajan lääkärille.    | I want to book a doctor's appointment.   |
+| perua  | to cancel    | Minun täytyy perua huominen aika. | I have to cancel tomorrow's appointment. |
+| mitata | to measure   | Mittaan kuumeen.                  | I will take my temperature.              |
+| hoitaa | to treat     | Lääkäri hoitaa potilasta.         | The doctor is treating the patient.      |
+| tutkia | to examine   | Lääkäri tutkii korvani.           | The doctor is examining my ears.         |
+| kaatua | to fall over | Kaaduin eilen ja satutin jalkani. | I fell over yesterday and hurt my leg.   |
 
-## Симптомы {#simptomy}
+## Симптомы {#symptoms}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| terveys | здоровье | Terveys on minulle tärkeä. | Здоровье для меня важно. |
-| oire | симптом | Milloin oireet alkoivat? | Когда начались симптомы? |
-| kipu | боль | Kipu alkoi aamulla. | Боль началась утром. |
-| kuume | повышенная температура | Minulla on kuumetta. | У меня температура. |
-| yskä | кашель | Yskä häiritsee unta. | Кашель мешает спать. |
-| nuha | насморк | Minulla on nuha. | У меня насморк. |
-| flunssa | простуда | Olen flunssassa. | Я простудился. |
-| allergia | аллергия | Minulla on allergia pähkinöille. | У меня аллергия на орехи. |
-| haava | рана | Kädessäni on pieni haava. | У меня на руке небольшая рана. |
-| huimaus | головокружение | Huimaus alkoi tänään. | Головокружение началось сегодня. |
+| Слово    | Перевод     | Пример                           | Перевод примера                |
+| -------- | ----------- | -------------------------------- | ------------------------------ |
+| terveys  | health      | Terveys on minulle tärkeä.       | Health is important to me.     |
+| oire     | symptom     | Milloin oireet alkoivat?         | When did the symptoms start?   |
+| kipu     | pain        | Kipu alkoi aamulla.              | The pain started this morning. |
+| kuume    | fever       | Minulla on kuumetta.             | I have a fever.                |
+| yskä     | cough       | Yskä häiritsee unta.             | The cough disturbs my sleep.   |
+| nuha     | runny nose  | Minulla on nuha.                 | I have a runny nose.           |
+| flunssa  | common cold | Olen flunssassa.                 | I have a cold.                 |
+| allergia | allergy     | Minulla on allergia pähkinöille. | I am allergic to nuts.         |
+| haava    | wound, cut  | Kädessäni on pieni haava.        | I have a small cut on my hand. |
+| huimaus  | dizziness   | Huimaus alkoi tänään.            | The dizziness started today.   |
 
-## Части тела {#chasti-tela}
+## Части тела {#body-parts}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| pää | голова | Pääni on kipeä. | У меня болит голова. |
-| kurkku | горло | Kurkkuun sattuu. | Болит горло. |
-| vatsa | живот | Vatsaani sattuu. | У меня болит живот. |
-| selkä | спина | Selkäni on kipeä. | У меня болит спина. |
-| hammas | зуб | Tämä hammas on kipeä. | Этот зуб болит. |
-| käsi | рука | En voi liikuttaa kättäni. | Я не могу двигать рукой. |
-| jalka | нога | Jalkani on turvonnut. | У меня опухла нога. |
-| silmä | глаз | Silmät kutisevat. | Глаза чешутся. |
-| korva | ухо | Oikea korvani on kipeä. | У меня болит правое ухо. |
-| nenä | нос | Nenä on tukossa. | Нос заложен. |
+| Слово  | Перевод   | Пример                    | Перевод примера       |
+| ------ | --------- | ------------------------- | --------------------- |
+| pää    | head      | Pääni on kipeä.           | My head hurts.        |
+| kurkku | throat    | Kurkkuun sattuu.          | My throat hurts.      |
+| vatsa  | stomach   | Vatsaani sattuu.          | My stomach hurts.     |
+| selkä  | back      | Selkäni on kipeä.         | My back hurts.        |
+| hammas | tooth     | Tämä hammas on kipeä.     | This tooth hurts.     |
+| käsi   | arm, hand | En voi liikuttaa kättäni. | I cannot move my arm. |
+| jalka  | leg, foot | Jalkani on turvonnut.     | My leg is swollen.    |
+| silmä  | eye       | Silmät kutisevat.         | My eyes itch.         |
+| korva  | ear       | Oikea korvani on kipeä.   | My right ear hurts.   |
+| nenä   | nose      | Nenä on tukossa.          | My nose is blocked.   |
 
-## Врач и аптека {#vrach-i-apteka}
+## Врач и аптека {#doctor-and-pharmacy}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| lääkäri | врач | Milloin pääsen lääkärille? | Когда я смогу попасть к врачу? |
-| hoitaja | медсестра, медбрат | Hoitaja soittaa minulle tänään. | Медсестра позвонит мне сегодня. |
-| terveysasema | поликлиника, медпункт | Missä lähin terveysasema on? | Где ближайшая поликлиника? |
-| apteekki | аптека | Onko apteekki vielä auki? | Аптека ещё открыта? |
-| lääke | лекарство | Miten tätä lääkettä käytetään? | Как принимают это лекарство? |
-| resepti | рецепт на лекарство | Tarvitsen uuden reseptin. | Мне нужен новый рецепт. |
-| ajanvaraus | запись на приём | Onko ajanvaraus auki aamulla? | Запись на приём работает утром? |
-| vastaanotto | приём врача | Lääkärin vastaanotto on huomenna. | Приём у врача завтра. |
-| sairausloma | больничный | Tarvitsen sairauslomaa. | Мне нужен больничный. |
-| hätä | экстренная ситуация, беда | Täällä on hätä, tarvitsen apua! | Здесь беда, мне нужна помощь! |
-| potilas | пациент | Olen uusi potilas täällä. | Я здесь новый пациент. |
+| Слово        | Перевод                     | Пример                            | Перевод примера                                         |
+| ------------ | --------------------------- | --------------------------------- | ------------------------------------------------------- |
+| lääkäri      | doctor                      | Milloin pääsen lääkärille?        | When can I see a doctor?                                |
+| hoitaja      | nurse                       | Hoitaja soittaa minulle tänään.   | The nurse will call me today.                           |
+| terveysasema | health centre               | Missä lähin terveysasema on?      | Where is the nearest health centre?                     |
+| apteekki     | pharmacy                    | Onko apteekki vielä auki?         | Is the pharmacy still open?                             |
+| lääke        | medicine                    | Miten tätä lääkettä käytetään?    | How do I take this medicine?                            |
+| resepti      | medical prescription        | Tarvitsen uuden reseptin.         | I need a new prescription.                              |
+| ajanvaraus   | appointment booking service | Onko ajanvaraus auki aamulla?     | Is the appointment booking service open in the morning? |
+| vastaanotto  | doctor's appointment        | Lääkärin vastaanotto on huomenna. | The doctor's appointment is tomorrow.                   |
+| sairausloma  | sick leave                  | Tarvitsen sairauslomaa.           | I need sick leave.                                      |
+| hätä         | emergency, distress         | Täällä on hätä, tarvitsen apua!   | There is an emergency here. I need help!                |
+| potilas      | patient                     | Olen uusi potilas täällä.         | I am a new patient here.                                |
 
-## Состояние и срочность {#sostoyanie-i-srochnost}
+## Состояние и срочность {#condition-and-urgency}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| sairas | больной | Olen sairas enkä tule töihin. | Я болен и не приду на работу. |
-| terve | здоровый | Olen taas terve. | Я снова здоров. |
-| kipeä | болезненный, болящий | Onko tämä kohta kipeä? | Это место болит? |
-| väsynyt | уставший | Olen hyvin väsynyt. | Я очень устал. |
-| heikko | слабый | Minulla on heikko olo. | Я чувствую слабость. |
-| äkillinen | внезапный | Minulle tuli äkillinen vatsakipu. | У меня внезапно заболел живот. |
-| voimakas | сильный | Kipu on voimakasta. | Боль сильная. |
-| heti | сразу, немедленно | Tarvitsen apua heti. | Мне нужна помощь немедленно. |
-| huono olo | плохое самочувствие | Minulla on huono olo. | Я плохо себя чувствую. |
+| Слово     | Перевод        | Пример                            | Перевод примера                      |
+| --------- | -------------- | --------------------------------- | ------------------------------------ |
+| sairas    | ill, sick      | Olen sairas enkä tule töihin.     | I am ill and will not come to work.  |
+| terve     | healthy, well  | Olen taas terve.                  | I am well again.                     |
+| kipeä     | sore, painful  | Onko tämä kohta kipeä?            | Is this spot sore?                   |
+| väsynyt   | tired          | Olen hyvin väsynyt.               | I am very tired.                     |
+| heikko    | weak           | Minulla on heikko olo.            | I feel weak.                         |
+| äkillinen | sudden         | Minulle tuli äkillinen vatsakipu. | I suddenly developed a stomach ache. |
+| voimakas  | severe, strong | Kipu on voimakasta.               | The pain is severe.                  |
+| heti      | immediately    | Tarvitsen apua heti.              | I need help immediately.             |
+| huono olo | feeling unwell | Minulla on huono olo.             | I feel unwell.                       |
 
-## Hyödylliset lauserakenteet — Полезные конструкции предложений {#poleznye-modeli}
+## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
 
-#### ★ Minulla on + симптом — У меня… {#minulla-on-oire}
+#### ★ Minulla on + symptom — I have… {#describing-symptoms}
 
 Формы симптомов различаются. Запоминайте сочетания целиком: minulla on kuumetta, minulla on yskää, minulla on nuha.
 
-Minulla on kuumetta. — У меня температура.  
-Minulla on yskää. — У меня кашель.  
-Minulla on nuha. — У меня насморк.
+Minulla on kuumetta. — I have a fever.  
+Minulla on yskää. — I have a cough.  
+Minulla on nuha. — I have a runny nose.
 
-#### ★ Päätäni särkee — У меня болит голова {#sarkee}
+#### ★ Päätäni särkee — My head aches {#aches-and-pains}
 
 С särkeä часть тела стоит в partitiivi. В формах päätäni и selkääni окончание -ni показывает, что речь идёт о вашей голове или спине.
 
-Päätäni särkee. — У меня болит голова.  
-Selkääni särkee. — У меня болит спина.
+Päätäni särkee. — My head aches.  
+Selkääni särkee. — My back aches.
 
-#### ★ Mihin sattuu? — Где болит? {#mihin-sattuu}
+#### ★ Mihin sattuu? — Where does it hurt? {#where-it-hurts}
 
 В ответах с sattua место боли часто получает форму направления: vatsaan, kurkkuun. Окончание -ni уточняет, что болит у вас.
 
-Mihin sinua sattuu? — Где у тебя болит?  
-Vatsaani sattuu. — У меня болит живот.  
-Kurkkuuni sattuu. — У меня болит горло.
+Mihin sinua sattuu? — Where does it hurt?  
+Vatsaani sattuu. — My stomach hurts.  
+Kurkkuuni sattuu. — My throat hurts.
 
-#### ★ Minun on vaikea + инфинитив — Мне трудно… {#minun-on-vaikea}
+#### ★ Minun on vaikea + infinitive — I find it hard to… {#difficulty-doing-something}
 
 После minun on vaikea используйте начальную форму глагола. Это помогает описать, какое действие вызывает затруднение.
 
-Minun on vaikea hengittää. — Мне трудно дышать.  
-Minun on vaikea kävellä. — Мне трудно ходить.
+Minun on vaikea hengittää. — I find it hard to breathe.  
+Minun on vaikea kävellä. — I find it hard to walk.
 
-#### ★ Haluan varata / perua ajan — Я хочу записаться / отменить запись {#varata-tai-perua-aika}
+#### ★ Haluan varata / perua ajan — I want to book / cancel an appointment {#booking-and-canceling-appointments}
 
-Aika здесь означает запись на приём. В этих фразах используется форма ajan; lääkärille уточняет, к кому вы записываетесь.
+Aika здесь означает «appointment». В этих фразах используется форма ajan; lääkärille уточняет, к кому вы записываетесь.
 
-Haluan varata ajan lääkärille. — Я хочу записаться к врачу.  
-Haluan perua huomisen ajan. — Я хочу отменить завтрашнюю запись.
+Haluan varata ajan lääkärille. — I want to book a doctor's appointment.  
+Haluan perua huomisen ajan. — I want to cancel tomorrow's appointment.
 
 <!-- quizlet -->
 
-## Источники {#istochniki}
+## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и русские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
 
 - [Самочувствие и болезни](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/sick-sairas-illnesses-sairaudet)
 - [На приёме у врача](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/at-the-doctors-laakarilla)

@@ -2,139 +2,139 @@
 title: "Еда и кафе"
 description: "Рассказать, что вы едите, приготовить простую еду, заказать в кафе и уточнить состав блюда."
 template: finnish.html
-quizlet_url: ""
+quizlet_url: "https://quizlet.com/1228544040/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
-# 05. Еда и кафе {#eda-i-kafe}
+# 05. Еда и кафе {#food-and-cafes}
 
 Рассказать, что вы едите, приготовить простую еду, заказать в кафе и уточнить состав блюда.
 
 **55 слов и выражений · 18 глаголов · уровень A1–A2.**
 
-## Еда и заказ {#eda-i-zakaz}
+## Еда и заказ {#eating-and-ordering}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| syödä | есть | Syön lounasta kotona. | Я обедаю дома. |
-| juoda | пить | Juon teetä ilman sokeria. | Я пью чай без сахара. |
-| tilata | заказывать | Tilaan keiton ja lasin vettä. | Я закажу суп и стакан воды. |
-| ottaa | брать | Otan vielä yhden leivän. | Я возьму ещё один бутерброд. |
-| tarjota | предлагать угощение | Voinko tarjota sinulle kahvia? | Можно предложить тебе кофе? |
-| maistaa | пробовать на вкус | Haluatko maistaa tätä keittoa? | Хочешь попробовать этот суп? |
-| riittää | быть достаточным, хватать | Yksi annos riittää minulle. | Одной порции мне хватит. |
-| tuoksua | пахнуть | Ruoka tuoksuu hyvältä. | Еда вкусно пахнет. |
+| Слово   | Перевод                | Пример                         | Перевод примера                             |
+| ------- | ---------------------- | ------------------------------ | ------------------------------------------- |
+| syödä   | to eat                 | Syön lounasta kotona.          | I am having lunch at home.                  |
+| juoda   | to drink               | Juon teetä ilman sokeria.      | I drink tea without sugar.                  |
+| tilata  | to order               | Tilaan keiton ja lasin vettä.  | I will order the soup and a glass of water. |
+| ottaa   | to take                | Otan vielä yhden leivän.       | I will have one more sandwich.              |
+| tarjota | to offer food or drink | Voinko tarjota sinulle kahvia? | Can I offer you some coffee?                |
+| maistaa | to taste, try          | Haluatko maistaa tätä keittoa? | Would you like to try this soup?            |
+| riittää | to be enough           | Yksi annos riittää minulle.    | One portion is enough for me.               |
+| tuoksua | to smell pleasant      | Ruoka tuoksuu hyvältä.         | The food smells good.                       |
 
-## Готовка {#gotovka}
+## Готовка {#cooking}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| valmistaa | готовить | Valmistan päivällistä perheelle. | Я готовлю ужин для семьи. |
-| keittää | варить | Keitän perunoita. | Я варю картошку. |
-| paistaa | жарить | Paistan kananmunan. | Я пожарю яйцо. |
-| leipoa | печь | Leivomme leipää viikonloppuna. | В выходные мы печём хлеб. |
-| leikata | резать | Leikkaan leivän puoliksi. | Я разрежу бутерброд пополам. |
-| kuoria | чистить кожуру | Kuorin perunat ennen keittämistä. | Я чищу картошку перед варкой. |
-| lisätä | добавлять | Lisään keittoon vähän suolaa. | Я добавляю в суп немного соли. |
-| sekoittaa | перемешивать | Sekoita kastiketta, kiitos. | Помешай соус, пожалуйста. |
-| kaataa | наливать | Kaadan vettä lasiin. | Я наливаю воду в стакан. |
-| lämmittää | разогревать | Lämmitän eilistä ruokaa. | Я разогреваю вчерашнюю еду. |
+| Слово     | Перевод          | Пример                            | Перевод примера                          |
+| --------- | ---------------- | --------------------------------- | ---------------------------------------- |
+| valmistaa | to prepare, cook | Valmistan päivällistä perheelle.  | I am preparing dinner for the family.    |
+| keittää   | to boil          | Keitän perunoita.                 | I am boiling potatoes.                   |
+| paistaa   | to fry           | Paistan kananmunan.               | I will fry an egg.                       |
+| leipoa    | to bake          | Leivomme leipää viikonloppuna.    | We bake bread at the weekend.            |
+| leikata   | to cut           | Leikkaan leivän puoliksi.         | I will cut the sandwich in half.         |
+| kuoria    | to peel          | Kuorin perunat ennen keittämistä. | I peel the potatoes before boiling them. |
+| lisätä    | to add           | Lisään keittoon vähän suolaa.     | I add a little salt to the soup.         |
+| sekoittaa | to stir, mix     | Sekoita kastiketta, kiitos.       | Stir the sauce, please.                  |
+| kaataa    | to pour          | Kaadan vettä lasiin.              | I pour water into a glass.               |
+| lämmittää | to heat up       | Lämmitän eilistä ruokaa.          | I am heating up yesterday's food.        |
 
-## Приёмы пищи {#priyomy-pishchi}
+## Приёмы пищи {#meals}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| ruoka | еда | Tämä ruoka on hyvää. | Эта еда вкусная. |
-| aamupala | завтрак | Syön aamupalan ennen töitä. | Я завтракаю перед работой. |
-| lounas | обед | Mitä tänään on lounaaksi? | Что сегодня на обед? |
-| päivällinen | ужин, вечерняя еда | Päivällinen on valmis. | Ужин готов. |
+| Слово       | Перевод              | Пример                      | Перевод примера               |
+| ----------- | -------------------- | --------------------------- | ----------------------------- |
+| ruoka       | food                 | Tämä ruoka on hyvää.        | This food is good.            |
+| aamupala    | breakfast            | Syön aamupalan ennen töitä. | I have breakfast before work. |
+| lounas      | lunch                | Mitä tänään on lounaaksi?   | What is for lunch today?      |
+| päivällinen | dinner, evening meal | Päivällinen on valmis.      | Dinner is ready.              |
 
-## Продукты {#produkty}
+## Продукты {#groceries}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| leipä | хлеб | Tarvitsemme lisää leipää. | Нам нужно ещё хлеба. |
-| maito | молоко | Juotko kahvin maidolla? | Ты пьёшь кофе с молоком? |
-| kananmuna | куриное яйцо | Tarvitsen kaksi kananmunaa. | Мне нужны два яйца. |
-| juusto | сыр | Laitan juustoa leivälle. | Я кладу сыр на хлеб. |
-| peruna | картофель | Syömme perunoita ja kalaa. | Мы едим картошку и рыбу. |
-| riisi | рис | Keitän riisiä illaksi. | Я варю рис на вечер. |
-| pasta | макароны, паста | Lapset haluavat pastaa. | Дети хотят макароны. |
-| kana | курица, куриное мясо | Syön kanaa ja riisiä. | Я ем курицу с рисом. |
-| kala | рыба | Onko tässä ruoassa kalaa? | В этом блюде есть рыба? |
-| liha | мясо | En syö lihaa. | Я не ем мясо. |
-| vihannes | овощ | Syön vihanneksia joka päivä. | Я ем овощи каждый день. |
-| hedelmä | фрукт | Otan hedelmän mukaan. | Я возьму с собой фрукт. |
-| omena | яблоко | Haluatko omenan? | Хочешь яблоко? |
-| suola | соль | Tässä on liikaa suolaa. | Здесь слишком много соли. |
+| Слово     | Перевод      | Пример                       | Перевод примера                       |
+| --------- | ------------ | ---------------------------- | ------------------------------------- |
+| leipä     | bread        | Tarvitsemme lisää leipää.    | We need more bread.                   |
+| maito     | milk         | Juotko kahvin maidolla?      | Do you drink your coffee with milk?   |
+| kananmuna | egg          | Tarvitsen kaksi kananmunaa.  | I need two eggs.                      |
+| juusto    | cheese       | Laitan juustoa leivälle.     | I put cheese on the bread.            |
+| peruna    | potato       | Syömme perunoita ja kalaa.   | We are eating potatoes and fish.      |
+| riisi     | rice         | Keitän riisiä illaksi.       | I am cooking rice for this evening.   |
+| pasta     | pasta        | Lapset haluavat pastaa.      | The children want pasta.              |
+| kana      | chicken meat | Syön kanaa ja riisiä.        | I am eating chicken and rice.         |
+| kala      | fish         | Onko tässä ruoassa kalaa?    | Is there fish in this dish?           |
+| liha      | meat         | En syö lihaa.                | I do not eat meat.                    |
+| vihannes  | vegetable    | Syön vihanneksia joka päivä. | I eat vegetables every day.           |
+| hedelmä   | fruit        | Otan hedelmän mukaan.        | I will take a piece of fruit with me. |
+| omena     | apple        | Haluatko omenan?             | Would you like an apple?              |
+| suola     | salt         | Tässä on liikaa suolaa.      | There is too much salt in this.       |
 
-## В кафе {#v-kafe}
+## В кафе {#at-the-cafe}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| kahvi | кофе | Yksi kahvi mukaan, kiitos. | Один кофе с собой, пожалуйста. |
-| tee | чай | Haluaisin kupin teetä. | Я хотел бы чашку чая. |
-| mehu | сок | Juon lasin mehua aamulla. | Утром я пью стакан сока. |
-| kahvila | кафе | Tapaamme kahvilassa. | Мы встретимся в кафе. |
-| ravintola | ресторан | Onko tämä ravintola auki? | Этот ресторан открыт? |
-| ruokalista | меню | Saisinko ruokalistan? | Можно мне меню? |
-| annos | порция, блюдо | Tämä annos on minulle liian iso. | Эта порция для меня слишком большая. |
-| lasku | счёт к оплате | Saisimmeko laskun, kiitos? | Можно нам счёт, пожалуйста? |
-| nälkä | голод | Minulla on nälkä. | Я голоден. |
-| jano | жажда | Onko sinulla jano? | Ты хочешь пить? |
+| Слово      | Перевод          | Пример                           | Перевод примера                          |
+| ---------- | ---------------- | -------------------------------- | ---------------------------------------- |
+| kahvi      | coffee           | Yksi kahvi mukaan, kiitos.       | One coffee to take away, please.         |
+| tee        | tea              | Haluaisin kupin teetä.           | I would like a cup of tea.               |
+| mehu       | juice            | Juon lasin mehua aamulla.        | I drink a glass of juice in the morning. |
+| kahvila    | café             | Tapaamme kahvilassa.             | We are meeting at a café.                |
+| ravintola  | restaurant       | Onko tämä ravintola auki?        | Is this restaurant open?                 |
+| ruokalista | menu             | Saisinko ruokalistan?            | Could I have the menu?                   |
+| annos      | portion, serving | Tämä annos on minulle liian iso. | This portion is too big for me.          |
+| lasku      | bill             | Saisimmeko laskun, kiitos?       | Could we have the bill, please?          |
+| nälkä      | hunger           | Minulla on nälkä.                | I am hungry.                             |
+| jano       | thirst           | Onko sinulla jano?               | Are you thirsty?                         |
 
-## Вкус и состав {#vkus-i-sostav}
+## Вкус и состав {#taste-and-ingredients}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| hyvä | хороший; вкусный | Keitto on hyvää. | Суп вкусный. |
-| herkullinen | очень вкусный | Tämä kakku on herkullinen. | Этот торт очень вкусный. |
-| tuore | свежий | Onko tämä leipä tuoretta? | Этот хлеб свежий? |
-| kuuma | горячий | Kahvi on vielä kuumaa. | Кофе ещё горячий. |
-| kylmä | холодный | Haluaisin kylmää vettä. | Я хотел бы холодной воды. |
-| makea | сладкий | Tämä mehu on liian makeaa. | Этот сок слишком сладкий. |
-| suolainen | солёный | Keitto on liian suolaista. | Суп слишком солёный. |
-| laktoositon | безлактозный | Onko tämä maito laktoositonta? | Это молоко безлактозное? |
-| gluteeniton | безглютеновый | Onko teillä gluteenitonta leipää? | У вас есть безглютеновый хлеб? |
+| Слово       | Перевод      | Пример                            | Перевод примера                |
+| ----------- | ------------ | --------------------------------- | ------------------------------ |
+| hyvä        | good, tasty  | Keitto on hyvää.                  | The soup tastes good.          |
+| herkullinen | delicious    | Tämä kakku on herkullinen.        | This cake is delicious.        |
+| tuore       | fresh        | Onko tämä leipä tuoretta?         | Is this bread fresh?           |
+| kuuma       | hot          | Kahvi on vielä kuumaa.            | The coffee is still hot.       |
+| kylmä       | cold         | Haluaisin kylmää vettä.           | I would like some cold water.  |
+| makea       | sweet        | Tämä mehu on liian makeaa.        | This juice is too sweet.       |
+| suolainen   | salty        | Keitto on liian suolaista.        | The soup is too salty.         |
+| laktoositon | lactose-free | Onko tämä maito laktoositonta?    | Is this milk lactose-free?     |
+| gluteeniton | gluten-free  | Onko teillä gluteenitonta leipää? | Do you have gluten-free bread? |
 
-## Hyödylliset lauserakenteet — Полезные конструкции предложений {#poleznye-modeli}
+## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
 
-#### ★ Minulla on nälkä / jano — Я голоден / хочу пить {#nalka-ja-jano}
+#### ★ Minulla on nälkä / jano — I am hungry / thirsty {#hunger-and-thirst}
 
 Для голода и жажды используйте minulla on. В вопросе minulla меняется на sinulla, если вы обращаетесь к собеседнику.
 
-Minulla on nälkä. — Я голоден.  
-Minulla on jano. — Я хочу пить.  
-Onko sinulla nälkä? — Ты голоден?
+Minulla on nälkä. — I am hungry.  
+Minulla on jano. — I am thirsty.  
+Onko sinulla nälkä? — Are you hungry?
 
-#### ★ Syön / Juon + что — Я ем / пью… {#syon-ja-juon}
+#### ★ Syön / Juon + what — I eat / drink… {#eating-and-drinking}
 
 В этих примерах речь идёт о некотором количестве еды или напитка, поэтому используются формы partitiivi: keittoa, leipää, vettä.
 
-Syön keittoa. — Я ем суп.  
-Syön leipää. — Я ем хлеб.  
-Juon vettä. — Я пью воду.
+Syön keittoa. — I am eating soup.  
+Syön leipää. — I am eating bread.  
+Juon vettä. — I am drinking water.
 
-#### ★ Keitän / Paistan + что — Я варю / жарю… {#keitan-ja-paistan}
+#### ★ Keitän / Paistan + what — I boil / fry… {#boiling-and-frying}
 
 Когда вы описываете сам процесс приготовления или неопределённое количество продукта, пригодится partitiivi: perunoita, riisiä, kalaa.
 
-Keitän perunoita. — Я варю картошку.  
-Keitän riisiä. — Я варю рис.  
-Paistan kalaa. — Я жарю рыбу.
+Keitän perunoita. — I am boiling potatoes.  
+Keitän riisiä. — I am cooking rice.  
+Paistan kalaa. — I am frying fish.
 
-#### ★ Haluaisin / Saisinko + что — Я хотел бы / Можно мне… {#haluaisin-ja-saisinko}
+#### ★ Haluaisin / Saisinko + what — I would like / Could I have… {#ordering-politely}
 
 Это вежливые формы для заказа и просьбы. Готовые сочетания удобно запоминать целиком: kahvin, kupin teetä, lasin vettä.
 
-Haluaisin kahvin. — Я хотел бы кофе.  
-Saisinko kupin teetä? — Можно мне чашку чая?  
-Saisinko lasin vettä? — Можно мне стакан воды?
+Haluaisin kahvin. — I would like a coffee.  
+Saisinko kupin teetä? — Could I have a cup of tea?  
+Saisinko lasin vettä? — Could I have a glass of water?
 
 <!-- quizlet -->
 
-## Источники {#istochniki}
+## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и русские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
 
 - [Завтрак и продукты](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/breakfast-aamiainen-finnish-vocabulary)
 - [Глаголы приготовления еды](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/cooking-verbs-kokkaaminen-ruoanlaitto)

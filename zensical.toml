@@ -22,6 +22,16 @@ nav = [
   { "08. Здоровье" = "finnish/08-health.md" },
   { "09. Работа и учёба" = "finnish/09-work-study.md" },
   { "10. Досуг и погода" = "finnish/10-leisure.md" },
+  { "11. Чувства и мнения" = "finnish/11-feelings.md" },
+  { "12. Телефон и интернет" = "finnish/12-internet.md" },
+  { "13. Жильё и переезд" = "finnish/13-housing.md" },
+  { "14. Поездки и гостиница" = "finnish/14-travel.md" },
+  { "15. Банк и документы" = "finnish/15-banking-documents.md" },
+  { "16. Почта и библиотека" = "finnish/16-post-library.md" },
+  { "17. Дети и школа" = "finnish/17-children.md" },
+  { "18. Уход за собой" = "finnish/18-personal-care.md" },
+  { "19. Природа и животные" = "finnish/19-nature-animals.md" },
+  { "20. Безопасность и помощь" = "finnish/20-safety.md" },
 ]
 
 extra_css = ["stylesheets/extra.css"]

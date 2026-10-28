@@ -2,146 +2,146 @@
 title: "Работа и учёба"
 description: "Рассказать о работе и учёбе, попросить объяснение, позвонить, отправить сообщение и заполнить заявление."
 template: finnish.html
-quizlet_url: ""
+quizlet_url: "https://quizlet.com/1228544871/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
-# 09. Работа и учёба {#rabota-i-uchyoba}
+# 09. Работа и учёба {#work-and-study}
 
 Рассказать о работе и учёбе, попросить объяснение, позвонить, отправить сообщение и заполнить заявление.
 
 **57 слов и выражений · 20 глаголов · уровень A1–A2.**
 
-## Учиться и работать {#uchitsya-i-rabotat}
+## Учиться и работать {#learning-and-working}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| työskennellä | работать | Työskentelen pienessä yrityksessä. | Я работаю в небольшой компании. |
-| opiskella | учиться, изучать | Opiskelen suomea iltakurssilla. | Я изучаю финский на вечернем курсе. |
-| oppia | учиться чему-либо, осваивать | Opin joka päivä uusia sanoja. | Я каждый день учу новые слова. |
-| opettaa | обучать, преподавать | Hän opettaa suomea aikuisille. | Он преподаёт финский взрослым. |
-| harjoitella | практиковаться | Harjoittelen puhumista kotona. | Я тренируюсь говорить дома. |
-| lukea | читать | Luen ohjeen ennen työtä. | Я прочитаю инструкцию перед работой. |
-| kirjoittaa | писать | Kirjoitan opettajalle viestin. | Я пишу учителю сообщение. |
-| yrittää | пытаться, стараться | Yritän puhua suomea töissä. | Я стараюсь говорить по-фински на работе. |
-| onnistua | удаваться, получаться | Tehtävä onnistui hyvin. | Задание получилось хорошо. |
-| aloittaa | начинать | Aloitan uuden kurssin maanantaina. | В понедельник я начну новый курс. |
-| lopettaa | заканчивать, прекращать | Lopetan työt neljältä. | Я заканчиваю работу в четыре. |
-| jatkaa | продолжать | Jatkamme harjoitusta tauon jälkeen. | Мы продолжим упражнение после перерыва. |
+| Слово        | Перевод               | Пример                              | Перевод примера                                |
+| ------------ | --------------------- | ----------------------------------- | ---------------------------------------------- |
+| työskennellä | to work               | Työskentelen pienessä yrityksessä.  | I work for a small company.                    |
+| opiskella    | to study              | Opiskelen suomea iltakurssilla.     | I study Finnish on an evening course.          |
+| oppia        | to learn              | Opin joka päivä uusia sanoja.       | I learn new words every day.                   |
+| opettaa      | to teach              | Hän opettaa suomea aikuisille.      | He teaches Finnish to adults.                  |
+| harjoitella  | to practise           | Harjoittelen puhumista kotona.      | I practise speaking at home.                   |
+| lukea        | to read               | Luen ohjeen ennen työtä.            | I will read the instructions before work.      |
+| kirjoittaa   | to write              | Kirjoitan opettajalle viestin.      | I am writing a message to the teacher.         |
+| yrittää      | to try                | Yritän puhua suomea töissä.         | I try to speak Finnish at work.                |
+| onnistua     | to succeed, go well   | Tehtävä onnistui hyvin.             | The task went well.                            |
+| aloittaa     | to start something    | Aloitan uuden kurssin maanantaina.  | I am starting a new course on Monday.          |
+| lopettaa     | to finish, stop doing | Lopetan työt neljältä.              | I finish work at four.                         |
+| jatkaa       | to continue           | Jatkamme harjoitusta tauon jälkeen. | We will continue the exercise after the break. |
 
-## Связь и документы {#svyaz-i-dokumenty}
+## Связь и документы {#communication-and-documents}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| soittaa | звонить | Soitan sinulle tauolla. | Я позвоню тебе на перерыве. |
-| lähettää | отправлять | Lähetän hakemuksen tänään. | Я отправлю заявление сегодня. |
-| täyttää | заполнять | Täytän lomakkeen verkossa. | Я заполняю бланк в интернете. |
-| allekirjoittaa | подписывать | Mihin tämä pitää allekirjoittaa? | Где это нужно подписать? |
-| hakea | подавать заявку, искать работу | Haen työtä läheltä kotia. | Я ищу работу недалеко от дома. |
-| ilmoittautua | записываться, регистрироваться | Ilmoittaudun suomen kurssille. | Я записываюсь на курс финского. |
-| käyttää | использовать | Voinko käyttää tätä tietokonetta? | Можно мне воспользоваться этим компьютером? |
-| tallentaa | сохранять | Tallennan tiedoston tietokoneelle. | Я сохраняю файл на компьютер. |
+| Слово          | Перевод                     | Пример                             | Перевод примера                     |
+| -------------- | --------------------------- | ---------------------------------- | ----------------------------------- |
+| soittaa        | to call by phone            | Soitan sinulle tauolla.            | I will call you during the break.   |
+| lähettää       | to send                     | Lähetän hakemuksen tänään.         | I will send the application today.  |
+| täyttää        | to fill in                  | Täytän lomakkeen verkossa.         | I fill in the form online.          |
+| allekirjoittaa | to sign                     | Mihin tämä pitää allekirjoittaa?   | Where should this be signed?        |
+| hakea          | to look for work, apply for | Haen työtä läheltä kotia.          | I am looking for work near home.    |
+| ilmoittautua   | to enrol, register          | Ilmoittaudun suomen kurssille.     | I am enrolling on a Finnish course. |
+| käyttää        | to use                      | Voinko käyttää tätä tietokonetta?  | May I use this computer?            |
+| tallentaa      | to save                     | Tallennan tiedoston tietokoneelle. | I save the file on the computer.    |
 
-## На работе {#na-rabote}
+## На работе {#at-work}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| työ | работа | Etsin työtä tältä alueelta. | Я ищу работу в этом районе. |
-| työpaikka | место работы | Työpaikkani on keskustassa. | Моё место работы в центре. |
-| ammatti | профессия | Mikä sinun ammattisi on? | Какая у тебя профессия? |
-| työkaveri | коллега | Kysyn työkaverilta neuvoa. | Я спрошу совета у коллеги. |
-| kokous | собрание, совещание | Kokous alkaa kohta. | Совещание скоро начнётся. |
-| tehtävä | задание | En ymmärrä tätä tehtävää. | Я не понимаю это задание. |
-| tauko | перерыв | Pidetään pieni tauko. | Давай сделаем небольшой перерыв. |
-| palkka | зарплата | Milloin palkka maksetaan? | Когда выплачивают зарплату? |
-| työntekijä | работник | Olen uusi työntekijä. | Я новый сотрудник. |
-| esihenkilö | руководитель | Puhun asiasta esihenkilön kanssa. | Я поговорю об этом с руководителем. |
+| Слово      | Перевод                | Пример                            | Перевод примера                          |
+| ---------- | ---------------------- | --------------------------------- | ---------------------------------------- |
+| työ        | work                   | Etsin työtä tältä alueelta.       | I am looking for work in this area.      |
+| työpaikka  | workplace              | Työpaikkani on keskustassa.       | My workplace is in the city centre.      |
+| ammatti    | profession, occupation | Mikä sinun ammattisi on?          | What is your occupation?                 |
+| työkaveri  | colleague              | Kysyn työkaverilta neuvoa.        | I will ask a colleague for advice.       |
+| kokous     | meeting                | Kokous alkaa kohta.               | The meeting will start soon.             |
+| tehtävä    | task, assignment       | En ymmärrä tätä tehtävää.         | I do not understand this task.           |
+| tauko      | break                  | Pidetään pieni tauko.             | Let us take a short break.               |
+| palkka     | pay, salary            | Milloin palkka maksetaan?         | When is the salary paid?                 |
+| työntekijä | employee               | Olen uusi työntekijä.             | I am a new employee.                     |
+| esihenkilö | supervisor             | Puhun asiasta esihenkilön kanssa. | I will talk about it with my supervisor. |
 
-## На занятии {#na-zanyatii}
+## На занятии {#in-class}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| koulu | школа | Lapseni on koulussa. | Мой ребёнок в школе. |
-| kurssi | курс | Kurssi alkaa ensi viikolla. | Курс начнётся на следующей неделе. |
-| oppitunti | урок | Oppitunti kestää 45 minuuttia. | Урок длится 45 минут. |
-| opiskelija | студент, учащийся | Olen suomen kielen opiskelija. | Я изучаю финский язык. |
-| opettaja | учитель | Opettaja auttaa minua. | Учитель мне помогает. |
-| läksy | домашнее задание | Teen läksyt illalla. | Я делаю домашние задания вечером. |
-| sana | слово | En muista tätä sanaa. | Я не помню это слово. |
-| kysymys | вопрос | Minulla on yksi kysymys. | У меня один вопрос. |
-| vastaus | ответ | En tiedä oikeaa vastausta. | Я не знаю правильного ответа. |
-| ohje | инструкция | Voitko lähettää ohjeen? | Можешь отправить инструкцию? |
-| virhe | ошибка | Tässä lauseessa on virhe. | В этом предложении ошибка. |
-| harjoitus | упражнение | Teemme harjoituksen yhdessä. | Мы сделаем упражнение вместе. |
+| Слово      | Перевод             | Пример                         | Перевод примера                      |
+| ---------- | ------------------- | ------------------------------ | ------------------------------------ |
+| koulu      | school              | Lapseni on koulussa.           | My child is at school.               |
+| kurssi     | course              | Kurssi alkaa ensi viikolla.    | The course starts next week.         |
+| oppitunti  | lesson              | Oppitunti kestää 45 minuuttia. | The lesson lasts 45 minutes.         |
+| opiskelija | student             | Olen suomen kielen opiskelija. | I am a Finnish language student.     |
+| opettaja   | teacher             | Opettaja auttaa minua.         | The teacher helps me.                |
+| läksy      | homework assignment | Teen läksyt illalla.           | I do my homework in the evening.     |
+| sana       | word                | En muista tätä sanaa.          | I do not remember this word.         |
+| kysymys    | question            | Minulla on yksi kysymys.       | I have one question.                 |
+| vastaus    | answer              | En tiedä oikeaa vastausta.     | I do not know the right answer.      |
+| ohje       | instruction         | Voitko lähettää ohjeen?        | Can you send the instructions?       |
+| virhe      | mistake             | Tässä lauseessa on virhe.      | There is a mistake in this sentence. |
+| harjoitus  | exercise            | Teemme harjoituksen yhdessä.   | We will do the exercise together.    |
 
-## Контакты и формы {#kontakty-i-formy}
+## Контакты и формы {#contacts-and-forms}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| puhelin | телефон | Puhelimeni akku on tyhjä. | У моего телефона разрядилась батарея. |
-| viesti | сообщение | Saitko minun viestini? | Ты получил моё сообщение? |
-| sähköposti | электронное письмо | Lähetän sinulle sähköpostin. | Я отправлю тебе электронное письмо. |
-| tietokone | компьютер | Tarvitsen tietokoneen opiskeluun. | Мне нужен компьютер для учёбы. |
-| salasana | пароль | Unohdin salasanani. | Я забыл свой пароль. |
-| lomake | бланк, форма | Mistä löydän oikean lomakkeen? | Где я найду нужный бланк? |
-| hakemus | заявление, заявка | Hakemukseni on valmis. | Моё заявление готово. |
-| liite | приложение к письму | Lähetän kuvan liitteenä. | Я отправлю фотографию во вложении. |
-| numero | номер | Kirjoita numero tähän. | Напиши номер здесь. |
-| yhteys | связь, соединение | Yhteys on huono, en kuule sinua. | Плохая связь, я тебя не слышу. |
+| Слово      | Перевод     | Пример                            | Перевод примера                            |
+| ---------- | ----------- | --------------------------------- | ------------------------------------------ |
+| puhelin    | phone       | Puhelimeni akku on tyhjä.         | My phone's battery is flat.                |
+| viesti     | message     | Saitko minun viestini?            | Did you get my message?                    |
+| sähköposti | email       | Lähetän sinulle sähköpostin.      | I will send you an email.                  |
+| tietokone  | computer    | Tarvitsen tietokoneen opiskeluun. | I need a computer for studying.            |
+| salasana   | password    | Unohdin salasanani.               | I forgot my password.                      |
+| lomake     | form        | Mistä löydän oikean lomakkeen?    | Where can I find the right form?           |
+| hakemus    | application | Hakemukseni on valmis.            | My application is ready.                   |
+| liite      | attachment  | Lähetän kuvan liitteenä.          | I will send the photo as an attachment.    |
+| numero     | number      | Kirjoita numero tähän.            | Write the number here.                     |
+| yhteys     | connection  | Yhteys on huono, en kuule sinua.  | The connection is poor. I cannot hear you. |
 
-## Задачи и занятость {#zadachi-i-zanyatost}
+## Задачи и занятость {#tasks-and-availability}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| vaikea | трудный | Tämä tehtävä on vaikea. | Это задание трудное. |
-| helppo | лёгкий, несложный | Tämä ohje on helppo ymmärtää. | Эту инструкцию легко понять. |
-| valmis | готовый | Olen valmis aloittamaan. | Я готов начать. |
-| kiireinen | занятой | Olen kiireinen aamulla. | Утром я занят. |
-| vapaa | свободный | Oletko vapaa kokouksen jälkeen? | Ты свободен после совещания? |
+| Слово     | Перевод         | Пример                          | Перевод примера                            |
+| --------- | --------------- | ------------------------------- | ------------------------------------------ |
+| vaikea    | difficult       | Tämä tehtävä on vaikea.         | This task is difficult.                    |
+| helppo    | easy            | Tämä ohje on helppo ymmärtää.   | These instructions are easy to understand. |
+| valmis    | ready           | Olen valmis aloittamaan.        | I am ready to start.                       |
+| kiireinen | busy            | Olen kiireinen aamulla.         | I am busy in the morning.                  |
+| vapaa     | free, available | Oletko vapaa kokouksen jälkeen? | Are you free after the meeting?            |
 
-## Hyödylliset lauserakenteet — Полезные конструкции предложений {#poleznye-modeli}
+## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
 
-#### ★ Opiskelen + что / где — Я изучаю… / учусь… {#opiskelen}
+#### ★ Opiskelen + subject / place — I study… {#studying}
 
 Предмет изучения стоит в partitiivi: suomea. Для места запоминайте готовые сочетания: kurssilla, ammattikoulussa.
 
-Opiskelen suomea. — Я изучаю финский.  
-Opiskelen iltakurssilla. — Я учусь на вечернем курсе.  
-Opiskelen ammattikoulussa. — Я учусь в профессиональном училище.
+Opiskelen suomea. — I study Finnish.  
+Opiskelen iltakurssilla. — I attend an evening course.  
+Opiskelen ammattikoulussa. — I study at a vocational school.
 
-#### ★ Opin + что — Я осваиваю… {#opin}
+#### ★ Opin + what — I learn… {#learning}
 
 Opiskella описывает процесс учёбы, oppia освоение знаний или навыка. После opin здесь используется partitiivi.
 
-Opin uusia sanoja joka päivä. — Я каждый день учу новые слова.  
-Opin suomea myös töissä. — Я осваиваю финский и на работе.
+Opin uusia sanoja joka päivä. — I learn new words every day.  
+Opin suomea myös töissä. — I also learn Finnish at work.
 
-#### ★ Ilmoittaudun + куда — Я записываюсь на… {#ilmoittaudun}
+#### ★ Ilmoittaudun + course / event — I register for… {#registering-for-courses}
 
 После ilmoittautua нужна форма направления. Запоминайте сочетания: kurssille, kokeeseen.
 
-Ilmoittaudun suomen kurssille. — Я записываюсь на курс финского.  
-Ilmoittaudun kokeeseen verkossa. — Я регистрируюсь на экзамен через интернет.
+Ilmoittaudun suomen kurssille. — I am enrolling on a Finnish course.  
+Ilmoittaudun kokeeseen verkossa. — I register for the exam online.
 
-#### ★ Olen töissä + где — Я работаю… {#olen-toissa}
+#### ★ Olen töissä + place — I work at… {#workplace}
 
 Olla töissä подходит и для разговора о месте работы, и для сообщения, что вы сейчас на работе.
 
-Olen töissä kaupassa. — Я работаю в магазине.  
-Olen töissä koulussa. — Я работаю в школе.  
-Olen nyt töissä. — Я сейчас на работе.
+Olen töissä kaupassa. — I work in a shop.  
+Olen töissä koulussa. — I work at a school.  
+Olen nyt töissä. — I am at work now.
 
-#### ★ Lähetän + что + кому — Я отправляю… {#lahetan}
+#### ★ Lähetän + what + to whom — I send… {#sending-things}
 
 Для получателя используйте форму на -lle: opettajalle, työnantajalle. В этих примерах отправляемый предмет стоит в форме viestin или hakemuksen.
 
-Lähetän viestin opettajalle. — Я отправляю сообщение учителю.  
-Lähetän hakemuksen työnantajalle. — Я отправляю заявление работодателю.
+Lähetän viestin opettajalle. — I will send a message to the teacher.  
+Lähetän hakemuksen työnantajalle. — I will send an application to the employer.
 
 <!-- quizlet -->
 
-## Источники {#istochniki}
+## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и русские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
 
 - [Об учёбе](https://uusikielemme.fi/finnish-vocabulary/vocabulary-phrases/talking-about-your-education-in-finnish-koulutus)
 - [О работе](https://uusikielemme.fi/finnish-vocabulary/vocabulary-phrases/talking-about-work-experience-in-finnish-tyokokemus)

@@ -2,142 +2,142 @@
 title: "Город и транспорт"
 description: "Спросить дорогу, понять указания, купить билет и разобраться с остановками и пересадками."
 template: finnish.html
-quizlet_url: ""
+quizlet_url: "https://quizlet.com/1228544538/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
-# 07. Город и транспорт {#gorod-i-transport}
+# 07. Город и транспорт {#city-and-transport}
 
 Спросить дорогу, понять указания, купить билет и разобраться с остановками и пересадками.
 
 **55 слов и выражений · 18 глаголов · уровень A1–A2.**
 
-## Передвижение {#peredvizhenie}
+## Передвижение {#getting-around}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| mennä | идти, ехать | Menen keskustaan bussilla. | Я еду в центр на автобусе. |
-| tulla | приходить, приезжать | Tuletko tänne huomenna? | Ты приедешь сюда завтра? |
-| lähteä | уходить, отправляться | Lähden kotoa kahdeksalta. | Я выхожу из дома в восемь. |
-| palata | возвращаться | Palaan kotiin illalla. | Я вернусь домой вечером. |
-| saapua | прибывать | Juna saapuu kymmeneltä. | Поезд прибывает в десять. |
-| matkustaa | ездить, путешествовать | Matkustan Turkuun junalla. | Я еду в Турку на поезде. |
-| kävellä | идти пешком | Kävelen asemalle. | Я иду пешком на вокзал. |
-| ajaa | водить, ехать за рулём | Ajan autoa joka päivä. | Я вожу машину каждый день. |
-| päästä | добираться | Miten pääsen asemalle? | Как мне добраться до вокзала? |
+| Слово     | Перевод          | Пример                     | Перевод примера                       |
+| --------- | ---------------- | -------------------------- | ------------------------------------- |
+| mennä     | to go            | Menen keskustaan bussilla. | I am going to the city centre by bus. |
+| tulla     | to come          | Tuletko tänne huomenna?    | Are you coming here tomorrow?         |
+| lähteä    | to leave         | Lähden kotoa kahdeksalta.  | I leave home at eight.                |
+| palata    | to return        | Palaan kotiin illalla.     | I will return home in the evening.    |
+| saapua    | to arrive        | Juna saapuu kymmeneltä.    | The train arrives at ten.             |
+| matkustaa | to travel        | Matkustan Turkuun junalla. | I am travelling to Turku by train.    |
+| kävellä   | to walk          | Kävelen asemalle.          | I am walking to the station.          |
+| ajaa      | to drive         | Ajan autoa joka päivä.     | I drive a car every day.              |
+| päästä    | to get to, reach | Miten pääsen asemalle?     | How do I get to the station?          |
 
-## В дороге {#v-doroge}
+## В дороге {#on-the-road}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| istua | сидеть | Saanko istua tähän? | Можно мне сюда сесть? |
-| seisoa | стоять | Seison bussipysäkillä. | Я стою на автобусной остановке. |
-| jäädä | выходить из транспорта: jäädä pois | Jään pois seuraavalla pysäkillä. | Я выхожу на следующей остановке. |
-| pysähtyä | останавливаться | Pysähtyykö tämä bussi asemalla? | Этот автобус останавливается у вокзала? |
-| kääntyä | поворачивать | Käänny seuraavasta risteyksestä oikealle. | На следующем перекрёстке поверни направо. |
-| ylittää | переходить, пересекать | Ylitän kadun suojatietä pitkin. | Я перехожу улицу по пешеходному переходу. |
-| seurata | следовать за | Seuraa tätä tietä asemalle asti. | Иди по этой дороге до вокзала. |
-| tuoda | приносить, привозить | Voitko tuoda lipun tänne? | Можешь принести билет сюда? |
-| eksyä | заблудиться | En halua eksyä uudessa kaupungissa. | Я не хочу заблудиться в новом городе. |
+| Слово    | Перевод                              | Пример                                    | Перевод примера                                |
+| -------- | ------------------------------------ | ----------------------------------------- | ---------------------------------------------- |
+| istua    | to sit                               | Saanko istua tähän?                       | May I sit here?                                |
+| seisoa   | to stand                             | Seison bussipysäkillä.                    | I am standing at the bus stop.                 |
+| jäädä    | to get off a vehicle, used with pois | Jään pois seuraavalla pysäkillä.          | I am getting off at the next stop.             |
+| pysähtyä | to stop                              | Pysähtyykö tämä bussi asemalla?           | Does this bus stop at the station?             |
+| kääntyä  | to turn                              | Käänny seuraavasta risteyksestä oikealle. | Turn right at the next junction.               |
+| ylittää  | to cross                             | Ylitän kadun suojatietä pitkin.           | I cross the street at the pedestrian crossing. |
+| seurata  | to follow                            | Seuraa tätä tietä asemalle asti.          | Follow this road all the way to the station.   |
+| tuoda    | to bring                             | Voitko tuoda lipun tänne?                 | Can you bring the ticket here?                 |
+| eksyä    | to get lost                          | En halua eksyä uudessa kaupungissa.       | I do not want to get lost in a new city.       |
 
 ## Транспорт {#transport}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| bussi | автобус | Tämä bussi menee keskustaan. | Этот автобус идёт в центр. |
-| juna | поезд | Juna on jo asemalla. | Поезд уже на вокзале. |
-| metro | метро | Menen töihin metrolla. | Я езжу на работу на метро. |
-| raitiovaunu | трамвай | Odotan raitiovaunua. | Я жду трамвай. |
-| auto | автомобиль | Meillä ei ole autoa. | У нас нет машины. |
-| pyörä | велосипед | Pyöräni on aseman edessä. | Мой велосипед перед вокзалом. |
-| taksi | такси | Tilaan taksin kotiin. | Я закажу такси домой. |
-| lippu | билет | Mistä voin ostaa lipun? | Где я могу купить билет? |
-| pysäkki | остановка | Onko tämä oikea pysäkki? | Это нужная остановка? |
-| asema | станция, вокзал | Missä asema on? | Где вокзал? |
-| aikataulu | расписание | Katson junan aikataulun. | Я посмотрю расписание поезда. |
-| matka | поездка, путь | Matka kestää tunnin. | Поездка длится час. |
-| reitti | маршрут | Tämä reitti on nopea. | Этот маршрут быстрый. |
+| Слово       | Перевод            | Пример                       | Перевод примера                        |
+| ----------- | ------------------ | ---------------------------- | -------------------------------------- |
+| bussi       | bus                | Tämä bussi menee keskustaan. | This bus goes to the city centre.      |
+| juna        | train              | Juna on jo asemalla.         | The train is already at the station.   |
+| metro       | metro, underground | Menen töihin metrolla.       | I go to work by metro.                 |
+| raitiovaunu | tram               | Odotan raitiovaunua.         | I am waiting for a tram.               |
+| auto        | car                | Meillä ei ole autoa.         | We do not have a car.                  |
+| pyörä       | bicycle            | Pyöräni on aseman edessä.    | My bicycle is in front of the station. |
+| taksi       | taxi               | Tilaan taksin kotiin.        | I will order a taxi to my home.        |
+| lippu       | ticket             | Mistä voin ostaa lipun?      | Where can I buy a ticket?              |
+| pysäkki     | stop               | Onko tämä oikea pysäkki?     | Is this the right stop?                |
+| asema       | station            | Missä asema on?              | Where is the station?                  |
+| aikataulu   | timetable          | Katson junan aikataulun.     | I will check the train timetable.      |
+| matka       | journey            | Matka kestää tunnin.         | The journey takes an hour.             |
+| reitti      | route              | Tämä reitti on nopea.        | This is a quick route.                 |
 
-## Ориентиры {#orientiry}
+## Ориентиры {#landmarks}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| katu | улица | Asun tällä kadulla. | Я живу на этой улице. |
-| tie | дорога | Tämä tie vie keskustaan. | Эта дорога ведёт в центр. |
-| risteys | перекрёсток | Kauppa on risteyksen vieressä. | Магазин рядом с перекрёстком. |
-| suojatie | пешеходный переход | Suojatie on tuolla. | Пешеходный переход вон там. |
-| keskusta | центр города | Tapaan ystävän keskustassa. | Я встречусь с другом в центре. |
-| osoite | адрес | Mikä tämän paikan osoite on? | Какой адрес у этого места? |
-| kartta | карта местности | Näytätkö paikan kartalta? | Покажешь это место на карте? |
-| sisäänkäynti | вход | Sisäänkäynti on talon takana. | Вход сзади здания. |
-| uloskäynti | выход | Missä lähin uloskäynti on? | Где ближайший выход? |
-| hissi | лифт | Mennään hissillä. | Поедем на лифте. |
+| Слово        | Перевод             | Пример                         | Перевод примера                              |
+| ------------ | ------------------- | ------------------------------ | -------------------------------------------- |
+| katu         | street              | Asun tällä kadulla.            | I live on this street.                       |
+| tie          | road                | Tämä tie vie keskustaan.       | This road leads to the city centre.          |
+| risteys      | junction            | Kauppa on risteyksen vieressä. | The shop is next to the junction.            |
+| suojatie     | pedestrian crossing | Suojatie on tuolla.            | The pedestrian crossing is over there.       |
+| keskusta     | city centre         | Tapaan ystävän keskustassa.    | I am meeting a friend in the city centre.    |
+| osoite       | address             | Mikä tämän paikan osoite on?   | What is the address of this place?           |
+| kartta       | map                 | Näytätkö paikan kartalta?      | Can you show me the place on the map?        |
+| sisäänkäynti | entrance            | Sisäänkäynti on talon takana.  | The entrance is at the back of the building. |
+| uloskäynti   | exit                | Missä lähin uloskäynti on?     | Where is the nearest exit?                   |
+| hissi        | lift                | Mennään hissillä.              | Let us take the lift.                        |
 
-## Направления {#napravleniya}
+## Направления {#directions}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| täällä | здесь | Onko täällä vapaita paikkoja? | Здесь есть свободные места? |
-| siellä | там | Ystäväni odottaa siellä. | Мой друг ждёт там. |
-| suoraan | прямо | Mene suoraan seuraavaan risteykseen. | Иди прямо до следующего перекрёстка. |
-| oikealla | справа | Asema on oikealla. | Вокзал справа. |
-| vasemmalla | слева | Pysäkki on vasemmalla. | Остановка слева. |
-| lähellä | рядом, близко | Asun lähellä asemaa. | Я живу рядом с вокзалом. |
-| kaukana | далеко | Onko pysäkki kaukana? | Остановка далеко? |
-| vieressä | рядом с | Kauppa on pankin vieressä. | Магазин рядом с банком. |
-| vastapäätä | напротив | Pysäkki on vastapäätä kauppaa. | Остановка напротив магазина. |
-| edessä | перед | Odotan talon edessä. | Я жду перед домом. |
-| takana | за, позади | Pysäkki on talon takana. | Остановка за домом. |
-| takaisin | обратно | Tulen takaisin samalla bussilla. | Я вернусь на том же автобусе. |
-| perille | до места назначения | Pääsin perille ajoissa. | Я добрался до места вовремя. |
-| jalkaisin | пешком | Pääsen sinne jalkaisin. | Я могу добраться туда пешком. |
+| Слово      | Перевод            | Пример                               | Перевод примера                         |
+| ---------- | ------------------ | ------------------------------------ | --------------------------------------- |
+| täällä     | here               | Onko täällä vapaita paikkoja?        | Are there any free seats here?          |
+| siellä     | there              | Ystäväni odottaa siellä.             | My friend is waiting there.             |
+| suoraan    | straight ahead     | Mene suoraan seuraavaan risteykseen. | Go straight ahead to the next junction. |
+| oikealla   | on the right       | Asema on oikealla.                   | The station is on the right.            |
+| vasemmalla | on the left        | Pysäkki on vasemmalla.               | The stop is on the left.                |
+| lähellä    | near, nearby       | Asun lähellä asemaa.                 | I live near the station.                |
+| kaukana    | far away           | Onko pysäkki kaukana?                | Is the stop far away?                   |
+| vieressä   | next to            | Kauppa on pankin vieressä.           | The shop is next to the bank.           |
+| vastapäätä | opposite           | Pysäkki on vastapäätä kauppaa.       | The stop is opposite the shop.          |
+| edessä     | in front of        | Odotan talon edessä.                 | I am waiting in front of the house.     |
+| takana     | behind             | Pysäkki on talon takana.             | The stop is behind the house.           |
+| takaisin   | back               | Tulen takaisin samalla bussilla.     | I will come back on the same bus.       |
+| perille    | to the destination | Pääsin perille ajoissa.              | I reached my destination on time.       |
+| jalkaisin  | on foot            | Pääsen sinne jalkaisin.              | I can get there on foot.                |
 
-## Hyödylliset lauserakenteet — Полезные конструкции предложений {#poleznye-modeli}
+## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
 
-#### ★ Miten pääsen + куда? — Как мне добраться до…? {#miten-paasen}
+#### ★ Miten pääsen + destination? — How do I get to…? {#asking-for-directions}
 
 Место назначения запоминайте вместе с окончанием: asemalle, keskustaan, kotiin.
 
-Miten pääsen asemalle? — Как мне добраться до вокзала?  
-Miten pääsen keskustaan? — Как мне добраться до центра?  
-Pääsen kotiin bussilla. — Я могу добраться домой на автобусе.
+Miten pääsen asemalle? — How do I get to the station?  
+Miten pääsen keskustaan? — How do I get to the city centre?  
+Pääsen kotiin bussilla. — I can get home by bus.
 
-#### ★ Menen / Tulen / Lähden — Я иду / прихожу / отправляюсь {#menen-tulen-lahden}
+#### ★ Menen / Tulen / Lähden — I go / come / leave {#going-coming-and-leaving}
 
-Mennä описывает движение туда, tulla сюда или к собеседнику, lähteä отправление. В kotoa указано, откуда вы выходите.
+Mennä означает «to go», tulla «to come», lähteä «to leave». В kotoa указано, откуда вы выходите.
 
-Menen keskustaan. — Я иду в центр.  
-Tulen asemalle kymmeneltä. — Я приду на вокзал в десять.  
-Lähden kotoa kahdeksalta. — Я выхожу из дома в восемь.
+Menen keskustaan. — I am going to the city centre.  
+Tulen asemalle kymmeneltä. — I will come to the station at ten.  
+Lähden kotoa kahdeksalta. — I leave home at eight.
 
-#### ★ Oikealla / oikealle — Справа / направо {#oikealla-ja-oikealle}
+#### ★ Oikealla / oikealle — On the right / to the right {#position-and-direction}
 
-Oikealla и vasemmalla отвечают на вопрос «где?». Oikealle и vasemmalle показывают направление движения.
+Oikealla и vasemmalla отвечают на вопрос «where?». Oikealle и vasemmalle показывают направление движения.
 
-Asema on oikealla. — Вокзал справа.  
-Käänny oikealle. — Поверни направо.  
-Pysäkki on vasemmalla. — Остановка слева.  
-Käänny vasemmalle. — Поверни налево.
+Asema on oikealla. — The station is on the right.  
+Käänny oikealle. — Turn right.  
+Pysäkki on vasemmalla. — The stop is on the left.  
+Käänny vasemmalle. — Turn left.
 
-#### ★ Чего + vieressä / takana — Рядом с… / за… {#vieressa-ja-takana}
+#### ★ Noun in genitive + vieressä / takana — Next to / behind… {#next-to-and-behind}
 
 Перед этими послелогами нужна форма genetiivi: pankin, talon, aseman.
 
-Kauppa on pankin vieressä. — Магазин рядом с банком.  
-Pysäkki on talon takana. — Остановка за домом.  
-Pyörä on aseman vieressä. — Велосипед рядом с вокзалом.
+Kauppa on pankin vieressä. — The shop is next to the bank.  
+Pysäkki on talon takana. — The stop is behind the house.  
+Pyörä on aseman vieressä. — The bicycle is next to the station.
 
-#### ★ Tuon / Vien + что + куда — Я приношу / отношу… {#tuon-ja-vien}
+#### ★ Tuon / Vien + what + where to — I bring / take… {#bringing-and-taking}
 
-Tuoda означает приносить сюда, viedä относить от себя в другое место. Для разговора выучите готовые пары: tuoda tänne, viedä kotiin.
+Tuoda означает «to bring», viedä «to take to another place». Для разговора выучите готовые пары: tuoda tänne, viedä kotiin.
 
-Tuon lipun tänne. — Я принесу билет сюда.  
-Vien avaimet kotiin. — Я отнесу ключи домой.
+Tuon lipun tänne. — I will bring the ticket here.  
+Vien avaimet kotiin. — I will take the keys home.
 
 <!-- quizlet -->
 
-## Источники {#istochniki}
+## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и русские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
 
 - [Места в городе](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/places-in-the-city-finnish-vocabulary)
 - [Как спросить и объяснить дорогу](https://uusikielemme.fi/finnish-vocabulary/vocabulary-phrases/asking-for-directions-in-finnish-tien-neuvominen)

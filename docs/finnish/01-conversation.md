@@ -2,159 +2,159 @@
 title: "Знакомство"
 description: "Представиться, спросить о человеке, переспросить и объяснить, что вы понимаете или чего хотите."
 template: finnish.html
-quizlet_url: "https://quizlet.com/1227510462/flashcards/embed?i=53ndi1&x=1jj1"
+quizlet_url: "https://quizlet.com/1228543162/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
-# 01. Знакомство {#znakomstvo}
+# 01. Знакомство {#introductions}
 
 Представиться, спросить о человеке, переспросить и объяснить, что вы понимаете или чего хотите.
 
 **55 слов и выражений · 18 глаголов · уровень A1–A2.**
 
-## Разговор {#razgovor}
+## Разговор {#conversation}
 
-| Слово      | Перевод      | Пример                        | Перевод примера                |
-| ---------- | ------------ | ----------------------------- | ------------------------------ |
-| olla       | быть         | Olen uusi täällä.             | Я здесь новенький.             |
-| puhua      | говорить     | Puhun vähän suomea.           | Я немного говорю по-фински.    |
-| sanoa      | сказать      | Voitko sanoa sen hitaasti?    | Можешь сказать это медленно?   |
-| kysyä      | спрашивать   | Saanko kysyä yhden asian?     | Можно спросить об одной вещи?  |
-| vastata    | отвечать     | Vastaan kysymykseen suomeksi. | Я отвечаю на вопрос по-фински. |
-| ymmärtää   | понимать     | En ymmärrä tätä sanaa.        | Я не понимаю это слово.        |
-| kuulla     | слышать      | En kuule sinua hyvin.         | Я тебя плохо слышу.            |
-| toistaa    | повторять    | Voitko toistaa osoitteen?     | Можешь повторить адрес?        |
-| selittää   | объяснять    | Voitko selittää tämän asian?  | Можешь объяснить это?          |
-| kertoa     | рассказывать | Kerro vähän itsestäsi.        | Расскажи немного о себе.       |
-| tarkoittaa | означать     | Mitä tämä sana tarkoittaa?    | Что означает это слово?        |
-| tietää     | знать        | En tiedä vastausta.           | Я не знаю ответа.              |
+| Слово      | Перевод       | Пример                        | Перевод примера                   |
+| ---------- | ------------- | ----------------------------- | --------------------------------- |
+| olla       | to be         | Olen uusi täällä.             | I am new here.                    |
+| puhua      | to speak      | Puhun vähän suomea.           | I speak a little Finnish.         |
+| sanoa      | to say        | Voitko sanoa sen hitaasti?    | Can you say it slowly?            |
+| kysyä      | to ask        | Saanko kysyä yhden asian?     | May I ask something?              |
+| vastata    | to answer     | Vastaan kysymykseen suomeksi. | I answer the question in Finnish. |
+| ymmärtää   | to understand | En ymmärrä tätä sanaa.        | I do not understand this word.    |
+| kuulla     | to hear       | En kuule sinua hyvin.         | I cannot hear you well.           |
+| toistaa    | to repeat     | Voitko toistaa osoitteen?     | Can you repeat the address?       |
+| selittää   | to explain    | Voitko selittää tämän asian?  | Can you explain this?             |
+| kertoa     | to tell       | Kerro vähän itsestäsi.        | Tell me a little about yourself.  |
+| tarkoittaa | to mean       | Mitä tämä sana tarkoittaa?    | What does this word mean?         |
+| tietää     | to know       | En tiedä vastausta.           | I do not know the answer.         |
 
-## Просьбы и возможности {#prosby}
+## Просьбы и возможности {#requests-and-possibilities}
 
-| Слово   | Перевод                 | Пример                    | Перевод примера          |
-| ------- | ----------------------- | ------------------------- | ------------------------ |
-| osata   | уметь                   | Osaan lukea suomea.       | Я умею читать по-фински. |
-| voida   | мочь, иметь возможность | Voin puhua nyt.           | Сейчас я могу говорить.  |
-| saada   | получать                | Saan vastauksen huomenna. | Я получу ответ завтра.   |
-| haluta  | хотеть                  | Haluan oppia suomea.      | Я хочу выучить финский.  |
-| tarvita | нуждаться               | Tarvitsen apua.           | Мне нужна помощь.        |
-| pyytää  | просить                 | Pyydän sinulta apua.      | Я прошу у тебя помощи.   |
+| Слово   | Перевод            | Пример                    | Перевод примера                |
+| ------- | ------------------ | ------------------------- | ------------------------------ |
+| osata   | to know how to     | Osaan lukea suomea.       | I can read Finnish.            |
+| voida   | to be able to, can | Voin puhua nyt.           | I can talk now.                |
+| saada   | to receive, get    | Saan vastauksen huomenna. | I will get an answer tomorrow. |
+| haluta  | to want            | Haluan oppia suomea.      | I want to learn Finnish.       |
+| tarvita | to need            | Tarvitsen apua.           | I need help.                   |
+| pyytää  | to ask for         | Pyydän sinulta apua.      | I am asking you for help.      |
 
-## Вежливость {#vezhlivost}
+## Вежливость {#politeness}
 
-| Слово           | Перевод               | Пример                          | Перевод примера                 |
-| --------------- | --------------------- | ------------------------------- | ------------------------------- |
-| hei             | привет; здравствуйте  | Hei, olen Anna.                 | Здравствуйте, я Анна.           |
-| kiitos          | спасибо               | Kiitos avusta!                  | Спасибо за помощь!              |
-| anteeksi        | извините              | Anteeksi, missä vessa on?       | Извините, где туалет?           |
-| näkemiin        | до свидания           | Näkemiin ja hyvää päivänjatkoa! | До свидания, хорошего вам дня!  |
-| tervetuloa      | добро пожаловать      | Tervetuloa meille!              | Добро пожаловать к нам!         |
-| hauska tutustua | приятно познакомиться | Olen Olli, hauska tutustua.     | Я Олли, приятно познакомиться.  |
-| Mitä kuuluu?    | Как дела?             | Hei, mitä kuuluu? — Ihan hyvää. | Привет, как дела? — Всё хорошо. |
-| ei kestä        | не за что             | Kiitos avusta! — Ei kestä.      | Спасибо за помощь! — Не за что. |
+| Слово           | Перевод          | Пример                          | Перевод примера                             |
+| --------------- | ---------------- | ------------------------------- | ------------------------------------------- |
+| hei             | hello, hi        | Hei, olen Anna.                 | Hello, I am Anna.                           |
+| kiitos          | thank you        | Kiitos avusta!                  | Thank you for your help!                    |
+| anteeksi        | excuse me        | Anteeksi, missä vessa on?       | Excuse me, where is the toilet?             |
+| näkemiin        | goodbye          | Näkemiin ja hyvää päivänjatkoa! | Goodbye, and enjoy the rest of your day!    |
+| tervetuloa      | welcome          | Tervetuloa meille!              | Welcome to our home!                        |
+| hauska tutustua | nice to meet you | Olen Olli, hauska tutustua.     | I am Olli. Nice to meet you.                |
+| Mitä kuuluu?    | How are you?     | Hei, mitä kuuluu? — Ihan hyvää. | Hi, how are you? — Pretty good.             |
+| ei kestä        | you are welcome  | Kiitos avusta! — Ei kestä.      | Thank you for your help! — You are welcome. |
 
-## Вопросы {#voprosy}
+## Вопросы {#questions}
 
-| Слово         | Перевод       | Пример                     | Перевод примера          |
-| ------------- | ------------- | -------------------------- | ------------------------ |
-| kuka          | кто           | Kuka hän on?               | Кто он?                  |
-| mikä          | что; какой    | Mikä sinun nimesi on?      | Как тебя зовут?          |
-| missä         | где           | Missä sinä asut?           | Где ты живёшь?           |
-| mistä         | откуда        | Mistä olet kotoisin?       | Откуда ты родом?         |
-| mihin         | куда          | Mihin olet menossa?        | Куда ты идёшь?           |
-| miksi         | почему        | Miksi opiskelet suomea?    | Почему ты учишь финский? |
-| miten         | как           | Miten tämä toimii?         | Как это работает?        |
-| kuinka paljon | сколько       | Kuinka paljon tämä maksaa? | Сколько это стоит?       |
-| millainen     | какой, что за | Millainen sinun työsi on?  | Какая у тебя работа?     |
+| Слово         | Перевод                     | Пример                     | Перевод примера               |
+| ------------- | --------------------------- | -------------------------- | ----------------------------- |
+| kuka          | who                         | Kuka hän on?               | Who is he?                    |
+| mikä          | what                        | Mikä sinun nimesi on?      | What is your name?            |
+| missä         | where                       | Missä sinä asut?           | Where do you live?            |
+| mistä         | where from                  | Mistä olet kotoisin?       | Where are you from?           |
+| mihin         | where to                    | Mihin olet menossa?        | Where are you going?          |
+| miksi         | why                         | Miksi opiskelet suomea?    | Why are you studying Finnish? |
+| miten         | how                         | Miten tämä toimii?         | How does this work?           |
+| kuinka paljon | how much                    | Kuinka paljon tämä maksaa? | How much does this cost?      |
+| millainen     | what kind of, what ... like | Millainen sinun työsi on?  | What is your job like?        |
 
-## О себе {#o-sebe}
+## О себе {#about-yourself}
 
-| Слово    | Перевод       | Пример                          | Перевод примера                 |
-| -------- | ------------- | ------------------------------- | ------------------------------- |
-| nimi     | имя           | Voitko kirjoittaa nimesi tähän? | Можешь написать здесь своё имя? |
-| etunimi  | личное имя    | Etunimeni on Anna.              | Меня зовут Анна.                |
-| sukunimi | фамилия       | Mikä sinun sukunimesi on?       | Какая у тебя фамилия?           |
-| kieli    | язык          | Suomi on minulle uusi kieli.    | Финский для меня новый язык.    |
-| suomi    | финский язык  | Opiskelen suomea joka päivä.    | Я учу финский каждый день.      |
-| venäjä   | русский язык  | Puhutko venäjää?                | Ты говоришь по-русски?          |
-| maa      | страна        | Suomi on kaunis maa.            | Финляндия — красивая страна.    |
-| kotimaa  | родная страна | Mikä sinun kotimaasi on?        | Какая страна у тебя родная?     |
-| ikä      | возраст       | Ikä ei ole tärkeä.              | Возраст не важен.               |
+| Слово    | Перевод            | Пример                          | Перевод примера                   |
+| -------- | ------------------ | ------------------------------- | --------------------------------- |
+| nimi     | name               | Voitko kirjoittaa nimesi tähän? | Can you write your name here?     |
+| etunimi  | first name         | Etunimeni on Anna.              | My first name is Anna.            |
+| sukunimi | surname, last name | Mikä sinun sukunimesi on?       | What is your surname?             |
+| kieli    | language           | Suomi on minulle uusi kieli.    | Finnish is a new language for me. |
+| suomi    | Finnish language   | Opiskelen suomea joka päivä.    | I study Finnish every day.        |
+| venäjä   | Russian language   | Puhutko venäjää?                | Do you speak Russian?             |
+| maa      | country            | Suomi on kaunis maa.            | Finland is a beautiful country.   |
+| kotimaa  | home country       | Mikä sinun kotimaasi on?        | What is your home country?        |
+| ikä      | age                | Ikä ei ole tärkeä.              | Age is not important.             |
 
-## Уточнения {#utochneniya}
+## Уточнения {#clarifications}
 
-| Слово     | Перевод    | Пример                                 | Перевод примера                             |
-| --------- | ---------- | -------------------------------------- | ------------------------------------------- |
-| kyllä     | да         | Onko tämä sinun? — Kyllä.              | Это твоё? — Да.                             |
-| ei        | нет        | Haluatko kahvia? — Ei, kiitos.         | Хочешь кофе? — Нет, спасибо.                |
-| ehkä      | может быть | Ehkä tulen huomenna.                   | Может быть, я приду завтра.                 |
-| myös      | тоже       | Minä asun myös täällä.                 | Я тоже здесь живу.                          |
-| vain      | только     | Minulla on vain yksi kysymys.          | У меня только один вопрос.                  |
-| vähän     | немного    | Puhun vain vähän suomea.               | Я говорю по-фински совсем немного.          |
-| paljon    | много      | Minulla on paljon kysymyksiä.          | У меня много вопросов.                      |
-| hitaasti  | медленно   | Voitko puhua hitaasti?                 | Можешь говорить медленно?                   |
-| uudelleen | ещё раз    | Voitko sanoa sen uudelleen?            | Можешь сказать это ещё раз?                 |
-| mutta     | но         | Ymmärrän, mutta en osaa vastata.       | Я понимаю, но не умею ответить.             |
-| koska     | потому что | Opiskelen suomea, koska asun Suomessa. | Я учу финский, потому что живу в Финляндии. |
+| Слово     | Перевод        | Пример                                 | Перевод примера                                |
+| --------- | -------------- | -------------------------------------- | ---------------------------------------------- |
+| kyllä     | yes            | Onko tämä sinun? — Kyllä.              | Is this yours? — Yes.                          |
+| ei        | no             | Haluatko kahvia? — Ei, kiitos.         | Would you like coffee? — No, thank you.        |
+| ehkä      | maybe          | Ehkä tulen huomenna.                   | Maybe I will come tomorrow.                    |
+| myös      | also, too      | Minä asun myös täällä.                 | I live here too.                               |
+| vain      | only           | Minulla on vain yksi kysymys.          | I have only one question.                      |
+| vähän     | a little       | Puhun vain vähän suomea.               | I speak only a little Finnish.                 |
+| paljon    | a lot of, many | Minulla on paljon kysymyksiä.          | I have a lot of questions.                     |
+| hitaasti  | slowly         | Voitko puhua hitaasti?                 | Can you speak slowly?                          |
+| uudelleen | again          | Voitko sanoa sen uudelleen?            | Can you say it again?                          |
+| mutta     | but            | Ymmärrän, mutta en osaa vastata.       | I understand, but I do not know how to answer. |
+| koska     | because        | Opiskelen suomea, koska asun Suomessa. | I study Finnish because I live in Finland.     |
 
-## Hyödylliset lauserakenteet — Полезные конструкции предложений {#poleznye-modeli}
+## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
 
-#### ★ Olen kotoisin + откуда — Я родом из… {#olen-kotoisin}
+#### ★ Olen kotoisin + place — I am from… {#country-of-origin}
 
 Форму страны запоминайте целиком: Suomesta, Virosta, Ukrainasta, Venäjältä.
 
-Olen kotoisin Suomesta. — Я родом из Финляндии.  
-Olen kotoisin Virosta. — Я родом из Эстонии.  
-Olen kotoisin Venäjältä. — Я родом из России.
+Olen kotoisin Suomesta. — I am from Finland.  
+Olen kotoisin Virosta. — I am from Estonia.  
+Olen kotoisin Venäjältä. — I am from Russia.
 
-#### ★ Asun + где — Я живу… {#asun}
+#### ★ Asun + place — I live in… {#place-of-residence}
 
 Для места проживания нужны разные окончания. Запоминайте сочетания: Suomessa, Helsingissä, Espoossa, Tampereella.
 
-Asun Suomessa. — Я живу в Финляндии.  
-Asun Helsingissä. — Я живу в Хельсинки.  
-Asun Tampereella. — Я живу в Тампере.
+Asun Suomessa. — I live in Finland.  
+Asun Helsingissä. — I live in Helsinki.  
+Asun Tampereella. — I live in Tampere.
 
-#### ★ Puhun + язык — Я говорю на… {#puhun}
+#### ★ Puhun + language — I speak… {#speaking-languages}
 
 Название языка пишется с маленькой буквы. После puhua оно стоит в partitiivi: suomea, venäjää, englantia, ruotsia.
 
-Puhun suomea. — Я говорю по-фински.  
-Puhun venäjää. — Я говорю по-русски.  
-Puhun englantia ja vähän ruotsia. — Я говорю по-английски и немного по-шведски.
+Puhun suomea. — I speak Finnish.  
+Puhun venäjää. — I speak Russian.  
+Puhun englantia ja vähän ruotsia. — I speak English and a little Swedish.
 
-#### ★ Osaan + инфинитив — Я умею… {#osaan}
+#### ★ Osaan + infinitive — I know how to… {#skills}
 
 Osata говорит об освоенном навыке. Следующий глагол остаётся в начальной форме.
 
-Osaan lukea suomea. — Я умею читать по-фински.  
-En osaa vastata tähän kysymykseen. — Я не знаю, как ответить на этот вопрос.
+Osaan lukea suomea. — I can read Finnish.  
+En osaa vastata tähän kysymykseen. — I do not know how to answer this question.
 
-#### ★ Voin + инфинитив — Я могу… {#voin}
+#### ★ Voin + infinitive — I can… {#possibilities}
 
 Voida говорит о возможности что-либо сделать в данной ситуации.
 
-Voin puhua nyt. — Сейчас я могу говорить.  
-En voi tulla huomenna. — Я не могу прийти завтра.
+Voin puhua nyt. — I can talk now.  
+En voi tulla huomenna. — I cannot come tomorrow.
 
-#### ★ Saanko + инфинитив? — Можно мне…? {#saanko}
+#### ★ Saanko + infinitive? — May I…? {#asking-permission}
 
 Так удобно просить разрешения. После saanko используйте начальную форму глагола.
 
-Saanko kysyä? — Можно спросить?  
-Saanko istua tähän? — Можно мне сюда сесть?
+Saanko kysyä? — May I ask a question?  
+Saanko istua tähän? — May I sit here?
 
-#### ★ Saan + что — Я получаю… {#saan}
+#### ★ Saan + what — I get… {#receiving-things}
 
-В этой конструкции saada означает «получать». Примеры показывают получение ответа или помощи.
+В этой конструкции saada означает «to get / receive». Примеры показывают получение ответа или помощи.
 
-Saan vastauksen huomenna. — Я получу ответ завтра.  
-Saan apua ystävältä. — Я получаю помощь от друга.
+Saan vastauksen huomenna. — I will get an answer tomorrow.  
+Saan apua ystävältä. — I get help from a friend.
 
 <!-- quizlet -->
 
-## Источники {#istochniki}
+## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и русские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
 
 - [Основные фразы](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/survival-finnish-basic-phrases)
 - [Osata, voida, saada](https://uusikielemme.fi/finnish-vocabulary/interesting-verbs/osata-voida-saada-finnish-verbs-difference)

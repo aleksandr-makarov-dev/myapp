@@ -2,139 +2,139 @@
 title: "Дом и быт"
 description: "Описать квартиру, обсудить аренду, распределить уборку и сообщить о бытовой поломке."
 template: finnish.html
-quizlet_url: ""
+quizlet_url: "https://quizlet.com/1228543765/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
-# 04. Дом и быт {#dom-i-byt}
+# 04. Дом и быт {#home-and-household}
 
 Описать квартиру, обсудить аренду, распределить уборку и сообщить о бытовой поломке.
 
 **55 слов и выражений · 18 глаголов · уровень A1–A2.**
 
-## Домашние дела {#domashnie-dela}
+## Домашние дела {#household-chores}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| asua | жить, проживать | Asun pienessä asunnossa. | Я живу в маленькой квартире. |
-| muuttaa | переезжать | Muutamme uuteen asuntoon. | Мы переезжаем в новую квартиру. |
-| vuokrata | снимать в аренду | Haluan vuokrata asunnon. | Я хочу снять квартиру. |
-| avata | открывать | Voitko avata ikkunan? | Можешь открыть окно? |
-| sulkea | закрывать | Sulje ovi, kiitos. | Закрой дверь, пожалуйста. |
-| laittaa | класть, ставить | Laitan avaimet pöydälle. | Я кладу ключи на стол. |
-| sytyttää | включать свет | Sytytän valon keittiöön. | Я включаю свет на кухне. |
-| sammuttaa | выключать | Sammuta valo, kiitos. | Выключи свет, пожалуйста. |
+| Слово     | Перевод            | Пример                    | Перевод примера                     |
+| --------- | ------------------ | ------------------------- | ----------------------------------- |
+| asua      | to live, reside    | Asun pienessä asunnossa.  | I live in a small flat.             |
+| muuttaa   | to move home       | Muutamme uuteen asuntoon. | We are moving to a new flat.        |
+| vuokrata  | to rent            | Haluan vuokrata asunnon.  | I want to rent a flat.              |
+| avata     | to open            | Voitko avata ikkunan?     | Can you open the window?            |
+| sulkea    | to close           | Sulje ovi, kiitos.        | Close the door, please.             |
+| laittaa   | to put             | Laitan avaimet pöydälle.  | I put the keys on the table.        |
+| sytyttää  | to turn on a light | Sytytän valon keittiöön.  | I turn on the light in the kitchen. |
+| sammuttaa | to turn off        | Sammuta valo, kiitos.     | Turn off the light, please.         |
 
-## Уборка и ремонт {#uborka-i-remont}
+## Уборка и ремонт {#cleaning-and-repairs}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| siivota | убирать | Siivoan asunnon lauantaina. | Я убираю квартиру в субботу. |
-| imuroida | пылесосить | Imuroin olohuoneen. | Я пылесошу гостиную. |
-| tiskata | мыть посуду | Tiskaan illalla. | Я мою посуду вечером. |
-| pestä | мыть, стирать | Pesen pyykkiä sunnuntaina. | Я стираю бельё в воскресенье. |
-| kuivata | сушить | Kuivaan astiat pyyhkeellä. | Я вытираю посуду полотенцем. |
-| pyyhkiä | вытирать | Pyyhin pöydän. | Я вытираю стол. |
-| kierrättää | сдавать на переработку | Kierrätän paperin ja lasin. | Я сдаю бумагу и стекло на переработку. |
-| korjata | чинить | Huoltomies korjaa hanan. | Работник техслужбы чинит кран. |
-| toimia | работать, функционировать | Pesukone ei toimi. | Стиральная машина не работает. |
-| viedä | относить, уносить | Vien roskat ulos. | Я выношу мусор. |
+| Слово      | Перевод                  | Пример                      | Перевод примера                              |
+| ---------- | ------------------------ | --------------------------- | -------------------------------------------- |
+| siivota    | to clean                 | Siivoan asunnon lauantaina. | I clean the flat on Saturday.                |
+| imuroida   | to vacuum                | Imuroin olohuoneen.         | I vacuum the living room.                    |
+| tiskata    | to wash the dishes       | Tiskaan illalla.            | I wash the dishes in the evening.            |
+| pestä      | to wash                  | Pesen pyykkiä sunnuntaina.  | I do the laundry on Sunday.                  |
+| kuivata    | to dry                   | Kuivaan astiat pyyhkeellä.  | I dry the dishes with a towel.               |
+| pyyhkiä    | to wipe                  | Pyyhin pöydän.              | I wipe the table.                            |
+| kierrättää | to recycle               | Kierrätän paperin ja lasin. | I recycle paper and glass.                   |
+| korjata    | to repair                | Huoltomies korjaa hanan.    | The maintenance worker is repairing the tap. |
+| toimia     | to work, function        | Pesukone ei toimi.          | The washing machine does not work.           |
+| viedä      | to take away, carry away | Vien roskat ulos.           | I take the rubbish out.                      |
 
-## Жильё и комнаты {#zhilyo-i-komnaty}
+## Жильё и комнаты {#housing-and-rooms}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| koti | дом, своё жильё | Olen kotona tänään. | Я сегодня дома. |
-| asunto | квартира, жильё | Etsin uutta asuntoa. | Я ищу новую квартиру. |
-| huone | комната | Tässä huoneessa on kaksi ikkunaa. | В этой комнате два окна. |
-| keittiö | кухня | Syömme keittiössä. | Мы едим на кухне. |
-| olohuone | гостиная | Lapset leikkivät olohuoneessa. | Дети играют в гостиной. |
-| makuuhuone | спальня | Makuuhuone on hiljainen. | Спальня тихая. |
-| kylpyhuone | ванная комната | Pesukone on kylpyhuoneessa. | Стиральная машина стоит в ванной. |
-| vessa | туалет | Missä täällä on vessa? | Где здесь туалет? |
-| ovi | дверь | Ovi on auki. | Дверь открыта. |
-| ikkuna | окно | Ikkuna on kiinni. | Окно закрыто. |
-| avain | ключ | En löydä avainta. | Я не могу найти ключ. |
-| kerros | этаж | Asun toisessa kerroksessa. | Я живу на втором этаже. |
+| Слово      | Перевод       | Пример                            | Перевод примера                              |
+| ---------- | ------------- | --------------------------------- | -------------------------------------------- |
+| koti       | home          | Olen kotona tänään.               | I am at home today.                          |
+| asunto     | flat, home    | Etsin uutta asuntoa.              | I am looking for a new flat.                 |
+| huone      | room          | Tässä huoneessa on kaksi ikkunaa. | This room has two windows.                   |
+| keittiö    | kitchen       | Syömme keittiössä.                | We eat in the kitchen.                       |
+| olohuone   | living room   | Lapset leikkivät olohuoneessa.    | The children are playing in the living room. |
+| makuuhuone | bedroom       | Makuuhuone on hiljainen.          | The bedroom is quiet.                        |
+| kylpyhuone | bathroom      | Pesukone on kylpyhuoneessa.       | The washing machine is in the bathroom.      |
+| vessa      | toilet        | Missä täällä on vessa?            | Where is the toilet here?                    |
+| ovi        | door          | Ovi on auki.                      | The door is open.                            |
+| ikkuna     | window        | Ikkuna on kiinni.                 | The window is closed.                        |
+| avain      | key           | En löydä avainta.                 | I cannot find the key.                       |
+| kerros     | floor, storey | Asun toisessa kerroksessa.        | I live on the second floor.                  |
 
-## Платежи и услуги {#platezhi-i-uslugi}
+## Платежи и услуги {#payments-and-services}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| vuokra | арендная плата | Vuokra on 700 euroa kuukaudessa. | Арендная плата — 700 евро в месяц. |
-| sähkö | электричество | Sähkö ei sisälly vuokraan. | Электричество не входит в арендную плату. |
-| vesi | вода | Hanasta ei tule vettä. | Из крана не течёт вода. |
-| huolto | техническое обслуживание | Soitan huoltoon, koska hana vuotaa. | Я звоню в техслужбу, потому что кран течёт. |
+| Слово  | Перевод             | Пример                              | Перевод примера                                      |
+| ------ | ------------------- | ----------------------------------- | ---------------------------------------------------- |
+| vuokra | rent                | Vuokra on 700 euroa kuukaudessa.    | The rent is 700 euros a month.                       |
+| sähkö  | electricity         | Sähkö ei sisälly vuokraan.          | Electricity is not included in the rent.             |
+| vesi   | water               | Hanasta ei tule vettä.              | No water is coming out of the tap.                   |
+| huolto | maintenance service | Soitan huoltoon, koska hana vuotaa. | I am calling maintenance because the tap is leaking. |
 
-## Вещи для дома {#veshchi-dlya-doma}
+## Вещи для дома {#household-items}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| pöytä | стол | Puhelin on pöydällä. | Телефон на столе. |
-| tuoli | стул | Tarvitsen vielä yhden tuolin. | Мне нужен ещё один стул. |
-| sänky | кровать | Sänky on ikkunan vieressä. | Кровать стоит рядом с окном. |
-| kaappi | шкаф | Pyyhkeet ovat kaapissa. | Полотенца в шкафу. |
-| jääkaappi | холодильник | Maito on jääkaapissa. | Молоко в холодильнике. |
-| pesukone | стиральная машина | Pesukone on rikki. | Стиральная машина сломана. |
-| roska | мусор, мусоринка | Laita roskat roskakoriin. | Положи мусор в мусорную корзину. |
-| hana | кран | Sulje hana käytön jälkeen. | Закрой кран после использования. |
-| pyyhe | полотенце | Tarvitsen puhtaan pyyhkeen. | Мне нужно чистое полотенце. |
+| Слово     | Перевод                  | Пример                        | Перевод примера                 |
+| --------- | ------------------------ | ----------------------------- | ------------------------------- |
+| pöytä     | table                    | Puhelin on pöydällä.          | The phone is on the table.      |
+| tuoli     | chair                    | Tarvitsen vielä yhden tuolin. | I need one more chair.          |
+| sänky     | bed                      | Sänky on ikkunan vieressä.    | The bed is next to the window.  |
+| kaappi    | cupboard                 | Pyyhkeet ovat kaapissa.       | The towels are in the cupboard. |
+| jääkaappi | fridge                   | Maito on jääkaapissa.         | The milk is in the fridge.      |
+| pesukone  | washing machine          | Pesukone on rikki.            | The washing machine is broken.  |
+| roska     | rubbish, piece of litter | Laita roskat roskakoriin.     | Put the rubbish in the bin.     |
+| hana      | tap                      | Sulje hana käytön jälkeen.    | Turn off the tap after use.     |
+| pyyhe     | towel                    | Tarvitsen puhtaan pyyhkeen.   | I need a clean towel.           |
 
-## Состояние и расположение {#sostoyanie-i-mesto}
+## Состояние и расположение {#condition-and-location}
 
-| Слово | Перевод | Пример | Перевод примера |
-| --- | --- | --- | --- |
-| pieni | маленький | Keittiö on pieni. | Кухня маленькая. |
-| iso | большой | Olohuone on iso. | Гостиная большая. |
-| uusi | новый | Tarvitsemme uuden pöydän. | Нам нужен новый стол. |
-| puhdas | чистый | Lattia on puhdas. | Пол чистый. |
-| likainen | грязный | Tämä pyyhe on likainen. | Это полотенце грязное. |
-| siisti | опрятный, прибранный | Asunto on siisti. | Квартира прибрана. |
-| rikki | сломан | Hissi on rikki. | Лифт сломан. |
-| auki | открыт | Onko ovi auki? | Дверь открыта? |
-| kiinni | закрыт | Pidä ikkuna kiinni. | Держи окно закрытым. |
-| sisällä | внутри, в помещении | Sisällä on lämmin. | В помещении тепло. |
-| ulkona | снаружи, на улице | Lapset ovat ulkona. | Дети на улице. |
-| ylhäällä | наверху | Makuuhuone on ylhäällä. | Спальня наверху. |
+| Слово    | Перевод            | Пример                    | Перевод примера           |
+| -------- | ------------------ | ------------------------- | ------------------------- |
+| pieni    | small              | Keittiö on pieni.         | The kitchen is small.     |
+| iso      | big                | Olohuone on iso.          | The living room is big.   |
+| uusi     | new                | Tarvitsemme uuden pöydän. | We need a new table.      |
+| puhdas   | clean              | Lattia on puhdas.         | The floor is clean.       |
+| likainen | dirty              | Tämä pyyhe on likainen.   | This towel is dirty.      |
+| siisti   | tidy               | Asunto on siisti.         | The flat is tidy.         |
+| rikki    | broken             | Hissi on rikki.           | The lift is broken.       |
+| auki     | open               | Onko ovi auki?            | Is the door open?         |
+| kiinni   | closed             | Pidä ikkuna kiinni.       | Keep the window closed.   |
+| sisällä  | inside, indoors    | Sisällä on lämmin.        | It is warm inside.        |
+| ulkona   | outside, outdoors  | Lapset ovat ulkona.       | The children are outside. |
+| ylhäällä | upstairs, up above | Makuuhuone on ylhäällä.   | The bedroom is upstairs.  |
 
-## Hyödylliset lauserakenteet — Полезные конструкции предложений {#poleznye-modeli}
+## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
 
-#### ★ Olen kotona / Menen kotiin — Я дома / Я иду домой {#kotona-ja-kotiin}
+#### ★ Olen kotona / Menen kotiin — I am at home / I am going home {#being-at-home-and-going-home}
 
-Kotona отвечает на вопрос «где?», kotiin на вопрос «куда?». Эти формы удобно выучить целиком.
+Kotona отвечает на вопрос «where?», kotiin на вопрос «where to?». Эти формы удобно выучить целиком.
 
-Olen kotona tänään. — Я сегодня дома.  
-Menen kotiin työn jälkeen. — Я иду домой после работы.  
-Lapset tulevat kotiin kolmelta. — Дети приходят домой в три.
+Olen kotona tänään. — I am at home today.  
+Menen kotiin työn jälkeen. — I go home after work.  
+Lapset tulevat kotiin kolmelta. — The children come home at three.
 
-#### ★ Laitan + что + куда — Я кладу… {#laitan}
+#### ★ Laitan + what + where to — I put… {#putting-things-away}
 
 Для места назначения нужны разные окончания: pöydälle, kaappiin, jääkaappiin. Учите предмет вместе с местом, куда вы его кладёте.
 
-Laitan avaimet pöydälle. — Я кладу ключи на стол.  
-Laitan pyyhkeen kaappiin. — Я кладу полотенце в шкаф.  
-Laitan maidon jääkaappiin. — Я ставлю молоко в холодильник.
+Laitan avaimet pöydälle. — I put the keys on the table.  
+Laitan pyyhkeen kaappiin. — I put the towel in the cupboard.  
+Laitan maidon jääkaappiin. — I put the milk in the fridge.
 
-#### ★ Что-то on auki / on kiinni — Открыто / закрыто {#auki-ja-kiinni}
+#### ★ Something on auki / on kiinni — Is open / is closed {#open-and-closed}
 
 Auki и kiinni не меняют форму. Для нескольких предметов меняется только глагол: on → ovat.
 
-Ovi on auki. — Дверь открыта.  
-Ikkuna on kiinni. — Окно закрыто.  
-Ikkunat ovat kiinni. — Окна закрыты.
+Ovi on auki. — The door is open.  
+Ikkuna on kiinni. — The window is closed.  
+Ikkunat ovat kiinni. — The windows are closed.
 
-#### ★ Что-то ei toimi / on rikki — Не работает / сломано {#ei-toimi-ja-rikki}
+#### ★ Something ei toimi / on rikki — Does not work / is broken {#not-working-and-broken}
 
-Ei toimi сообщает, что устройство не работает. On rikki прямо указывает на поломку. Эти фразы пригодятся при обращении в техслужбу.
+Ei toimi означает «does not work», on rikki «is broken». Эти фразы пригодятся при обращении в техслужбу.
 
-Pesukone ei toimi. — Стиральная машина не работает.  
-Hissi on rikki. — Лифт сломан.  
-Hana on rikki. — Кран сломан.
+Pesukone ei toimi. — The washing machine does not work.  
+Hissi on rikki. — The lift is broken.  
+Hana on rikki. — The tap is broken.
 
 <!-- quizlet -->
 
-## Источники {#istochniki}
+## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и русские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
 
 - [Комнаты и мебель](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/rooms-and-furniture-huoneet-ja-huonekalut)
 - [Уборка](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/cleaning-siivoaminen-finnish-vocabulary)
