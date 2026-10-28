@@ -1,0 +1,33 @@
+/* More room for vocabulary tables on large screens. */
+.md-grid {
+  max-width: 70rem;
+}
+
+/* Every table fills the article; wide vocabulary tables keep native scrolling. */
+.md-typeset__table {
+  display: block;
+}
+
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+}
+
+.md-typeset table:not([class]):has(th:nth-child(4)) {
+  table-layout: fixed;
+  min-width: 36rem;
+}
+
+.md-typeset table:not([class]):has(th:nth-child(4)) th:nth-child(1) {
+  width: 18%;
+}
+
+.md-typeset table:not([class]):has(th:nth-child(4)) th:nth-child(2) {
+  width: 22%;
+}
+
+.md-typeset table:not([class]):has(th:nth-child(4)) th:nth-child(3),
+.md-typeset table:not([class]):has(th:nth-child(4)) th:nth-child(4) {
+  width: 30%;
+}
+
