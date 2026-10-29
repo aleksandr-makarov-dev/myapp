@@ -35,7 +35,7 @@ nav = [
     { "20. Безопасность и помощь" = "finnish/20-safety.md" },
   ] },
   { "Грамматика" = [
-    { "Как выбрать время" = "grammar/choosing-tenses.md" },
+    { "Времена глагола" = "grammar/choosing-tenses.md" },
   ] },
 ]
 

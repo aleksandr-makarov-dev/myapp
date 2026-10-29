@@ -1,200 +1,258 @@
 ---
-title: "Как выбрать время"
-description: "Preesens, imperfekti, perfekti и pluskvamperfekti: цветные схемы, правила выбора времени и примеры по видеоконспекту."
+title: "Времена глагола"
+description: "Справочник по временам финского глагола: выбор времени, образование форм, отрицание, вопросы и примеры с переводом."
 ---
 
-# Как выбрать время в финском {#choosing-tenses}
+# Времена финского глагола {#choosing-tenses}
 
-Конспект по видео Варвары [«Финские времена за 20 минут»](https://www.youtube.com/watch?v=K2NGCBXDbcg) и присланным схемам. Объяснения даны по-русски, переводы финских примеров на английском. На любую схему можно нажать, чтобы открыть её в отдельной вкладке.
+Здесь собраны правила выбора четырёх времён: **preesens, imperfekti, perfekti, pluskvamperfekti**. Сначала сравните их в таблице, затем переходите к нужному разделу. Объяснения даны по-русски, переводы примеров на английском.
 
-На шкале **menneisyys** означает past, **nykyhetki** — the present moment, **tulevaisuus** — future. Красный цвет показывает прошлое, оранжевый обозначает сейчас, жёлтый будущее. Голубая стрелка preesens охватывает настоящее и будущее, а градиент perfekti показывает связь прошлого с настоящим.
+## Preesens: настоящее и будущее {#present}
 
-## Preesens: сейчас и в будущем {#present}
+### Когда использовать {#present-use}
 
-[Фрагмент видео: 05:19–06:57](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=319s).
+Preesens описывает то, что происходит сейчас, повторяется или планируется на будущее. Отдельной обычной формы будущего времени в финском нет. Значение помогают определить слова **nyt** (now), **huomenna** (tomorrow), **ensi vuonna** (next year) и контекст.
 
-[![Схема 1. Preesens: одинаковая форма asun для настоящего и будущего; omenaa и omenan показывают процесс и полный результат.](../assets/grammar/video-tenses/01-present.svg)](../assets/grammar/video-tenses/01-present.svg){ target="_blank" rel="noopener" }
+[![Preesens: одна и та же форма asun для настоящего и будущего.](../assets/grammar/video-tenses/01-present.svg)](../assets/grammar/video-tenses/01-present.svg){ target="\_blank" rel="noopener" }
 
-В обычном финском нет отдельной личной формы будущего времени. **Asun** подходит и для «живу», и для «буду жить». Время становится понятным по словам nyt, huomenna, ensi vuonna или из разговора.
-
-| Финский | English |
-| --- | --- |
-| Asun nyt Suomessa. | I live in Finland now. |
+| Финский                    | English                           |
+| -------------------------- | --------------------------------- |
+| Asun nyt Suomessa.         | I live in Finland now.            |
 | Asun ensi vuonna Suomessa. | I will live in Finland next year. |
-| Syön omenaa. | I am eating an apple. |
-| Syön omenan. | I will eat the whole apple. |
+| Käyn kaupassa joka päivä.  | I go to the shop every day.       |
 
-В двух последних примерах **syön** остаётся в preesens. **Omenaa** в partitiivi показывает процесс или неограниченное количество; **omenan** в этой конструкции представляет яблоко как целый объект, который будет съеден полностью.
+### Как образовать {#present-forms}
 
-Падеж дополнения помогает понять характер действия, но сам по себе не определяет настоящее или будущее. Например, **Huomenna syön omenaa välipalaksi.** — Tomorrow I will have some apple as a snack. Здесь partitiivi сочетается с будущим благодаря huomenna.
+| Verbityyppi | Sana                                    | Positiivinen       | Negatiivinen         |
+| ----------- | --------------------------------------- | ------------------ | -------------------- |
+| 1           | katsoa ⇒ katso- ⇒ katso**n**            | minä katso**n**    | minä **en** katso    |
+| 2           | syödä ⇒ syö- ⇒ syö**n**                 | minä syö**n**      | sinä **et** syö      |
+| 3           | mennä ⇒ men**e**- ⇒ mene**n**           | minä men**en**     | hän **ei** mene      |
+| 4           | haluta ⇒ halu**a**- ⇒ halua**n**        | minä halu**an**    | me **emme** halua    |
+| 5           | tarvita ⇒ tarvi**tse**- ⇒ tarvitse**n** | minä tarvi**tsen** | te **ette** tarvitse |
+| 6           | tarjeta ⇒ tarke**ne**- ⇒ tarkene**n**   | minä tarke**nen**  | he **eivät** tarkene |
 
-## Imperfekti: рассказ о прошлом {#imperfect}
+## Imperfekti: события в прошлом {#imperfect}
 
-[Фрагмент видео: 06:57–09:30](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=417s).
+### Когда использовать {#imperfect-use}
 
-[![Схема 2. Imperfekti: asuin и söin; отрицание en asunut в сравнении с en asu в preesens.](../assets/grammar/video-tenses/02-past.svg)](../assets/grammar/video-tenses/02-past.svg){ target="_blank" rel="noopener" }
+Выбирайте imperfekti, когда рассказываете о прошлом событии или периоде. Время часто уточняют словами **eilen** (yesterday), **viime vuonna** (last year). Оно также может быть понятно из предыдущих фраз.
 
-Imperfekti используют, когда рассказывают о событиях и ситуациях прошлого. Часто есть eilen, viime vuonna или другой указатель времени. Он может быть назван раньше и не повторяться в каждом предложении.
+[![Imperfekti: событие относится к прошлому; asuin и en asunut.](../assets/grammar/video-tenses/02-past.svg)](../assets/grammar/video-tenses/02-past.svg){ target="\_blank" rel="noopener" }
 
-| Финский | English |
-| --- | --- |
-| Asuin viime vuonna Suomessa. | I lived in Finland last year. |
-| Söin omenan. | I ate the whole apple. |
+| Финский                       | English                                    |
+| ----------------------------- | ------------------------------------------ |
+| Asuin Suomessa viime vuonna.  | I lived in Finland last year.              |
+| Söin aamulla.                 | I ate in the morning.                      |
 | Söin omenaa, kun puhelin soi. | I was eating an apple when the phone rang. |
 
-Последний пример тоже стоит в imperfekti: это процесс в прошлом, без сообщения о полном результате. Поэтому imperfekti не означает автоматически «довёл действие до конца».
+Imperfekti не означает автоматически, что действие доведено до результата. В последнем примере человек ел яблоко; предложение не сообщает, что он съел его целиком.
 
-### Утверждение и отрицание {#imperfect-negative}
+### Как образовать {#imperfect-forms}
 
-В утвердительных формах часто виден показатель -i-: **asun → asuin**. Основа может измениться: **syödä → söin**.
+| Sääntö     | Sana    | Positivinen                          | Negativinen       |
+| ---------- | ------- | ------------------------------------ | ----------------- |
+| o, ö, u, y | sanoa   | minä san**o**- minä sano**i**n       | minä en sanonut   |
+| a, ä, e, i | odottaa | minä odot**a**- minä odot**i**n      | minä ei sanonut   |
+| a--a       | laula   | minä l**a**ul**a**- minä laul**oi**n | hän ei sanonut    |
+| VV         | juoda   | minä j**uo**- minä j**oi**n          | me emme saoneet   |
+| VT 4 + 1   | herätää | minä **herää**- minä herä**si**n     | te ette sanoneet  |
+|            |         |                                      | he eivät sanoneet |
 
-В отрицании используется **отрицательный глагол + причастие прошедшего времени**. К форме en нельзя просто добавить основу с -i-.
+## Perfekti: связь с настоящим {#perfect}
 
-| Время | Утверждение | Отрицание |
-| --- | --- | --- |
-| Preesens | asun | en asu |
-| Imperfekti | asuin | en asunut |
-| Imperfekti, me | asuimme | emme asuneet |
+### Когда использовать и как образовать {#perfect-forms}
 
-En, et, ei, emme, ette, eivät меняются по лицу. Причастие в единственном числе: **asunut**, во множественном: **asuneet**. У других глаголов встречаются формы **syönyt, tullut, mennyt, purrut, noussut**: окончание не всегда выглядит буквально как -nut.
+**Perfekti** показывает действие, которое произошло в прошлом, но связано с настоящим: важен его результат, полученный опыт или то, что действие продолжается до сих пор. Точное время обычно не указывается.
 
-## Perfekti: связь прошлого с настоящим {#perfect}
+| Verbityyppi | Sana                                                                                   | Positiivinen                                                                                                  | Negatiivinen                                                                                                          |
+| ----------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 1           | sanoa ⇒ sano**nut**<br>kysyä ⇒ kysy**nyt**                                             | minä **olen** sano**nut**<br>minä **olen** kysy**nyt**                                                        | minä **en ole** sano**nut**<br>minä **en ole** kysy**nyt**                                                            |
+| 2           | juoda ⇒ juo**nut**<br>syödä ⇒ syö**nyt**                                               | minä **olen** juo**nut**<br>minä **olen** syö**nyt**                                                          | minä **en ole** juo**nut**<br>minä **en ole** syö**nyt**                                                              |
+| 3           | mennä ⇒ men**nyt**<br>tulla ⇒ tul**lut**<br>purra ⇒ pur**rut**<br>nousta ⇒ nous**sut** | minä **olen** me**nnyt**<br>minä **olen** tu**llut**<br>minä **olen** pu**rrut**<br>minä **olen** nou**ssut** | minä **en ole** me**nnyt**<br>minä **en ole** tu**llut**<br>minä **en ole** pu**rrut**<br>minä **en ole** nou**ssut** |
+| 4           | haluta ⇒ halu**nnut**<br>herätä ⇒ herä**nnyt**                                         | minä **olen** halu**nnut**<br>minä **olen** herä**nnyt**                                                      | minä **en ole** halu**nnut**<br>minä **en ole** herä**nnyt**                                                          |
+| 5           | tarvita ⇒ tarvi**nnut**<br>häiritä ⇒ häiri**nnyt**                                     | minä **olen** tarvi**nnut**<br>minä **olen** häiri**nnyt**                                                    | minä **en ole** tarvi**nnut**<br>minä **en ole** häiri**nnyt**                                                        |
+| 6           | tarjeta ⇒ tarje**nnut**<br>lyhetä ⇒ lyhe**nnyt**                                       | minä **olen** tarje**nnut**<br>minä **olen** lyhe**nnyt**                                                     | minä **en ole** tarje**nnut**<br>minä **en ole** lyhe**nnyt**                                                         |
 
-**Olla в preesens + причастие прошедшего времени:** olen asunut, olet asunut, on asunut. Для множественного числа: olemme asuneet, olette asuneet, ovat asuneet. В отрицании: en ole asunut, emme ole asuneet.
+| Лицо | Positiivinen               | Negatiivinen                  |
+| ---- | -------------------------- | ----------------------------- |
+| minä | minä **olen** sano**nut**  | minä **en ole** sano**nut**   |
+| sinä | sinä **olet** sano**nut**  | sinä **et ole** sano**nut**   |
+| hän  | hän **on** sano**nut**     | hän **ei ole** sano**nut**    |
+| me   | me **olemme** sano**neet** | me **emme ole** sano**neet**  |
+| te   | te **olette** sano**neet** | te **ette ole** sano**neet**  |
+| he   | he **ovat** sano**neet**   | he **eivät ole** sano**neet** |
 
-Для запоминания можно мысленно разобрать **olen syönyt** как «я есть поевший»: вспомогательный глагол задаёт точку отсчёта, а причастие называет предшествующее действие.
+### Началось раньше и продолжается {#perfect-continuing}
 
-В видео разбираются четыре ситуации, в которых полезно выбрать perfekti.
+Действие или состояние началось в прошлом и сохраняется сейчас. В примере с asua человек по-прежнему живёт в Финляндии.
 
-### 1. Началось раньше и продолжается сейчас {#perfect-continuing}
+[![Perfekti: проживание началось раньше и продолжается в настоящий момент.](../assets/grammar/video-tenses/03-perfect-duration.svg)](../assets/grammar/video-tenses/03-perfect-duration.svg){ target="\_blank" rel="noopener" }
 
-[Фрагмент видео: 09:34–12:18](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=574s).
-
-[![Схема 3. Продолжающаяся ситуация: olen asunut Suomessa 3 vuotta; отсутствие действия за период: en ole syönyt sokeria kolmeen päivään.](../assets/grammar/video-tenses/03-perfect-duration.svg)](../assets/grammar/video-tenses/03-perfect-duration.svg){ target="_blank" rel="noopener" }
-
-**Olen asunut Suomessa kolme vuotta** описывает проживание, которое началось три года назад и продолжается сейчас. Русское настоящее «живу три года» здесь соответствует финскому perfekti.
-
-| Финский | English |
-| --- | --- |
+| Финский                            | English                                  |
+| ---------------------------------- | ---------------------------------------- |
 | Olen asunut Suomessa kolme vuotta. | I have lived in Finland for three years. |
-| En ole syönyt sokeria kolmeen päivään. | I have not eaten sugar for three days. |
+| Asuin Suomessa kolme vuotta.       | I lived in Finland for three years.      |
+
+Вторая фраза стоит в imperfekti и описывает прошлый период проживания, который уже закончился.
+
+#### Как давно действие не происходило {#negative-duration}
+
+| Финский                                 | English                                     |
+| --------------------------------------- | ------------------------------------------- |
+| En ole syönyt sokeria kolmeen päivään.  | I have not eaten sugar for three days.      |
 | En ole käynyt Suomessa kolmeen vuoteen. | I have not visited Finland for three years. |
 
-В **kolme vuotta** числительное стоит в основной форме, а существительное после него в partitiivi. Конструкция **kolmeen päivään / kolmeen vuoteen** выражает период, за который действие не происходило: и числительное, и существительное стоят в illatiivi.
+**Kolme vuotta** выражает обычную продолжительность: числительное в основной форме, существительное в partitiivi. **Kolmeen päivään / kolmeen vuoteen** выражает интервал отсутствия действия; оба слова стоят в illatiivi.
 
-Это правило относится именно к такому интервалу отсутствия действия. При обычном отрицании указатель времени не обязательно меняет форму: **En käynyt siellä viime vuonna.** — I did not go there last year. [Подробнее о временных выражениях](https://uusikielemme.fi/finnish-grammar/finnish-cases/interesting-inflection/expressions-of-time-ajanilmaukset).
+Это относится именно к такому интервалу. Слова вроде viime vuonna при отрицании остаются без изменений: **En käynyt siellä viime vuonna.** — I did not go there last year.
 
-### 2. Жизненный опыт {#perfect-experience}
+### Жизненный опыт {#perfect-experience}
 
-[Фрагмент видео: 12:18–13:14](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=738s).
+Perfekti помогает сообщить, что вы уже делали или пока не делали что-либо. Главное здесь сам опыт к настоящему моменту. Для конкретного случая с указанием прошлого периода обычно выбирают imperfekti.
 
-[![Схема 4. Perfekti для опыта: прочитал книгу, бывал в Норвегии, пробовал авокадо.](../assets/grammar/video-tenses/04-perfect-experience.svg)](../assets/grammar/video-tenses/04-perfect-experience.svg){ target="_blank" rel="noopener" }
+[![Perfekti для жизненного опыта: события прошлого рассматриваются из настоящего.](../assets/grammar/video-tenses/04-perfect-experience.svg)](../assets/grammar/video-tenses/04-perfect-experience.svg){ target="\_blank" rel="noopener" }
 
-Perfekti помогает сказать, что вы что-то уже делали или пока не делали. В центре внимания сам опыт. Для рассказа об отдельном случае с указанием прошлого периода обычно выбирают imperfekti.
+| Финский                         | English                      |
+| ------------------------------- | ---------------------------- |
+| Olen käynyt Norjassa.           | I have been to Norway.       |
+| En ole koskaan käynyt Norjassa. | I have never been to Norway. |
+| Olen lukenut tämän kirjan.      | I have read this book.       |
+| En ole lukenut tätä kirjaa.     | I have not read this book.   |
+| Olen syönyt avokadoa.           | I have eaten avocado.        |
 
-| Финский | English |
-| --- | --- |
-| Olen lukenut tämän kirjan. | I have read this book. |
-| En ole lukenut tätä kirjaa. | I have not read this book. |
-| Olen käynyt Norjassa. | I have been to Norway. |
-| En ole käynyt Norjassa. | I have not been to Norway. |
-| Olen syönyt avokadoa. | I have eaten avocado. |
-| En ole koskaan syönyt avokadoa. | I have never eaten avocado. |
+**Koskaan** в таком отрицательном предложении соответствует never. Формы kirjan и kirjaa разобраны в [разделе об объекте](#objects).
 
-В отрицании объект **tämän kirjan** меняется на **tätä kirjaa**, то есть получает partitiivi. Это не правило для всех существительных предложения: место **Norjassa** остаётся в прежней форме.
+### Результат важен сейчас {#perfect-result}
 
-### 3. Результат важен сейчас {#perfect-result}
+Выбирайте perfekti, если хотите связать прошлое событие с текущей ситуацией. Например, в ответ на предложение поесть фраза olen jo syönyt объясняет, почему вы сейчас не хотите есть.
 
-[Фрагмент видео: 13:17–14:13](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=797s).
+[![Söin сообщает о прошлом событии; olen jo syönyt подчёркивает результат к настоящему моменту.](../assets/grammar/video-tenses/05-perfect-result.svg)](../assets/grammar/video-tenses/05-perfect-result.svg){ target="\_blank" rel="noopener" }
 
-[![Схема 5. Söin сообщает о прошлом; olen syönyt подчёркивает актуальный результат: я уже поел.](../assets/grammar/video-tenses/05-perfect-result.svg)](../assets/grammar/video-tenses/05-perfect-result.svg){ target="_blank" rel="noopener" }
-
-Если вас приглашают поесть, **olen jo syönyt** может объяснять, почему вы сейчас не голодны. Говорящий связывает прошлую еду с нынешней ситуацией.
-
-| Финский | English |
-| --- | --- |
-| Söin aamulla. | I ate in the morning. |
-| Olen jo syönyt. | I have already eaten. |
+| Финский                               | English                                            |
+| ------------------------------------- | -------------------------------------------------- |
+| Söin aamulla.                         | I ate in the morning.                              |
+| Olen jo syönyt.                       | I have already eaten.                              |
+| En ole vielä syönyt.                  | I have not eaten yet.                              |
 | En halua syödä, koska olen jo syönyt. | I do not want to eat because I have already eaten. |
 
-Imperfekti тоже может описывать событие с последствиями. Выбор perfekti показывает, что говорящий специально связывает прошлое с текущей ситуацией. Слова jo и vielä помогают: **jo** — already; **ei vielä** — not yet.
+**Jo** означает already, **ei vielä** — not yet. Imperfekti тоже может описывать событие с последствиями; perfekti делает связь с настоящим частью сообщения.
 
-### 4. Завершение перед будущим действием {#perfect-future}
+### Сначала завершить, потом сделать другое {#perfect-future}
 
-[Фрагмент видео: 14:16–15:13](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=856s).
+В предложении с **kun** (when) perfekti может показывать, что первое действие будет завершено к моменту следующего будущего действия. В главной части стоит preesens со значением будущего.
 
-[![Схема 6. Preesens и kun + perfekti: поиграю после того, как закончу домашнее задание.](../assets/grammar/video-tenses/06-perfect-future.svg)](../assets/grammar/video-tenses/06-perfect-future.svg){ target="_blank" rel="noopener" }
+[![Сначала будут выполнены домашние задания, затем начнётся игра: kun + perfekti и preesens.](../assets/grammar/video-tenses/06-perfect-future.svg)](../assets/grammar/video-tenses/06-perfect-future.svg){ target="\_blank" rel="noopener" }
 
-В главной части стоит preesens со значением будущего, а после **kun** используется perfekti. Так подчёркивают: первое действие будет завершено к моменту следующего.
-
-| Финский | English |
-| --- | --- |
+| Финский                                              | English                                                |
+| ---------------------------------------------------- | ------------------------------------------------------ |
 | Pelaan sinun kanssasi, kun olen tehnyt kotitehtävät. | I will play with you when I have finished my homework. |
-| Teen kotitehtävät ja sitten pelaan sinun kanssasi. | I will do my homework and then play with you. |
+| Teen kotitehtävät ja sitten pelaan sinun kanssasi.   | I will do my homework and then play with you.          |
 
-В первом предложении **olen tehnyt** относится к будущему моменту игры: к тому времени домашнее задание будет сделано. Во втором действия просто перечислены по порядку.
+В первом предложении к моменту игры домашнее задание будет сделано. Во втором действия перечислены по порядку; **sitten** означает then.
 
-**Kun** здесь означает «когда» и выражает временную связь. Бытовой смысл «сначала домашка, потом игра» возможен, но грамматически это не обязательное условие с «если». Для «если» обычно нужен **jos**. [О временном союзе kun](https://kielikello.fi/sita-mukaa-kun-vai-sita-mukaa-kuin/).
+**Kun** здесь выражает время: «когда». Смысл «сначала домашка, потом игра» возможен, но это не грамматическое условие с «если»; для «если» обычно нужен **jos** (if).
 
-## Pluskvamperfekti: раньше другого прошлого {#pluperfect}
+## Pluskvamperfekti: прошлое до прошлого {#pluperfect}
 
-[Фрагмент видео: 15:14–16:25](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=914s).
+### Когда использовать и как образовать {#pluperfect-forms}
 
-[![Схема 7. Сравнение вспомогательного глагола: olen asunut и olen syönyt в perfekti; olin asunut и olin syönyt в pluskvamperfekti.](../assets/grammar/video-tenses/07-pluperfect.svg)](../assets/grammar/video-tenses/07-pluperfect.svg){ target="_blank" rel="noopener" }
+Выберите момент в прошлом. Pluskvamperfekti показывает действие, которое произошло ещё раньше этого момента.
 
-В pluskvamperfekti точкой отсчёта служит момент в прошлом. Другое действие произошло ещё раньше.
+| Verbityyppi | Sana                                                                                   | Positiivinen                                                                                                  | Negatiivinen                                                                                                                  |
+| ----------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 1           | sanoa ⇒ sano**nut**<br>kysyä ⇒ kysy**nyt**                                             | minä **olin** sano**nut**<br>minä **olin** kysy**nyt**                                                        | minä **en ollut** sano**nut**<br>minä **en ollut** kysy**nyt**                                                                |
+| 2           | juoda ⇒ juo**nut**<br>syödä ⇒ syö**nyt**                                               | minä **olin** juo**nut**<br>minä **olin** syö**nyt**                                                          | minä **en ollut** juo**nut**<br>minä **en ollut** syö**nyt**                                                                  |
+| 3           | mennä ⇒ me**nnyt**<br>tulla ⇒ tu**llut**<br>purra ⇒ pu**rrut**<br>nousta ⇒ nou**ssut** | minä **olin** me**nnyt**<br>minä **olin** tu**llut**<br>minä **olin** pu**rrut**<br>minä **olin** nou**ssut** | minä **en ollut** me**nnyt**<br>minä **en ollut** tu**llut**<br>minä **en ollut** pu**rrut**<br>minä **en ollut** nou**ssut** |
+| 4           | haluta ⇒ halu**nnut**<br>herätä ⇒ herä**nnyt**                                         | minä **olin** halu**nnut**<br>minä **olin** herä**nnyt**                                                      | minä **en ollut** halu**nnut**<br>minä **en ollut** herä**nnyt**                                                              |
+| 5           | tarvita ⇒ tarvi**nnut**<br>häiritä ⇒ häiri**nnyt**                                     | minä **olin** tarvi**nnut**<br>minä **olin** häiri**nnyt**                                                    | minä **en ollut** tarvi**nnut**<br>minä **en ollut** häiri**nnyt**                                                            |
+| 6           | tarjeta ⇒ tarje**nnut**<br>lyhetä ⇒ lyhe**nnyt**                                       | minä **olin** tarje**nnut**<br>minä **olin** lyhe**nnyt**                                                     | minä **en ollut** tarje**nnut**<br>minä **en ollut** lyhe**nnyt**                                                             |
 
-Образование: **olla в imperfekti + то же причастие прошедшего времени**. Меняется вспомогательный глагол, apuverbi.
+| Лицо | Positiivinen           | Negatiivinen                 |
+| ---- | ---------------------- | ---------------------------- |
+| minä | minä **olin** sanonut  | minä **en ollut** sanonut    |
+| sinä | sinä **olit** sanonut  | sinä **et ollut** sanonut    |
+| hän  | hän **oli** sanonut    | hän **ei ollut** sanonut     |
+| me   | me **olimme** sanoneet | me **emme olleet** sanoneet  |
+| te   | te **olitte** sanoneet | te **ette olleet** sanoneet  |
+| he   | he **olivat** sanoneet | he **eivät olleet** sanoneet |
 
-| Время | Asua | Syödä |
-| --- | --- | --- |
-| Perfekti | olen asunut | olen syönyt |
-| Pluskvamperfekti | olin asunut | olin syönyt |
+### Порядок событий в прошлом {#past-sequence}
 
-Для остальных лиц: **olit, oli, olimme, olitte, olivat**. Во множественном числе причастие тоже множественное: **olimme asuneet**. Отрицательные формы: **en ollut asunut**, **emme olleet asuneet**.
+[![Сначала завершение заданий, затем уход домой; pluskvamperfekti помещает первое действие раньше второго.](../assets/grammar/video-tenses/08-sequence.svg)](../assets/grammar/video-tenses/08-sequence.svg){ target="\_blank" rel="noopener" }
 
-### Сначала сделал, затем ушёл {#past-sequence}
+| Финский                                             | English                                     |
+| --------------------------------------------------- | ------------------------------------------- |
+| Minä tein tehtävät loppuun ja sitten lähdin kotiin. | I finished the tasks and then went home.    |
+| Kun olin tehnyt tehtävät loppuun, lähdin kotiin.    | When I had finished the tasks, I went home. |
 
-[Фрагмент видео: 16:27–17:38](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=987s).
+Два imperfekti в первой фразе рассказывают о событиях по порядку. Во второй **olin tehnyt** прямо указывает на более раннее действие. Pluskvamperfekti показывает предшествование, но само по себе не означает, что второе событие без первого было бы невозможно.
 
-[![Схема 8. Tein и lähdin перечисляют прошлые события; olin tehnyt показывает действие, предшествовавшее уходу.](../assets/grammar/video-tenses/08-sequence.svg)](../assets/grammar/video-tenses/08-sequence.svg){ target="_blank" rel="noopener" }
+### Одновременно или раньше {#dog-example}
 
-| Финский | English |
-| --- | --- |
-| Minä tein tehtävät loppuun ja sitten lähdin kotiin. | I finished the tasks and then went home. |
-| Kun olin tehnyt tehtävät loppuun, lähdin kotiin. | When I had finished the tasks, I went home. |
+[![Собака ест обувь в момент прихода или уже съела её до прихода: söi kenkiäni и oli jo syönyt kenkäni.](../assets/grammar/video-tenses/09-dog.svg)](../assets/grammar/video-tenses/09-dog.svg){ target="\_blank" rel="noopener" }
 
-В первом предложении два imperfekti рассказывают о последовательных событиях. Во втором **olin tehnyt** явно помещает завершение заданий раньше **lähdin**. Pluskvamperfekti показывает предшествование; само по себе оно не сообщает, что без первого события второе было бы невозможно.
-
-### Собака ела или уже съела? {#dog-example}
-
-[Фрагмент видео: 17:49–18:43](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=1069s).
-
-[![Схема 9. При возвращении собака ела обувь: söi kenkiäni; до возвращения собака уже съела обувь: oli jo syönyt kenkäni.](../assets/grammar/video-tenses/09-dog.svg)](../assets/grammar/video-tenses/09-dog.svg){ target="_blank" rel="noopener" }
-
-| Финский | English |
-| --- | --- |
-| Kun tulin kotiin, koira söi kenkiäni. | When I came home, the dog was eating my shoes. |
+| Финский                                        | English                                               |
+| ---------------------------------------------- | ----------------------------------------------------- |
+| Kun tulin kotiin, koira söi kenkiäni.          | When I came home, the dog was eating my shoes.        |
 | Kun tulin kotiin, koira oli jo syönyt kenkäni. | When I came home, the dog had already eaten my shoes. |
 
-В первом примере действие собаки показано в процессе в момент возвращения. **Kenkiäni** стоит в partitiivi. Во втором действие собаки предшествует возвращению; **jo** и полный объект **kenkäni** дополнительно подчёркивают результат.
+В первом примере собака показана в процессе еды в момент возвращения. Во втором она съела обувь до возвращения. Контраст усиливают **partitiivi kenkiäni** и **полный объект kenkäni**.
 
-Различие создаётся временем, контекстом и формой объекта вместе. Два imperfekti не всегда означают одновременность: в предыдущем примере **tein ... ja sitten lähdin** события идут друг за другом.
+Два imperfekti не всегда означают одновременность: **tein ... ja sitten lähdin** выше описывает последовательность. Смотрите на союз, объект и весь контекст.
 
-## Краткая памятка {#quick-reference}
+## Что показывает форма объекта {#objects}
 
-| Что хотите выразить | Время | Пример |
-| --- | --- | --- |
-| Сейчас или план на будущее | Preesens | asun / en asu |
-| Событие или ситуация прошлого | Imperfekti | asuin / en asunut |
-| Опыт, результат сейчас или продолжающаяся ситуация | Perfekti | olen asunut / en ole asunut |
-| Что произошло до другого момента в прошлом | Pluskvamperfekti | olin asunut / en ollut asunut |
+**Время глагола** показывает отношение к моменту речи или другой точке отсчёта. **Падеж объекта** помогает показать процесс, количество и полный результат. Эти признаки работают вместе.
 
-Сначала определите точку отсчёта: сейчас или момент в прошлом. Затем решите, вы рассказываете о событии, показываете связь с настоящим или помещаете действие раньше другого прошлого события. Завершённость дополнительно проверяйте по контексту и объекту.
+| Финский                           | English                                     |
+| --------------------------------- | ------------------------------------------- |
+| Syön omenaa.                      | I am eating an apple.                       |
+| Syön omenan.                      | I will eat the whole apple.                 |
+| Huomenna syön omenaa välipalaksi. | Tomorrow I will have some apple as a snack. |
+| Söin omenaa, kun puhelin soi.     | I was eating an apple when the phone rang.  |
+| Söin omenan.                      | I ate the whole apple.                      |
 
-## Практика по финалу видео {#practice}
+**Omenaa** стоит в partitiivi и в этих примерах показывает процесс или часть количества. **Omenan** представляет яблоко как целый объект, который будет или был съеден полностью. Окончание объекта само по себе не выбирает настоящее или будущее: в третьей строке omenaa сочетается с будущим благодаря huomenna.
 
-[Фрагмент видео: 20:47–21:27](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=1247s). Переведите на финский. Формулировки заданий даны на английском; варианты ответов составлены для этой страницы.
+При отрицании объект обычно получает partitiivi: **olen lukenut tämän kirjan** (I have read this book) → **en ole lukenut tätä kirjaa** (I have not read this book). Это правило для объекта, а не для всех существительных: **Norjassa** (in Norway) сохраняет свою форму.
+
+## Как задавать вопросы {#questions}
+
+### Вопросы «да/нет» {#yes-no-questions}
+
+Поставьте личную форму глагола первой и добавьте **-ko/-kö**. В perfekti и pluskvamperfekti вопрос начинается со вспомогательного olla: oletko, olitko. Частица выбирается по гармонии гласных: **asutko**, но **syötkö**.
+
+| Время            | Финский                                        | English                                           |
+| ---------------- | ---------------------------------------------- | ------------------------------------------------- |
+| Preesens         | Asutko Suomessa?                               | Do you live in Finland?                           |
+| Imperfekti       | Asuitko Suomessa viime vuonna?                 | Did you live in Finland last year?                |
+| Perfekti         | Oletko asunut Suomessa?                        | Have you lived in Finland?                        |
+| Pluskvamperfekti | Olitko asunut Suomessa ennen muuttoa Ruotsiin? | Had you lived in Finland before moving to Sweden? |
+
+В отрицательном вопросе **-kö** присоединяется к отрицательному глаголу:
+
+| Финский                                   | English                                      |
+| ----------------------------------------- | -------------------------------------------- |
+| Etkö asu Suomessa?                        | Don't you live in Finland?                   |
+| Etkö asunut Suomessa?                     | Didn't you live in Finland?                  |
+| Etkö ole asunut Suomessa?                 | Haven't you lived in Finland?                |
+| Etkö ollut asunut Suomessa ennen muuttoa? | Hadn't you lived in Finland before the move? |
+
+### Вопросительное слово {#question-words}
+
+Если есть **missä** (where), **milloin** (when), **mitä** (what) или **miksi** (why), начните с него. В обычных вопросах такого типа -ko/-kö не добавляется.
+
+| Финский                          | English                               |
+| -------------------------------- | ------------------------------------- |
+| Missä asut?                      | Where do you live?                    |
+| Milloin muutit Suomeen?          | When did you move to Finland?         |
+| Mitä olet tehnyt tänään?         | What have you done today?             |
+| Mitä olit tehnyt ennen kokousta? | What had you done before the meeting? |
+
+## Практика: выберите подходящее время {#practice}
+
+Переведите на финский. Это шесть заданий из финала видео, сформулированных на английском. Варианты ответов составлены для справочника.
 
 1. I will wash my hands and then eat.
 2. When I have washed my hands, I will go and eat.
@@ -203,25 +261,33 @@ Imperfekti тоже может описывать событие с послед
 5. I have been to Paris many times.
 6. I was in Paris three years ago.
 
-??? note "Показать возможные ответы"
+??? note "Показать ответы и объяснение выбора"
 
-    1. Pesen käteni ja sitten syön.
-    2. Kun olen pessyt käteni, menen syömään.
-    3. Kun katsoin eilen televisiota, isoäitini soitti minulle.
-    4. Kun olin eilen katsonut televisiota, isoäitini soitti minulle.
-    5. Olen käynyt Pariisissa monta kertaa.
-    6. Olin Pariisissa kolme vuotta sitten.
+    1. **Pesen käteni ja sitten syön.** Два preesens описывают будущие действия.
+    2. **Kun olen pessyt käteni, menen syömään.** Perfekti показывает, что мытьё будет завершено перед едой.
+    3. **Kun katsoin eilen televisiota, isoäitini soitti minulle.** Просмотр происходил в момент звонка.
+    4. **Kun olin eilen katsonut televisiota, isoäitini soitti minulle.** Просмотр предшествовал звонку.
+    5. **Olen käynyt Pariisissa monta kertaa.** Опыт к настоящему моменту.
+    6. **Olin Pariisissa kolme vuotta sitten.** Отдельный случай в прошлом.
 
-    В первом ответе два preesens описывают будущие действия. Во втором kun + perfekti показывает завершение мытья перед едой. В третьем действие происходит в момент просмотра; в четвёртом просмотр предшествует звонку. Последняя пара сравнивает опыт и отдельный случай в прошлом.
+## Видео и источники {#sources}
 
-## Источники и уточнения {#sources}
+Основой справочника служат присланные видео, транскрипт и схемы. В примерах исправлены ошибки распознавания; используются стандартные формы sinun kanssasi, kenkiäni и kenkäni. Схемы можно открыть отдельно нажатием на изображение.
 
-- [Видео «Финские времена за 20 минут»](https://www.youtube.com/watch?v=K2NGCBXDbcg): основа конспекта, присланного транскрипта и схем.
+| Фрагмент видео                                                     | Тема                                 |
+| ------------------------------------------------------------------ | ------------------------------------ |
+| [05:19–06:57](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=319s)  | Preesens                             |
+| [06:57–09:30](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=417s)  | Imperfekti                           |
+| [09:34–15:13](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=574s)  | Четыре употребления perfekti         |
+| [15:14–18:43](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=914s)  | Pluskvamperfekti и сравнение событий |
+| [20:47–21:27](https://www.youtube.com/watch?v=K2NGCBXDbcg&t=1247s) | Практика                             |
+
+- [Видео Варвары «Финские времена за 20 минут»](https://www.youtube.com/watch?v=K2NGCBXDbcg).
 - [Uusi kielemme: употребление perfekti](https://uusikielemme.fi/finnish-grammar/verbs/verb-tenses-and-moods/the-perfect-tense-perfekti).
 - [Uusi kielemme: сравнение imperfekti и perfekti](https://uusikielemme.fi/finnish-grammar/verbs/verb-tenses-and-moods/the-imperfect-and-perfect-tense-examples).
 - [Uusi kielemme: pluskvamperfekti](https://uusikielemme.fi/finnish-grammar/verbs/verb-tenses-and-moods/the-plusquamperfect-tense-pluskvamperfekti).
-- [Kielitoimiston ohjepankki: притяжательные суффиксы](https://kielitoimistonohjepankki.fi/ohje/omistusliitteet/).
-
-Ошибки распознавания исправлены по скриншотам: **asuin, söin, tein, lähdin, olin tehnyt**. Примеры приведены к стандартному финскому: **sinun kanssasi**, **kenkiäni**, **kenkäni**. Пояснения о завершённости, временных интервалах и kun уточняют упрощённые формулировки видео.
+- [Uusi kielemme: временные выражения](https://uusikielemme.fi/finnish-grammar/finnish-cases/interesting-inflection/expressions-of-time-ajanilmaukset).
+- [Uusi kielemme: построение вопросов](https://uusikielemme.fi/finnish-grammar/syntax/sentence-types/kysymyslause-making-questions-in-finnish-lausetyypit).
+- [Kielitoimiston ohjepankki: вежливое обращение на te](https://kielitoimistonohjepankki.fi/ohje/teitittely-oletteko-kokeillut-tata/).
 
 [На главную](../index.md).

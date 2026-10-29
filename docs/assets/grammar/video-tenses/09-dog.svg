@@ -1,46 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="824" viewBox="0 0 900 824" role="img" aria-labelledby="title desc">
-<title id="title">Когда я пришёл домой: söi или oli syönyt</title>
-<desc id="desc">Kun tulin kotiin, koira söi kenkiäni: собака грызла обувь в момент прихода. Kun tulin kotiin, koira oli syönyt kenkäni: собака уже сгрызла обувь до прихода. Партитив kenkiäni отличается от полного объекта kenkäni.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320" role="img" aria-labelledby="title desc">
+<title id="title">Действие в момент прихода или до него</title>
+<desc id="desc">Вертикаль отмечает приход домой. В первой строке собака ест обувь в этот момент; во второй она уже съела обувь раньше.</desc>
 <defs>
-  <linearGradient id="perfect" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#fb4963"/><stop offset="100%" stop-color="#94d9f5"/>
-  </linearGradient>
-  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-    <path d="M 0 0 L 10 5 L 0 10 z" fill="#17232e"/>
-  </marker>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#17232e" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></marker>
+  <linearGradient id="perfect" gradientUnits="userSpaceOnUse" x1="130" y1="0" x2="680" y2="0"><stop offset="0%" stop-color="#fb4963"/><stop offset="100%" stop-color="#159fd2"/></linearGradient>
 </defs>
-<rect width="900" height="824" rx="16" fill="#ffffff"/>
+<rect width="800" height="320" rx="10" fill="#fff"/>
 <g font-family="Segoe UI, Arial, sans-serif" fill="#17232e">
-<rect x="24" y="20" width="266" height="82" rx="0" fill="#fb4963"/>
-<rect x="290" y="20" width="292" height="82" rx="0" fill="#ffb43b"/>
-<rect x="582" y="20" width="294" height="82" rx="0" fill="#ffe64a"/>
-<text x="157" y="53" font-size="27" font-weight="700" fill="#17232e" text-anchor="middle">menneisyys</text>
-<text x="157" y="82" font-size="21" font-weight="400" fill="#17232e" text-anchor="middle">прошлое</text>
-<text x="436" y="53" font-size="27" font-weight="700" fill="#17232e" text-anchor="middle">nykyhetki</text>
-<text x="436" y="82" font-size="21" font-weight="400" fill="#17232e" text-anchor="middle">сейчас</text>
-<text x="729" y="53" font-size="27" font-weight="700" fill="#17232e" text-anchor="middle">tulevaisuus</text>
-<text x="729" y="82" font-size="21" font-weight="400" fill="#17232e" text-anchor="middle">будущее</text>
-<line x1="290" y1="112" x2="290" y2="274" stroke="#66737d" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 8"/>
-<polygon points="24,154.0 48,126 290,126 290,182 48,182" fill="#fb4963" stroke="#17232e" stroke-width="2" stroke-linejoin="round"/>
-<text x="162.0" y="162.84" font-size="26" font-weight="700" fill="#17232e" text-anchor="middle">Imperfekti</text>
-<polygon points="290,126 852,126 876,154.0 852,182 290,182" fill="#36bff0" stroke="#17232e" stroke-width="2" stroke-linejoin="round"/>
-<text x="577.0" y="162.5" font-size="25" font-weight="700" fill="#17232e" text-anchor="middle">Preesens · настоящее и будущее</text>
-<polygon points="24,243.0 48,212 582,212 582,274 48,274" fill="url(#perfect)" stroke="#17232e" stroke-width="2" stroke-linejoin="round"/>
-<text x="308.0" y="252.18" font-size="27" font-weight="700" fill="#17232e" text-anchor="middle">Perfekti · связь с настоящим</text>
-<polygon points="24,333.0 48,302 290,302 290,364 48,364" fill="#fb4963" stroke="#17232e" stroke-width="2" stroke-linejoin="round"/>
-<text x="162.0" y="340.82" font-size="23" font-weight="700" fill="#17232e" text-anchor="middle">Pluskvamperfekti</text>
-<text x="318" y="342" font-size="24" font-weight="400" fill="#17232e" text-anchor="start">раньше другого события в прошлом</text>
-<rect x="24" y="398" width="852" height="190" rx="12" fill="#f5f7fa"/>
-<rect x="24" y="398" width="6" height="190" rx="0" fill="#fb4963"/>
-<text x="48" y="435" font-size="23" font-weight="700" fill="#17232e" text-anchor="start">В МОМЕНТ МОЕГО ПРИХОДА</text>
-<text x="48" y="482" font-size="30" font-weight="400" fill="#17232e" text-anchor="start">Kun tulin kotiin,</text>
-<text x="48" y="527" font-size="30" font-weight="400" fill="#17232e" text-anchor="start">koira söi kenkiäni.</text>
-<text x="48" y="567" font-size="22" font-weight="400" fill="#40505f" text-anchor="start">When I came home, the dog was eating my shoes.</text>
-<rect x="24" y="610" width="852" height="190" rx="12" fill="#f5f7fa"/>
-<rect x="24" y="610" width="6" height="190" rx="0" fill="#fb4963"/>
-<text x="48" y="647" font-size="23" font-weight="700" fill="#17232e" text-anchor="start">УЖЕ ДО МОЕГО ПРИХОДА</text>
-<text x="48" y="694" font-size="30" font-weight="400" fill="#17232e" text-anchor="start">Kun tulin kotiin,</text>
-<text x="48" y="739" font-size="30" font-weight="400" fill="#17232e" text-anchor="start">koira oli syönyt kenkäni.</text>
-<text x="48" y="779" font-size="22" font-weight="400" fill="#40505f" text-anchor="start">When I came home, the dog had already eaten my shoes.</text>
+<text x="610" y="31" font-size="21" font-weight="700" fill="#17232e" text-anchor="middle">tulin kotiin</text>
+<text x="610" y="55" font-size="16" font-weight="400" fill="#17232e" text-anchor="middle">I came home</text>
+<line x1="610" y1="70" x2="610" y2="271" stroke="#87939c" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 6"/>
+<text x="40" y="87" font-size="18" font-weight="700" fill="#17232e" text-anchor="start">Одновременно</text>
+<line x1="180" y1="111" x2="685" y2="111" stroke="#fb4963" stroke-width="10" stroke-linecap="round" marker-end="url(#arrow)"/>
+<circle cx="610" cy="111" r="7" fill="#17232e"/>
+<text x="400" y="156" font-size="22" font-weight="400" fill="#17232e" text-anchor="middle">Koira söi kenkiäni.</text>
+<text x="40" y="207" font-size="18" font-weight="700" fill="#17232e" text-anchor="start">Раньше</text>
+<line x1="180" y1="232" x2="420" y2="232" stroke="#fb4963" stroke-width="10" stroke-linecap="round"/>
+<circle cx="420" cy="232" r="7" fill="#fb4963"/>
+<circle cx="610" cy="232" r="7" fill="#17232e"/>
+<text x="400" y="285" font-size="22" font-weight="400" fill="#17232e" text-anchor="middle">Koira oli jo syönyt kenkäni.</text>
 </g>
 </svg>
