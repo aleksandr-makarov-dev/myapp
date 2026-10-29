@@ -31,3 +31,8 @@
   width: 30%;
 }
 
+/* Compact spacing for table headings and body cells. */
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  padding: 0.5em 0.75em;
+}
