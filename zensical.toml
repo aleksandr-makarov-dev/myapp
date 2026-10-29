@@ -37,6 +37,9 @@ nav = [
   { "Грамматика" = [
     { "Времена глагола" = "grammar/choosing-tenses.md" },
   ] },
+  { "Упражнения" = [
+    { "Выбор времени" = "exercises/verb-tenses.md" },
+  ] },
 ]
 
 extra_css = ["stylesheets/extra.css"]
