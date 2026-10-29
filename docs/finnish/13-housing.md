@@ -86,39 +86,60 @@ quizlet_url: "https://quizlet.com/1228546092/flashcards/embed?i=53ndi1&x=1jj1"
 | nykyinen       | current            | Nykyinen kotini on liian pieni.     | My current home is too small.                          |
 | edellinen      | previous           | Edellinen asukas jätti tämän tänne. | The previous resident left this here.                  |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Etsin + type of home / Asunnossa on + what {#apartment-requirements}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-После etsin название жилья стоит в partitiivi: yksiötä, kaksiota, asuntoa. Asunnossa on помогает перечислить нужные удобства.
+- ★ **kiinnittää + дополнение + mihin?**: Kiinnitän hyllyn seinään. — I attach the shelf to the wall.
+- ★ **irrottaa + дополнение + mistä?**: Irrotan hyllyn seinästä. — I remove the shelf from the wall.
+- ★ **maalata + дополнение + minkä väriseksi?** (цвет в translatiivi, -ksi): Maalaan seinän valkoiseksi. — I paint the wall white.
+- ★ **siirtää + дополнение + mistä? + mihin?**: Siirrämme pöydän keittiöstä olohuoneeseen. — We will move the table from the kitchen to the living room.
 
-Etsin valoisaa kaksiota. — I am looking for a bright one-bedroom flat.  
-Etsin asuntoa läheltä keskustaa. — I am looking for a flat near the city centre.  
-Asunnossa on parveke ja sauna. — The flat has a balcony and a sauna.
+## Тексты для перевода {#translation-practice}
 
-#### ★ Sisältyykö + what + vuokraan? — Is… included in the rent? {#rental-conditions}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-Чтобы спросить, входит ли услуга в арендную плату, используйте vuokraan. Для отрицательного ответа: ei sisälly vuokraan.
+### С финского на английский {#finnish-text}
 
-Sisältyykö vesi vuokraan? — Is water included in the rent?  
-Sähkö ei sisälly vuokraan. — Electricity is not included in the rent.  
-Kuinka suuri vuokravakuus on? — How much is the rental deposit?
+Nykyinen vuokra-asuntomme on ahdas, joten etsimme tilavaa kaksiota. Edellinen kotimme oli yksiö, mutta nyt tarvitsemme enemmän tilaa. Asuntoesittelyssä näemme valoisan asunnon kerrostalossa. Sen pinta-ala on viisikymmentä neliömetriä, ja siinä on parveke. Piha on hiljainen, mutta kellari ja eteinen ovat pimeitä.
 
-#### ★ Pakkaan / Siirrän + what + where to — I pack / move… {#packing-and-placement}
+Vuokranantaja kertoo vuokravakuudesta ja antaa vuokrasopimuksen. Luemme myös irtisanomisajan, koska vuokralaisen täytyy tietää se. Irtisanomme vanhan sopimuksen ja teemme muuttoilmoituksen. Ennen muuttoa hankimme kotivakuutuksen ja uuden sähkösopimuksen. Pakkaamme tavarat muuttolaatikoihin ja kannamme huonekalut autoon.
 
-Учите готовые сочетания с направлением: laatikkoon, seinän viereen. В этих законченных действиях предмет имеет форму astiat или pöydän.
+Uudessa kodissa puramme laatikot ja järjestämme tavarat paikoilleen. Asunto on kalustamaton, joten sisustamme sen itse. Siirrän pöydän ikkunan lähelle ja ripustan verhon. Kiinnitän hyllyn seinään työkalujen avulla ja ruuvaan ruuvit paikalleen. Emme halua remontoida tai maalata nyt, joten lopuksi vain tuuletamme.
 
-Pakkaan astiat laatikkoon. — I am packing the dishes into a box.  
-Siirrän pöydän seinän viereen. — I will move the table next to the wall.  
-Kannan laatikot uuteen asuntoon. — I will carry the boxes to the new flat.
+??? note "Показать перевод на английский"
+
+    Our current rented flat is cramped, so we are looking for a spacious two-room flat. Our previous home was a studio, but now we need more space. At a viewing, we see a bright flat in a block of flats. Its floor area is fifty square metres, and it has a balcony. The yard is quiet, but the cellar and entrance hall are dark.
+
+    The landlord tells us about the rental deposit and gives us the tenancy agreement. We also read the notice period because the tenant needs to know it. We terminate the old agreement and submit a change-of-address notification. Before moving, we take out home insurance and a new electricity contract. We pack our belongings into moving boxes and carry the furniture to the car.
+
+    In the new home, we unpack the boxes and put our belongings in their places. The flat is unfurnished, so we furnish and decorate it ourselves. I move the table near the window and hang a curtain. I attach a shelf to the wall using tools and screw the screws into place. We do not want to renovate or paint now, so at the end we just air the flat.
+
+### С английского на финский {#english-text}
+
+We are looking for a rented home because our current studio is cramped. At a viewing we see a spacious two-room flat in a terraced house. Our previous home was in a block of flats, and there was a lot of noise. The new flat is bright and quiet, with a small yard and entrance hall. The floor area is large enough, although there is no balcony or cellar.
+
+The landlord shows us the tenancy agreement and explains the rental deposit. As tenants, we also check the notice period before signing. We terminate the old agreement and submit a change-of-address notification. We arrange home insurance and an electricity contract before moving. We pack our belongings into moving boxes and carry the furniture downstairs.
+
+In the new flat we unpack, arrange our things and move the sofa near the window. The home is unfurnished, so we want to decorate it ourselves. I remove an old shelf and attach a new one to the wall. My partner uses tools to drill holes and put in screws. We paint one wall, hang the curtains and air the room after the work.
+
+??? note "Показать перевод на финский"
+
+    Etsimme vuokra-asuntoa, koska nykyinen yksiömme on ahdas. Asuntoesittelyssä näemme tilavan kaksion rivitalossa. Edellinen kotimme oli kerrostalossa, ja siellä oli paljon melua. Uusi asunto on valoisa ja hiljainen, ja siinä on pieni piha ja eteinen. Pinta-ala on riittävä, vaikka asunnossa ei ole parveketta eikä kellaria.
+
+    Vuokranantaja näyttää meille vuokrasopimuksen ja kertoo vuokravakuudesta. Vuokralaisina tarkistamme myös irtisanomisajan ennen allekirjoittamista. Irtisanomme vanhan sopimuksen ja teemme muuttoilmoituksen. Hankimme kotivakuutuksen ja sähkösopimuksen ennen muuttoa. Pakkaamme tavarat muuttolaatikoihin ja kannamme huonekalut alakertaan.
+
+    Uudessa asunnossa puramme laatikot, järjestämme tavarat ja siirrämme sohvan ikkunan lähelle. Asunto on kalustamaton, joten haluamme sisustaa sen itse. Irrotan vanhan hyllyn ja kiinnitän uuden seinään. Kumppanini poraa reikiä ja ruuvaa ruuveja työkalujen avulla. Maalaamme yhden seinän, ripustamme verhot ja tuuletamme huoneen työn jälkeen.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [Поиск квартиры](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/asuntoilmoitus-housing-advertisements-finnish-vocabulary)
 - [Переезд](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/moving)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 
 [Все темы](../index.md).

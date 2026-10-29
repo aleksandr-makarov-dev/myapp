@@ -96,53 +96,62 @@ quizlet_url: "https://quizlet.com/1228544695/flashcards/embed?i=53ndi1&x=1jj1"
 | heti      | immediately    | Tarvitsen apua heti.              | I need help immediately.             |
 | huono olo | feeling unwell | Minulla on huono olo.             | I feel unwell.                       |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Minulla on + symptom — I have… {#describing-symptoms}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-Формы симптомов различаются. Запоминайте сочетания целиком: minulla on kuumetta, minulla on yskää, minulla on nuha.
+- ★ **sairastua + mihin?** (illatiivi): Sairastuin flunssaan. — I caught a cold.
+- ★ **parantua + mistä?** (-sta/-stä): Parannuin flunssasta. — I recovered from a cold.
+- ★ **sattua + mihin?** (часть тела в форме «куда»): Kurkkuuni sattuu. — My throat hurts.
+- ★ **särkeä + часть тела в partitiivi** (часть тела в partitiivi): Päätäni särkee. — My head aches.
 
-Minulla on kuumetta. — I have a fever.  
-Minulla on yskää. — I have a cough.  
-Minulla on nuha. — I have a runny nose.
+## Тексты для перевода {#translation-practice}
 
-#### ★ Päätäni särkee — My head aches {#aches-and-pains}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-С särkeä часть тела стоит в partitiivi. В формах päätäni и selkääni окончание -ni показывает, что речь идёт о вашей голове или спине.
+### С финского на английский {#finnish-text}
 
-Päätäni särkee. — My head aches.  
-Selkääni särkee. — My back aches.
+Eilen sairastuin flunssaan, ja tänään olen väsynyt ja heikko. Minulla on kuumetta, yskää ja nuhaa, ja päätäni särkee. Kurkkuni on kipeä, ja hengittäminen tuntuu vaikealta. Yskin ja aivastan usein, eikä nenäni lakkaa vuotamasta. Minulla on myös huono olo, mutta en ole oksentanut.
 
-#### ★ Mihin sattuu? — Where does it hurt? {#where-it-hurts}
+Mittaan ensin kuumeen ja soitan sitten terveysasemalle. Ajanvarauksessa hoitaja kysyy oireistani ja siitä, mihin sattuu. Varaan ajan lääkärin vastaanotolle iltapäiväksi. Lääkäri tutkii kurkkuni, korvani ja silmäni. Hän kysyy myös allergioista ja siitä, onko vatsassa tai selässä kipua.
 
-В ответах с sattua место боли часто получает форму направления: vatsaan, kurkkuun. Окончание -ni уточняет, что болит у вас.
+Kerron, että kaaduin eilen ja kädessäni on pieni haava. Hoitaja hoitaa haavan, mutta jalkani ei onneksi ole kipeä. Saan sairauslomaa ja reseptin, ja käyn apteekissa hakemassa lääkkeen. Perun huomisen tapaamisen, koska haluan levätä ja parantua. Kun olen taas terve, voin palata töihin.
 
-Mihin sinua sattuu? — Where does it hurt?  
-Vatsaani sattuu. — My stomach hurts.  
-Kurkkuuni sattuu. — My throat hurts.
+??? note "Показать перевод на английский"
 
-#### ★ Minun on vaikea + infinitive — I find it hard to… {#difficulty-doing-something}
+    Yesterday I came down with a cold, and today I am tired and weak. I have a fever, a cough and a runny nose, and my head aches. My throat is sore, and breathing feels difficult. I cough and sneeze often, and my nose will not stop running. I also feel sick, but I have not vomited.
 
-После minun on vaikea используйте начальную форму глагола. Это помогает описать, какое действие вызывает затруднение.
+    First I take my temperature and then call the health centre. When I call to make an appointment, the nurse asks about my symptoms and where it hurts. I book a doctor's appointment for the afternoon. The doctor examines my throat, ears and eyes. She also asks about allergies and whether I have pain in my stomach or back.
 
-Minun on vaikea hengittää. — I find it hard to breathe.  
-Minun on vaikea kävellä. — I find it hard to walk.
+    I tell her that I fell yesterday and have a small wound on my hand. The nurse treats the wound, but luckily my leg is not sore. I get sick leave and a prescription, and go to the pharmacy to collect the medicine. I cancel tomorrow's meeting because I want to rest and get better. When I am well again, I can return to work.
 
-#### ★ Haluan varata / perua ajan — I want to book / cancel an appointment {#booking-and-canceling-appointments}
+### С английского на финский {#english-text}
 
-Aika здесь означает «appointment». В этих фразах используется форма ajan; lääkärille уточняет, к кому вы записываетесь.
+I am ill today, and I want to book an appointment at the health centre. My symptoms are a cough, a runny nose and a sore throat. I sneeze a lot, and my head and back ache. I feel tired and weak, but I can breathe normally. My nose is running, and I feel sick, although I have not vomited.
 
-Haluan varata ajan lääkärille. — I want to book a doctor's appointment.  
-Haluan perua huomisen ajan. — I want to cancel tomorrow's appointment.
+The nurse asks me to take my temperature before the appointment. At the surgery the doctor examines my ears, eyes and throat. She asks whether my stomach hurts and whether I have any allergies. I also show her a wound on my hand from a fall yesterday. The nurse treats it, and the doctor writes a prescription.
+
+Another patient is waiting because he has a bad toothache. I collect my medicine at the pharmacy and go home to rest. I have sick leave, so I cancel my meeting at work. I hope to recover soon and feel healthy again. My health is important to me, and I do not want to go to work while I am ill.
+
+??? note "Показать перевод на финский"
+
+    Olen tänään sairas ja haluan varata ajan terveysasemalle. Oireeni ovat yskä, nuha ja kurkkukipu. Aivastan paljon, ja päätäni ja selkääni särkee. Olen väsynyt ja heikko, mutta pystyn hengittämään normaalisti. Nenäni vuotaa ja minulla on huono olo, vaikka en ole oksentanut.
+
+    Hoitaja pyytää minua mittaamaan kuumeen ennen vastaanottoa. Vastaanotolla lääkäri tutkii korvani, silmäni ja kurkkuni. Hän kysyy, sattuuko vatsaani ja onko minulla allergioita. Näytän hänelle myös haavan kädessäni, jonka sain, kun kaaduin eilen. Hoitaja hoitaa haavan, ja lääkäri kirjoittaa reseptin.
+
+    Toinen potilas odottaa, koska hänen hammastaan särkee kovasti. Haen lääkkeeni apteekista ja menen kotiin lepäämään. Olen sairauslomalla, joten perun työtapaamiseni. Toivon, että parannun pian ja olen taas terve. Terveyteni on minulle tärkeä, enkä halua mennä töihin sairaana.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [Самочувствие и болезни](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/sick-sairas-illnesses-sairaudet)
 - [На приёме у врача](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/at-the-doctors-laakarilla)
 - [В аптеке](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/laakkeet-ja-apteekki-finnish-pharmacy-vocabulary)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
+- [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
 
 [Все темы](../index.md).

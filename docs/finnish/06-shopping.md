@@ -101,52 +101,62 @@ quizlet_url: "https://quizlet.com/1228544371/flashcards/embed?i=53ndi1&x=1jj1"
 | ilmainen   | free of charge       | Onko toimitus ilmainen?             | Is delivery free?                |
 | olla varaa | to be able to afford | Minulla ei ole varaa tähän takkiin. | I cannot afford this jacket.     |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Voinko maksaa + payment method? — Can I pay…? {#payment-methods}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-Для способа оплаты выучите готовые формы: kortilla, pankkikortilla, käteisellä.
+- ★ **etsiä + mitä? + mistä?** (предмет в partitiivi; место в форме «откуда»): Etsin takkia tästä kaupasta. — I am looking for a jacket in this shop.
+- ★ **löytää + дополнение + mistä?** (место в форме «откуда»): Löysin takin kaupasta. — I found a jacket in the shop.
+- ★ **mahtua + mihin?**: Puhelin mahtuu taskuun. — The phone fits in the pocket.
+- ★ **vaihtaa + дополнение + mihin?**: Vaihdan paidan pienempään kokoon. — I will exchange the shirt for a smaller size.
+- ★ **maksaa + mistä? + kenelle?**: Maksan paidasta kaksikymmentä euroa. — I will pay twenty euros for the shirt. / Maksan ostokset myyjälle. — I pay the shop assistant for the purchases.
 
-Voinko maksaa kortilla? — Can I pay by card?  
-Voinko maksaa käteisellä? — Can I pay in cash?  
-Maksan pankkikortilla. — I pay by bank card.
+## Тексты для перевода {#translation-practice}
 
-#### ★ Haluaisin sovittaa + what — I would like to try on… {#trying-on-clothes}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-Для примерки используйте sovittaa. В этих просьбах предмет стоит в partitiivi: tätä paitaa, tätä takkia.
+### С финского на английский {#finnish-text}
 
-Haluaisin sovittaa tätä paitaa. — I would like to try on this shirt.  
-Voinko sovittaa tätä takkia? — Can I try on this jacket?
+Tarvitsen uuden takin ja kengät, joten menen kauppaan. Etsin ensin sinistä takkia, mutta löydän vain mustan ja punaisen. Myyjä auttaa minua valitsemaan sopivan koon. Sovitan takkia sovituskopissa, mutta se on liian tiukka. Toinen takki on sopiva, ja sen hinta on halpa alennuksen jälkeen.
 
-#### ★ Onko teillä + what? — Do you have…? {#asking-about-availability}
+Vertaan vielä hintoja, koska haluan säästää rahaa. Valkoinen paita on tarjouksessa, mutta housut ovat kalliit. Minulla ei ole varaa kaikkiin tuotteisiin, joten jätän housut kauppaan. Valitsen lyhyet sukat, jotka mahtuvat hyvin uusiin kenkiini. Kassalla on pitkä jono, ja asiakkaat odottavat rauhallisesti.
 
-Teillä подходит для обращения к сотруднику магазина. В этих вопросах используйте partitiivi: pienempää kokoa, mustaa takkia.
+Ostokset maksavat yhteensä kuusikymmentä euroa ja viisikymmentä senttiä. Haluan maksaa pankkikortilla, mutta en löydä korttiani. En ole kadottanut sitä, sillä se on toisessa kassissa. Tarkistan kuitin ja kysyn, voinko vaihtaa tai palauttaa takin. Kotona huomaan, että kassista puuttuu yksi sukka, ja soitan myyjälle.
 
-Onko teillä pienempää kokoa? — Do you have a smaller size?  
-Onko teillä mustaa takkia? — Do you have a black jacket?
+??? note "Показать перевод на английский"
 
-#### ★ Minulla on / ei ole varaa + to what — I can / cannot afford… {#affordability}
+    I need a new coat and shoes, so I go to a shop. First I look for a blue coat, but I only find a black one and a red one. The shop assistant helps me choose the right size. I try the coat on in the fitting room, but it is too tight. The other coat fits, and its price is low after the discount.
 
-Запоминайте сочетание varaa tähän takkiin. После varaa здесь нужна форма направления: paitaan, takkiin, uuteen puhelimeen.
+    I compare prices again because I want to save money. A white shirt is on special offer, but the trousers are expensive. I cannot afford all the items, so I leave the trousers in the shop. I choose short socks that fit well inside my new shoes. There is a long queue at the checkout, and the customers are waiting calmly.
 
-Minulla on varaa tähän paitaan. — I can afford this shirt.  
-Minulla ei ole varaa tähän takkiin. — I cannot afford this jacket.
+    The purchases cost sixty euros and fifty cents in total. I want to pay by bank card, but I cannot find my card. I have not lost it, because it is in another shopping bag. I check the receipt and ask whether I can exchange or return the coat. At home, I notice that one sock is missing from the bag and call the shop assistant.
 
-#### ★ Nämä housut ovat + adjective — These trousers are… {#describing-clothes}
+### С английского на финский {#english-text}
 
-Housut обычно употребляется во множественном числе. Поэтому говорим nämä, ovat и используем форму прилагательного для множественного числа.
+I want to buy a shirt and some trousers, but I do not have much money. I compare two shops because one sells clothes at a discount. I look for a white shirt and find a red one on special offer. A shop assistant asks which colour and size I need. I choose a blue shirt and try it on in the fitting room.
 
-Nämä housut ovat pienet. — These trousers are small.  
-Nämä housut ovat sopivat. — These trousers fit.  
-Nämä housut ovat liian pitkät. — These trousers are too long.
+It is too long, and the black trousers are too tight. The assistant finds a suitable shirt and a shorter coat. I can afford the shirt, but the coat and shoes are expensive. I also buy cheap socks and save some money. The queue at the checkout is long, and another customer lets me go first.
+
+The price is twenty euros and ninety cents in total. I pay in cash because I have lost my bank card. The bag is free, and everything fits inside it. I check the receipt so that I can exchange or return an item later. At home I check the bag again, and nothing is missing.
+
+??? note "Показать перевод на финский"
+
+    Haluan ostaa paidan ja housut, mutta minulla ei ole paljon rahaa. Vertaan kahta kauppaa, koska toinen myy vaatteita alennuksella. Etsin valkoista paitaa ja löydän punaisen paidan, joka on tarjouksessa. Myyjä kysyy, minkä värisen ja kokoisen paidan tarvitsen. Valitsen sinisen paidan ja sovitan sitä sovituskopissa.
+
+    Se on liian pitkä, ja mustat housut ovat liian tiukat. Myyjä löytää sopivan paidan ja lyhyemmän takin. Minulla on varaa paitaan, mutta takki ja kengät ovat kalliit. Ostan myös halvat sukat ja säästän vähän rahaa. Kassalla on pitkä jono, ja toinen asiakas päästää minut eteensä.
+
+    Hinta on yhteensä kaksikymmentä euroa ja yhdeksänkymmentä senttiä. Maksan käteisellä, koska olen kadottanut pankkikorttini. Kassi on ilmainen, ja kaikki mahtuu siihen. Tarkistan kuitin, jotta voin vaihtaa tai palauttaa tuotteen myöhemmin. Kotona tarkistan kassin uudelleen, eikä mitään puutu.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [В магазине](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/at-the-store-kaupassa)
 - [В магазине одежды](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/vaatekaupassa-clothing-store-vocabulary)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
+- [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
 
 [Все темы](../index.md).

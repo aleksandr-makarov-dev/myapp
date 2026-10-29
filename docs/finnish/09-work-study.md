@@ -98,53 +98,63 @@ quizlet_url: "https://quizlet.com/1228544871/flashcards/embed?i=53ndi1&x=1jj1"
 | kiireinen | busy            | Olen kiireinen aamulla.         | I am busy in the morning.                  |
 | vapaa     | free, available | Oletko vapaa kokouksen jälkeen? | Are you free after the meeting?            |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Opiskelen + subject / place — I study… {#studying}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-Предмет изучения стоит в partitiivi: suomea. Для места запоминайте готовые сочетания: kurssilla, ammattikoulussa.
+- ★ **oppia + -maan/-mään** (MA-infinitiivi): Opin puhumaan suomea. — I am learning to speak Finnish.
+- ★ **opettaa + ketä? + -maan/-mään / kenelle? + mitä?**: Opettaja opettaa meitä puhumaan. — The teacher teaches us to speak. / Hän opettaa minulle suomea. — He teaches me Finnish.
+- ★ **onnistua + missä?** (-ssa/-ssä): Onnistuin tehtävässä. — I succeeded in the task.
+- ★ **ilmoittautua + mihin?**: Ilmoittaudun suomen kurssille. — I am enrolling on a Finnish course.
+- ★ **soittaa + kenelle?**: Soitan opettajalle huomenna. — I will call the teacher tomorrow. / Soitan tähän numeroon. — I will call this number.
 
-Opiskelen suomea. — I study Finnish.  
-Opiskelen iltakurssilla. — I attend an evening course.  
-Opiskelen ammattikoulussa. — I study at a vocational school.
+## Тексты для перевода {#translation-practice}
 
-#### ★ Opin + what — I learn… {#learning}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-Opiskella описывает процесс учёбы, oppia освоение знаний или навыка. После opin здесь используется partitiivi.
+### С финского на английский {#finnish-text}
 
-Opin uusia sanoja joka päivä. — I learn new words every day.  
-Opin suomea myös töissä. — I also learn Finnish at work.
+Työskentelen kaupassa, mutta haluan oppia uuden ammatin. Haen uutta työpaikkaa ja täytän hakemuksen tietokoneella. Kirjoitan siihen puhelinnumeroni ja lisään tarvittavan liitteen. Tallennan lomakkeen ja lähetän sen sähköpostilla. Esihenkilö soittaa minulle ja kertoo työstä, palkasta ja työajoista.
 
-#### ★ Ilmoittaudun + course / event — I register for… {#registering-for-courses}
+Kun aloitan työn, työkaveri opettaa minua käyttämään uutta ohjelmaa. Luen ohjeen ja yritän tehdä ensimmäisen tehtävän. Tehtävä on vaikea, mutta harjoittelen ja onnistun lopulta. Kokouksessa jokainen työntekijä saa esittää kysymyksen. En ymmärrä yhtä vastausta, joten lähetän myöhemmin viestin.
 
-После ilmoittautua нужна форма направления. Запоминайте сочетания: kurssille, kokeeseen.
+Tauolla ilmoittaudun suomen kurssille läheiseen kouluun. Opiskelen illalla, kun en ole kiireinen ja minulla on vapaata aikaa. Oppitunnilla opettaja selittää uuden sanan ja korjaa virheeni. Teen läksyt toisen opiskelijan kanssa, ja helppo harjoitus on pian valmis. Lopetan opiskelun yhdeksältä ja jatkan huomenna.
 
-Ilmoittaudun suomen kurssille. — I am enrolling on a Finnish course.  
-Ilmoittaudun kokeeseen verkossa. — I register for the exam online.
+??? note "Показать перевод на английский"
 
-#### ★ Olen töissä + place — I work at… {#workplace}
+    I work in a shop, but I want to learn a new profession. I apply for a new job and fill in the application on a computer. I write my phone number on it and add the required attachment. I save the form and send it by email. The supervisor calls me and tells me about the work, the pay and the working hours.
 
-Olla töissä подходит и для разговора о месте работы, и для сообщения, что вы сейчас на работе.
+    When I start the job, a colleague teaches me to use a new program. I read the instructions and try to do the first task. The task is difficult, but I practise and eventually succeed. In the meeting, every employee can ask a question. I do not understand one answer, so I send a message later.
 
-Olen töissä kaupassa. — I work in a shop.  
-Olen töissä koulussa. — I work at a school.  
-Olen nyt töissä. — I am at work now.
+    During the break, I sign up for a Finnish course at a nearby school. I study in the evening when I am not busy and have free time. In the lesson, the teacher explains a new word and corrects my mistake. I do my homework with another student, and the easy exercise is soon finished. I stop studying at nine and continue tomorrow.
 
-#### ★ Lähetän + what + to whom — I send… {#sending-things}
+### С английского на финский {#english-text}
 
-Для получателя используйте форму на -lle: opettajalle, työnantajalle. В этих примерах отправляемый предмет стоит в форме viestin или hakemuksen.
+I am a student, and I am also looking for a job. I want to learn a new profession and work in a school. I read a job advertisement and fill in an application form on my computer. I write my phone number, add an attachment and save the file. Then I sign the application and send it by email.
 
-Lähetän viestin opettajalle. — I will send a message to the teacher.  
-Lähetän hakemuksen työnantajalle. — I will send an application to the employer.
+A supervisor calls and tells me about the workplace and the pay. On my first day a colleague teaches me to use the work phone. I try to follow the instructions and finish a simple task. I make a mistake, but another employee helps me succeed. During the meeting I ask a question and write down the answer.
+
+After a break I continue working until everything is ready. In the evening I sign up for a language course and start studying. The teacher gives us an easy exercise with ten new words. I practise with another student, do my homework and send a message to the teacher. The lesson ends at eight, and I am free after a busy day.
+
+??? note "Показать перевод на финский"
+
+    Olen opiskelija ja etsin myös työtä. Haluan oppia uuden ammatin ja työskennellä koulussa. Luen työpaikkailmoituksen ja täytän hakemuslomakkeen tietokoneella. Kirjoitan puhelinnumeroni, lisään liitteen ja tallennan tiedoston. Sitten allekirjoitan hakemuksen ja lähetän sen sähköpostilla.
+
+    Esihenkilö soittaa ja kertoo työpaikasta ja palkasta. Ensimmäisenä päivänä työkaveri opettaa minua käyttämään työpuhelinta. Yritän noudattaa ohjeita ja saada helpon tehtävän valmiiksi. Teen virheen, mutta toinen työntekijä auttaa minua onnistumaan. Kokouksen aikana esitän kysymyksen ja kirjoitan vastauksen muistiin.
+
+    Tauon jälkeen jatkan työskentelyä, kunnes kaikki on valmista. Illalla ilmoittaudun kielikurssille ja aloitan opiskelun. Opettaja antaa meille helpon harjoituksen, jossa on kymmenen uutta sanaa. Harjoittelen toisen opiskelijan kanssa, teen läksyt ja lähetän viestin opettajalle. Oppitunti loppuu kahdeksalta, ja kiireisen päivän jälkeen olen vapaa.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [Об учёбе](https://uusikielemme.fi/finnish-vocabulary/vocabulary-phrases/talking-about-your-education-in-finnish-koulutus)
 - [О работе](https://uusikielemme.fi/finnish-vocabulary/vocabulary-phrases/talking-about-work-experience-in-finnish-tyokokemus)
 - [Телефонный разговор](https://uusikielemme.fi/finnish-vocabulary/vocabulary-phrases/talking-on-the-phone-finnish-phrases-puhelimessa)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
+- [Управление с MA-infinitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/third-infinitive-rections-kolmas-infinitiivi)
 
 [Все темы](../index.md).

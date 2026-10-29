@@ -86,39 +86,59 @@ quizlet_url: "https://quizlet.com/1228547436/flashcards/embed?i=53ndi1&x=1jj1"
 | myrkyllinen | poisonous                 | Onko tämä kasvi myrkyllinen?       | Is this plant poisonous?           |
 | vihreä      | green                     | Puut ovat jo vihreitä.             | The trees are already green.       |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Ulkoilutan + whom / Pidän + whom + hihnassa {#walking-a-dog}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-Для прогулки с собакой запомните ulkoiluttaa koiraa. Hihnassa означает «on a lead».
+- ★ **suojella + дополнение + miltä?** (-lta/-ltä): Suojelemme kasveja kylmältä. — We protect the plants from the cold.
+- ★ **purra + ketä? + mihin?**: Koira puri minua käteen. — The dog bit me on the hand.
 
-Ulkoilutan koiraa aamulla ja illalla. — I walk the dog in the morning and evening.  
-Pidän koiran hihnassa. — I keep the dog on a lead.  
-Saanko silittää koiraasi? — May I stroke your dog?
+## Тексты для перевода {#translation-practice}
 
-#### ★ Kasvatan / Kastelen + what — I grow / water… {#plants-and-gardening}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-Kasvaa описывает рост самого растения, kasvattaa действия человека. Сравните puu kasvaa и kasvatan kukkia.
+### С финского на английский {#finnish-text}
 
-Pihalla kasvaa iso puu. — A big tree grows in the yard.  
-Kasvatan kukkia parvekkeella. — I grow flowers on the balcony.  
-Kastelen kasvit illalla. — I water the plants in the evening.
+Ulkoilutan koiraani joka aamu joen rannalla. Pidän sen hihnassa, koska polulla kulkee muitakin eläimiä. Koira haistaa eläimen jäljet puun luona ja alkaa haukkua. Näen vedessä pienen saaren ja sen takana meren. Keväällä jää sulaa, ja rannalla näkyy vihreitä kasveja.
 
-#### ★ Item on + material — Is made of… {#describing-materials}
+Kesällä mäellä kukkii kauniita kukkia, ja niiden ympärillä lentää hyönteisiä. En anna koiran purra kasveja, sillä osa niistä on myrkyllisiä. Kotona ruokin lemmikit ja silitän kissaa. Koira on satuttanut tassunsa, joten varaan ajan eläinlääkärille. Sen karvassa on myös likaa puutarhasta.
 
-Для материала здесь нужна форма partitiivi: muovia, lasia, kartonkia. Запоминайте эти сочетания целиком.
+Iltapäivällä kaivan pienen kuopan ja istutan uuden kasvin. Kastelen sitä ja suojelen kukkia kylmältä. Syksyllä kerään marjoja ja poimin vain sieniä, jotka tunnen. Haluan suojella luontoa, joten vien jätteet roskakoriin. Kotona lajittelen muovin, lasin, paperin, kartongin ja biojätteen.
 
-Tämä pakkaus on muovia. — This packaging is made of plastic.  
-Pullo on lasia. — The bottle is made of glass.  
-Laatikko on kartonkia. — The box is made of cardboard.
+??? note "Показать перевод на английский"
+
+    I walk my dog by the river every morning. I keep it on a lead because other animals also use the path. The dog smells an animal's tracks near a tree and starts barking. I see a small island in the water and the sea behind it. In spring, the ice melts, and green plants appear on the shore.
+
+    In summer, beautiful flowers bloom on the hill, and insects fly around them. I do not let the dog bite the plants because some of them are poisonous. At home, I feed the pets and stroke the cat. The dog has hurt its paw, so I book an appointment with the vet. There is also dirt from the garden in its fur.
+
+    In the afternoon, I dig a small hole and plant a new plant. I water it and protect the flowers from the cold. In autumn, I gather berries and pick only mushrooms that I know. I want to protect nature, so I put the rubbish in a bin. At home, I sort plastic, glass, paper, cardboard and biowaste.
+
+### С английского на финский {#english-text}
+
+We spend the day in nature near the sea and a small island. Our dog walks on a lead, and we follow a path up a hill. We see birds in the trees and insects around the flowers. The dog sniffs a plant and barks, but it does not bite anyone. We do not pick unfamiliar mushrooms because they may be poisonous.
+
+In autumn we collect berries here, and in summer we fish by the river. In winter the water freezes, and in spring the ice melts again. We want to protect the environment and take our rubbish to a bin. At home we sort glass, plastic, paper, cardboard and biowaste. Our garden is green, and many plants are flowering.
+
+I dig a hole, plant a flower and water it. My partner feeds the cat and strokes its soft fur. The dog has hurt its paw, so tomorrow we are taking it to the vet. Our pets need care, and we walk the dog every day. In the evening we sit by the shore and watch the animals around us.
+
+??? note "Показать перевод на финский"
+
+    Vietämme päivän luonnossa lähellä merta ja pientä saarta. Koiramme kulkee hihnassa, ja seuraamme polkua mäelle. Näemme lintuja puissa ja hyönteisiä kukkien ympärillä. Koira haistaa kasvia ja haukkuu, mutta ei pure ketään. Emme poimi tuntemattomia sieniä, koska ne voivat olla myrkyllisiä.
+
+    Syksyllä keräämme täällä marjoja, ja kesällä kalastamme joen rannalla. Talvella vesi jäätyy, ja keväällä jää sulaa taas. Haluamme suojella ympäristöä ja viemme roskat roskakoriin. Kotona lajittelemme lasin, muovin, paperin, kartongin ja biojätteen. Puutarhamme on vihreä, ja monet kasvit kukkivat.
+
+    Kaivan kuopan, istutan kukan ja kastelen sen. Kumppanini ruokkii kissan ja silittää sen pehmeää karvaa. Koira on satuttanut tassunsa, joten viemme sen huomenna eläinlääkärille. Lemmikkimme tarvitsevat hoitoa, ja ulkoilutamme koiraa joka päivä. Illalla istumme rannalla ja katselemme eläimiä ympärillämme.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [Природа](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/nature-luonto-earth-water-sky)
 - [Домашние животные](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/pets-lemmikit-lemmikkinelain)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
+- [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
 
 [Все темы](../index.md).

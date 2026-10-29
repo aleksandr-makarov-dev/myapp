@@ -96,48 +96,62 @@ quizlet_url: "https://quizlet.com/1228543765/flashcards/embed?i=53ndi1&x=1jj1"
 | ulkona   | outside, outdoors  | Lapset ovat ulkona.       | The children are outside. |
 | ylhäällä | upstairs, up above | Makuuhuone on ylhäällä.   | The bedroom is upstairs.  |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Olen kotona / Menen kotiin — I am at home / I am going home {#being-at-home-and-going-home}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-Kotona отвечает на вопрос «where?», kotiin на вопрос «where to?». Эти формы удобно выучить целиком.
+- ★ **asua + missä?** (форма «где»): Asun pienessä asunnossa. — I live in a small flat.
+- ★ **muuttaa + mistä? + mihin?**: Muutan Helsingistä Tampereelle. — I am moving from Helsinki to Tampere.
+- ★ **vuokrata + keneltä? / kenelle?**: Vuokraan asunnon Annalta. — I rent a flat from Anna. / Anna vuokraa asunnon minulle. — Anna rents a flat to me.
+- ★ **laittaa + дополнение + mihin?** (форма «куда»): Laitan avaimet pöydälle. — I put the keys on the table.
+- ★ **viedä + дополнение + mihin? / kenelle?**: Vien avaimet naapurille. — I will take the keys to the neighbour.
 
-Olen kotona tänään. — I am at home today.  
-Menen kotiin työn jälkeen. — I go home after work.  
-Lapset tulevat kotiin kolmelta. — The children come home at three.
+## Тексты для перевода {#translation-practice}
 
-#### ★ Laitan + what + where to — I put… {#putting-things-away}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-Для места назначения нужны разные окончания: pöydälle, kaappiin, jääkaappiin. Учите предмет вместе с местом, куда вы его кладёте.
+### С финского на английский {#finnish-text}
 
-Laitan avaimet pöydälle. — I put the keys on the table.  
-Laitan pyyhkeen kaappiin. — I put the towel in the cupboard.  
-Laitan maidon jääkaappiin. — I put the milk in the fridge.
+Asun pienessä asunnossa kolmannessa kerroksessa. Vuokraan kodin, jossa on keittiö, olohuone ja makuuhuone. Kun muutan sinne, laitan pöydän ja tuolit keittiöön. Makuuhuoneessa on uusi sänky ja iso kaappi. Avaan aamulla ikkunan, mutta suljen sen ennen lähtöä.
 
-#### ★ Something on auki / on kiinni — Is open / is closed {#open-and-closed}
+Pidän avaimen laukussa ja tarkistan, että ovi on kiinni. Tänään siivoan sisällä, kun ulkona sataa. Imuroin olohuoneen, pyyhin pöydän ja vien roskat ulos. Kierrätän paperin ja tiskauksen jälkeen kuivaan astiat. Pesukone pesee likaiset pyyhkeet, ja laitan puhtaat kaappiin.
 
-Auki и kiinni не меняют форму. Для нескольких предметов меняется только глагол: on → ovat.
+Kylpyhuoneen hana on rikki, ja lattialla on vettä. Soitan huoltoon, ja työntekijä tulee korjaamaan hanan. Vessan valo ei toimi, vaikka muualla on sähköä. Sytytän toisen valon ja katson myös jääkaappiin. Lopuksi koti on siisti, ja sammutan valot ennen nukkumaanmenoa.
 
-Ovi on auki. — The door is open.  
-Ikkuna on kiinni. — The window is closed.  
-Ikkunat ovat kiinni. — The windows are closed.
+??? note "Показать перевод на английский"
 
-#### ★ Something ei toimi / on rikki — Does not work / is broken {#not-working-and-broken}
+    I live in a small flat on the third floor. I rent a home with a kitchen, a living room and a bedroom. When I move there, I put the table and chairs in the kitchen. In the bedroom, there is a new bed and a large cupboard. I open the window in the morning, but close it before leaving.
 
-Ei toimi означает «does not work», on rikki «is broken». Эти фразы пригодятся при обращении в техслужбу.
+    I keep the key in my bag and check that the door is closed. Today I clean inside while it is raining outside. I vacuum the living room, wipe the table and take the rubbish outside. I recycle the paper, and after washing the dishes I dry them. The washing machine washes the dirty towels, and I put the clean ones in the cupboard.
 
-Pesukone ei toimi. — The washing machine does not work.  
-Hissi on rikki. — The lift is broken.  
-Hana on rikki. — The tap is broken.
+    The bathroom tap is broken, and there is water on the floor. I call maintenance, and a worker comes to repair the tap. The toilet light does not work, although there is electricity elsewhere. I switch on another light and also look in the fridge. Finally, the home is tidy, and I switch off the lights before going to bed.
+
+### С английского на финский {#english-text}
+
+We are moving to a new flat on the top floor. We rent a large home, but the kitchen and bathroom are small. I put a table and two chairs in the living room. My partner puts the bed in the bedroom and opens the cupboard. The windows are closed, but the front door is open.
+
+I cannot find my key, so I look inside and outside. The neighbour upstairs has it and brings it to me. We clean the rooms, vacuum the floor and wipe the dirty table. I wash the towels in the washing machine and dry the clean dishes. My partner washes the dishes and takes the rubbish out for recycling.
+
+The fridge does not work, so we call maintenance to repair it. The tap in the toilet works, and we have hot water. Water is included in the rent, but we pay for electricity separately. In the evening we switch on the lights and enjoy our tidy home. Before bed I close the door and switch off the kitchen light.
+
+??? note "Показать перевод на финский"
+
+    Muutamme uuteen asuntoon ylimpään kerrokseen. Vuokraamme ison kodin, mutta keittiö ja kylpyhuone ovat pieniä. Laitan pöydän ja kaksi tuolia olohuoneeseen. Kumppanini laittaa sängyn makuuhuoneeseen ja avaa kaapin. Ikkunat ovat kiinni, mutta ulko-ovi on auki.
+
+    En löydä avaintani, joten etsin sitä sisältä ja ulkoa. Avain on yläkerran naapurilla, ja hän tuo sen minulle. Siivoamme huoneet, imuroimme lattian ja pyyhimme likaisen pöydän. Pesen pyyhkeet pesukoneessa ja kuivaan puhtaat astiat. Kumppanini tiskaa ja vie roskat ulos kierrätykseen.
+
+    Jääkaappi ei toimi, joten soitamme huoltoon ja pyydämme korjausta. Vessan hana toimii, ja meillä on kuumaa vettä. Vesi sisältyy vuokraan, mutta maksamme sähköstä erikseen. Illalla sytytämme valot ja nautimme siististä kodistamme. Ennen nukkumaanmenoa suljen oven ja sammutan keittiön valon.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [Комнаты и мебель](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/rooms-and-furniture-huoneet-ja-huonekalut)
 - [Уборка](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/cleaning-siivoaminen-finnish-vocabulary)
 - [Бытовые проблемы](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/household-problems-finnish-vocabulary)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 
 [Все темы](../index.md).

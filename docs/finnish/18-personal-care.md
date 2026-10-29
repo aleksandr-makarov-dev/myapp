@@ -86,39 +86,60 @@ quizlet_url: "https://quizlet.com/1228547268/flashcards/embed?i=53ndi1&x=1jj1"
 | pehmeä     | soft                                    | Tämä pyyhe on pehmeä.             | This towel is soft.                         |
 | kova       | hard, stiff                             | Tämä harja on liian kova.         | This brush is too stiff.                    |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Haluaisin + haircut / Vain + amount {#haircut-requests}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-Опишите желаемый результат коротко: vähän lyhyemmät hiukset. При уточнении длины слово vain означает «only».
+- ★ **haista + miltä?** (-lta/-ltä; также возможно -lle): Takki haisee savulta. — The coat smells of smoke.
+- ★ **kutittaa + ketä? / mitä?** (partitiivi): Tämä voide kutittaa ihoani. — This cream makes my skin itch.
+- ★ **värjätä + дополнение + minkä väriseksi?** (цвет в translatiivi; с hiukset во множественном числе): Värjään hiukset ruskeiksi. — I dye my hair brown.
 
-Haluaisin vähän lyhyemmät hiukset. — I would like my hair a little shorter.  
-Vain kaksi senttiä pois, kiitos. — Just two centimetres off, please.  
-Älä leikkaa liian lyhyeksi. — Do not cut it too short.
+## Тексты для перевода {#translation-practice}
 
-#### ★ Käyn suihkussa / Pesen + what / Harjaan + what {#daily-hygiene-routines}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-Käydä suihkussa учите целиком. Части своего тела в этих обычных фразах можно назвать без местоимения: pesen kädet, harjaan hampaat.
+### С финского на английский {#finnish-text}
 
-Käyn suihkussa aamulla. — I have a shower in the morning.  
-Pesen kädet saippualla. — I wash my hands with soap.  
-Harjaan hampaat ennen nukkumaanmenoa. — I brush my teeth before going to bed.
+Aamulla menen suihkuun ja peseydyn saippualla. Pesen hiukset sampoolla ja huuhtelen ne hyvin. Kuivaan märät hiukset hiustenkuivaajalla ja kampaan ne. Laitan hiuslenkin, koska haluan pitää kampauksen siistinä. Harjaan hampaat hammasharjalla ja hammastahnalla sekä käytän hammaslankaa.
 
-#### ★ Something haisee + of what / Haistan + what {#smelling-and-sensing}
+Ihoni on kuiva ja kutittaa, joten rasvaan sen voiteella. Laitan myös deodoranttia ja katson peiliin ennen lähtöä. Tänään käyn kampaajalla, koska haluan lyhentää hiuksiani. Kampaaja ottaa sakset ja kysyy, haluanko myös värjätä hiukset. Puolisoni käy samalla parturissa ja ajelee myöhemmin partansa.
 
-Haista описывает сам запах, часто неприятный: «to give off a smell». Haistaa означает «to detect a smell». Это два разных глагола.
+Illalla otan uimapuvun mukaan ja menen uimahallin pukuhuoneeseen. Saunavuorolla istun pehmeän pyyhkeen päällä lauteilla. Kun kiukaalle heitetään vettä, löyly on kuuma ja hikoilen paljon. Käyn vilvoittelemassa ja venyttelen ennen kotiinlähtöä. Kotona vaihdan puhtaat alusvaatteet ja yöpukuni.
 
-Paita haisee hielle. — The shirt smells of sweat.  
-Haistan saippuan. — I can smell the soap.  
-Tämä voide ei sovi iholleni. — This cream does not suit my skin.
+??? note "Показать перевод на английский"
+
+    In the morning, I have a shower and wash with soap. I wash my hair with shampoo and rinse it well. I dry my wet hair with a hairdryer and comb it. I use a hair tie because I want to keep my hairstyle tidy. I brush my teeth with a toothbrush and toothpaste and use dental floss.
+
+    My skin is dry and itchy, so I apply cream to it. I also put on deodorant and look in the mirror before leaving. Today I am going to the hairdresser because I want to have my hair shortened. The hairdresser takes the scissors and asks whether I also want to dye my hair. My partner goes to the barber at the same time and shaves his beard later.
+
+    In the evening, I take my swimsuit and go to the swimming pool changing room. During my sauna slot, I sit on a soft towel on the sauna bench. When water is thrown on the sauna stove, the steam is hot and I sweat a lot. I cool down and stretch before going home. At home, I change into clean underwear and my pyjamas.
+
+### С английского на финский {#english-text}
+
+Before work I have a shower, wash with soap and rinse my hair. I use shampoo and dry my wet hair with a hairdryer. I brush my teeth with toothpaste and then use dental floss. My toothbrush is too hard, so I want a soft one. I shave my beard and look in the mirror.
+
+My skin is dry and itchy, so I put some cream on it. I comb my hair, put on deodorant and change my underwear. My partner puts on makeup and paints her nails before leaving. She wants to go to the hairdresser to shorten and dye her hair. I need to visit the barber too because my hairstyle is untidy.
+
+After work I take my swimming trunks and go to the changing room. During our sauna slot I sit on the bench away from the sauna stove. The steam makes me sweat, and soon I go outside to cool down. My partner massages my shoulders, and I stretch my legs. At home I put my damp towel in the wash and put on my pyjamas.
+
+??? note "Показать перевод на финский"
+
+    Ennen töitä käyn suihkussa, peseydyn saippualla ja huuhtelen hiukseni. Käytän sampoota ja kuivaan märät hiukseni hiustenkuivaajalla. Harjaan hampaat hammastahnalla ja käytän sitten hammaslankaa. Hammasharjani on liian kova, joten haluan pehmeän. Ajelen partani ja katson peiliin.
+
+    Ihoni on kuiva ja kutittaa, joten laitan siihen vähän voidetta. Kampaan hiukseni, laitan deodoranttia ja vaihdan alusvaatteet. Kumppanini meikkaa ja lakkaa kyntensä ennen lähtöä. Hän haluaa mennä kampaajalle, jotta kampaaja voi lyhentää ja värjätä hänen hiuksensa. Minunkin täytyy käydä parturissa, koska kampaukseni on epäsiisti.
+
+    Töiden jälkeen otan uimahousut ja menen pukuhuoneeseen. Saunavuorollamme istun lauteilla kaukana kiukaasta. Löyly saa minut hikoilemaan, ja pian menen ulos vilvoittelemaan. Kumppanini hieroo hartioitani, ja venyttelen jalkojani. Kotona laitan kostean pyyhkeen pyykkiin ja puen yöpuvun päälleni.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [У парикмахера](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/kampaaja-kampaamossa-sanasto-hairdressing)
 - [Сауна](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/sauna-kiuas-lauteet-ja-hoyry-finnish-vocabulary)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
+- [Глаголы ощущений](https://uusikielemme.fi/finnish-grammar/syntax/rections/perceptional-verbs-aistiverbit)
 
 [Все темы](../index.md).

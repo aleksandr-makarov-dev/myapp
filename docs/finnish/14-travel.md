@@ -86,39 +86,61 @@ quizlet_url: "https://quizlet.com/1228546330/flashcards/embed?i=53ndi1&x=1jj1"
 | uloskirjautuminen   | check-out                 | Uloskirjautuminen on ennen kahtatoista. | Check-out is before twelve.                         |
 | lisämaksu           | extra charge              | Tuleeko tästä lisämaksu?                | Is there an extra charge for this?                  |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Minulla on varaus + duration / booking name {#booking-details}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-Для длительности бронирования запомните yhdeksi yöksi и kahdeksi yöksi. Фамилию можно назвать после nimellä.
+- ★ **lähestyä + mitä?** (partitiivi): Juna lähestyy asemaa. — The train is approaching the station.
+- ★ **varautua + mihin?** (illatiivi): Varaudun sateeseen. — I am preparing for rain.
+- ★ **yöpyä + missä?** (форма «где»): Yövymme hotellissa. — We are staying overnight at a hotel.
+- ★ **majoittua + mihin?** (форма «куда»): Majoitumme pieneen hotelliin. — We will stay at a small hotel.
+- ★ **sisältyä + mihin?** (illatiivi): Aamupala sisältyy hintaan. — Breakfast is included in the price.
 
-Minulla on varaus kahdeksi yöksi. — I have a booking for two nights.  
-Varaus on nimellä Ivanov. — The booking is under the name Ivanov.  
-Haluaisin yhden hengen huoneen. — I would like a single room.
+## Тексты для перевода {#translation-practice}
 
-#### ★ Yövyn / Viivyn + where + how long — I stay… {#travel-and-stay-duration}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-Когда говорите о фактической длительности пребывания, используйте kaksi yötä или kolme päivää. Форма kahdeksi yöksi нужна при оформлении бронирования.
+### С финского на английский {#finnish-text}
 
-Yövyn hotellissa kaksi yötä. — I will stay at the hotel for two nights.  
-Viivymme täällä kolme päivää. — We will stay here for three days.  
-Lento kestää kaksi tuntia. — The flight takes two hours.
+Lennän huomenna ulkomaille ja tarkistan lennon lähtöajan. Minulla on meno-paluulippu ja suora lento. Pakkaan matkalaukun ja otan repun käsimatkatavaraksi. Ystävä saattaa minut lentokentälle ja toivottaa hyvää matkaa. Portilla virkailija tarkastaa lippuni, ja nousen lentokoneeseen.
 
-#### ★ Sisältyykö + what + hintaan? / Mihin aikaan…? {#travel-services}
+Varaudun pitkään matkaan ottamalla kirjan mukaan. Kun kone lähestyy kaupunkia, näen sataman ja suuren laivan. Laskeutumisen jälkeen opas neuvoo matkailijoita lentokentällä. Noudan laukkuni ja menen hotelliin, jossa yövyn kaksi yötä. Vastaanottovirkailija pyytää varausnumeroni ja vahvistaa varauksen.
 
-Hintaan в этих фразах означает «in the price». Mihin aikaan удобно использовать для отправления, прибытия и выезда из гостиницы.
+Yhden hengen huoneet ovat täynnä, joten majoitun kahden hengen huoneeseen. Kysyn, sisältyykö aamupala hintaan ja tuleeko huoneesta lisämaksu. Sisäänkirjautumisen jälkeen saan avainkortin ja vien tavarat huoneeseen. Sängyssä on puhtaat lakanat, pehmeä tyyny ja lämmin peitto. Huomenna kiertelen kaupungilla ja katson nähtävyyksiä ennen uloskirjautumista.
 
-Sisältyykö aamupala hintaan? — Is breakfast included in the price?  
-Mihin aikaan lento lähtee? — What time does the flight depart?  
-Mihin aikaan pitää kirjautua ulos? — What time do we have to check out?
+??? note "Показать перевод на английский"
+
+    I am flying abroad tomorrow and check the flight's departure time. I have a return ticket and a direct flight. I pack my suitcase and take a backpack as hand luggage. A friend takes me to the airport and wishes me a good journey. At the gate, an official checks my ticket, and I board the plane.
+
+    I prepare for the long journey by bringing a book. As the plane approaches the city, I see the harbour and a large ship. After landing, a guide helps travellers at the airport. I collect my bag and go to the hotel where I am staying for two nights. The receptionist asks for my booking number and confirms the reservation.
+
+    The single rooms are fully booked, so I stay in a double room. I ask whether breakfast is included in the price and whether there is an extra charge for the room. After check-in, I get a key card and take my things to the room. The bed has clean sheets, a soft pillow and a warm duvet. Tomorrow I will walk around the city and see the sights before check-out.
+
+### С английского на финский {#english-text}
+
+My partner and I are flying abroad for a short holiday. We have return tickets, but our direct flight has been cancelled. We confirm a new booking and check the departure and arrival times. A friend takes us to the airport, and we prepare for a long wait. I have a suitcase, and my partner has a backpack as hand luggage.
+
+At the gate a member of staff checks our tickets and helps the travellers. As the plane approaches the city, we see a ship near the harbour. After landing we collect our bags and go to the hotel. We stay for three nights in a double room because the single rooms are full. At check-in the receptionist asks for our booking number and gives us key cards.
+
+Breakfast is included, but there is an extra charge for a late check-out. In our room we find clean sheets, two pillows and a warm duvet. The time difference makes us tired, so we rest before walking around. Tomorrow a guide will show us the sights and explain the entrance fees. The hotel staff serve us kindly, and we hope to stay here again.
+
+??? note "Показать перевод на финский"
+
+    Kumppanini ja minä lennämme ulkomaille lyhyelle lomalle. Meillä on meno-paluuliput, mutta suora lentomme on peruttu. Vahvistamme uuden varauksen ja tarkistamme lähtö- ja saapumisajat. Ystävä saattaa meidät autolla lentokentälle, ja varaudumme pitkään odotukseen. Minulla on matkalaukku, ja kumppanillani on reppu käsimatkatavarana.
+
+    Portilla työntekijä tarkastaa lippumme ja auttaa matkailijoita. Kun lentokone lähestyy kaupunkia, näemme laivan sataman lähellä. Laskeutumisen jälkeen noudamme laukkumme ja menemme hotelliin. Yövymme kolme yötä kahden hengen huoneessa, koska yhden hengen huoneet ovat täynnä. Sisäänkirjautumisen yhteydessä vastaanottovirkailija kysyy varausnumeromme ja antaa meille avainkortit.
+
+    Aamupala sisältyy hintaan, mutta myöhäisestä uloskirjautumisesta tulee lisämaksu. Huoneestamme löydämme puhtaat lakanat, kaksi tyynyä ja lämpimän peiton. Aikaero väsyttää meitä, joten lepäämme ennen kuin lähdemme kiertelemään. Huomenna opas näyttää meille nähtävyyksiä ja kertoo pääsymaksuista. Hotellin henkilökunta palvelee meitä ystävällisesti, ja toivomme, että voimme yöpyä täällä uudelleen.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [Гостиница](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/hotellissa-finnish-hotel-vocabulary)
 - [Поездки и транспорт](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/travel-and-transportation-matkustaminen-ja-liikennemuodot)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 
 [Все темы](../index.md).

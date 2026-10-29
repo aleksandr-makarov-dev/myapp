@@ -86,39 +86,61 @@ quizlet_url: "https://quizlet.com/1228546818/flashcards/embed?i=53ndi1&x=1jj1"
 | painava            | heavy               | Paketti on painava.                     | The parcel is heavy.                                |
 | kevyt              | light in weight     | Tämä laatikko on kevyt.                 | This box is light.                                  |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Haluaisin lähettää + what + where to — I would like to send… {#sending-a-parcel}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-Для отправления одного предмета используйте kirjeen или paketin. Названия стран здесь отвечают на вопрос «where to?»: Suomeen, Viroon, Saksaan.
+- ★ **lainata + keneltä? / kenelle?**: Lainaan kirjan ystävältä. — I borrow a book from a friend. / Lainaan kirjan ystävälle. — I lend a book to a friend.
+- ★ **neuvoa + ketä? + missä? / -maan/-mään**: Virkailija neuvoo minua tässä asiassa. — The clerk advises me on this matter. / Hän neuvoo minua käyttämään automaattia. — He shows me how to use the machine.
+- ★ **suositella + mitä? + kenelle?**: Suosittelen tätä kirjaa sinulle. — I recommend this book to you.
+- ★ **kääriä + дополнение + mihin?**: Käärin lahjan paperiin. — I wrap the present in paper.
+- ★ **sijaita + missä?** (форма «где»): Kirjasto sijaitsee keskustassa. — The library is in the city centre.
 
-Haluaisin lähettää paketin Viroon. — I would like to send a parcel to Estonia.  
-Paljonko tämän kirjeen lähettäminen maksaa? — How much does it cost to send this letter?  
-Tässä on vastaanottajan osoite. — Here is the recipient's address.
+## Тексты для перевода {#translation-practice}
 
-#### ★ Lainaan + what + from whom / to whom {#borrowing-and-lending}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-Lainata может означать и «to borrow», и «to lend». Формы kirjastosta и ystävältä показывают источник, ystävälle получателя.
+### С финского на английский {#finnish-text}
 
-Lainaan kirjan kirjastosta. — I will borrow a book from the library.  
-Lainaan kirjan ystävältä. — I will borrow a book from a friend.  
-Lainaan kirjan ystävälle. — I will lend a book to a friend.
+Postitan tänään paketin ja kirjeen ystävälleni. Käärin lahjan paperiin ja laitan kirjeen kirjekuoreen. Liimaan postimerkin kuoreen ja merkitsen vastaanottajan osoitteen sekä postinumeron. Kirjoitan myös lähettäjän tiedot, jotta posti voi palauttaa lähetyksen. Postissa otan vuoronumeron ja jonotan, kunnes on minun vuoroni.
 
-#### ★ Haluaisin uusia… / Milloin pitää palauttaa…? {#renewing-and-returning}
+Virkailija punnitsee painavan paketin ja kertoo postimaksun. Saan seurantakoodin, jolla voin seurata paketin matkaa. Ystävä vastaanottaa sen lähellä sijaitsevasta noutopisteestä. Kevyen kirjeen jätän itse postilaatikkoon. Sen jälkeen käyn kirjastossa ja näytän kirjastokorttini.
 
-Для продления срока пользования книгой подходит uusia lainan. При вопросе о возврате используйте готовую конструкцию pitää palauttaa tämä kirja.
+Kirjastonhoitaja suosittelee selkokirjaa ja neuvoo minua etsimään sen hyllystä. Lainaan myös romaanin ja tarkistan laina-ajan sekä palautuspäivän. Haluan uusia vanhan lainani, jotta en joudu maksamaan myöhästymismaksua. Tulostan yhden sivun ja skannaan asiakirjan, josta tarvitsen kopion. Lopuksi palautan lehden palautusautomaattiin ja tarkistan huomisen aukioloajan.
 
-Haluaisin uusia tämän kirjan lainan. — I would like to renew this book loan.  
-Milloin minun pitää palauttaa tämä kirja? — When do I have to return this book?  
-Voinko palauttaa kirjan toiseen kirjastoon? — Can I return the book to another library?
+??? note "Показать перевод на английский"
+
+    Today I post a parcel and a letter to my friend. I wrap the present in paper and put the letter in an envelope. I stick a stamp on the envelope and write the recipient's address and postcode. I also write the sender's details so that the post office can return the item. At the post office, I take a queue number and wait until it is my turn.
+
+    The clerk weighs the heavy parcel and tells me the postage cost. I get a tracking code that lets me follow the parcel's journey. My friend collects it from a nearby collection point. I put the light letter in a postbox myself. After that, I visit the library and show my library card.
+
+    The librarian recommends an easy-language book and helps me find it on the shelf. I also borrow a novel and check the loan period and return date. I want to renew my old loan so that I do not have to pay a late fee. I print one page and scan a document that I need a copy of. Finally, I return a magazine using the returns machine and check tomorrow's opening hours.
+
+### С английского на финский {#english-text}
+
+I receive a message saying that my parcel is at a collection point. The parcel locker is near the post office, but I first check the opening hours. I use the tracking code to check where the parcel is. At the counter I take a queue number and wait for my turn. The clerk gives me the parcel, which is heavy, and a light letter.
+
+I also want to post a present, so I wrap it and write the recipient's details. I add the sender's address and make sure that the postcode is correct. The clerk weighs the parcel and tells me the postage cost. I put a stamp on an envelope and drop it into a postbox. Then I visit the library, which is located on the next street.
+
+The librarian recommends an easy-language book, but it is not available today. I use my library card to borrow a novel and an audiobook instead. I check the loan period and return date and renew another loan. Before leaving, I scan a page, print a copy and look up a word in a dictionary. The self-service machine is easy to use, and I return an old magazine without a late fee.
+
+??? note "Показать перевод на финский"
+
+    Saan viestin, että pakettini on noutopisteessä. Pakettiautomaatti on postin lähellä, mutta tarkistan ensin aukioloajat. Tarkistan seurantakoodilla, missä paketti on. Tiskillä otan vuoronumeron ja odotan vuoroani. Virkailija antaa minulle painavan paketin ja kevyen kirjeen.
+
+    Haluan myös postittaa lahjan, joten käärin sen ja kirjoitan vastaanottajan tiedot. Lisään lähettäjän osoitteen ja varmistan, että postinumero on oikein. Virkailija punnitsee paketin ja kertoo postimaksun. Liimaan postimerkin kirjekuoreen ja pudotan sen postilaatikkoon. Sitten käyn kirjastossa, joka sijaitsee seuraavalla kadulla.
+
+    Kirjastonhoitaja suosittelee selkokirjaa, mutta sitä ei ole saatavilla tänään. Lainaan kirjastokortillani sen sijaan romaanin ja äänikirjan. Tarkistan laina-ajan ja palautuspäivän sekä uusin toisen lainan. Ennen lähtöä skannaan sivun, tulostan kopion ja etsin sanan sanakirjasta. Itsepalveluautomaattia on helppo käyttää, ja palautan vanhan lehden ilman myöhästymismaksua.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [Почтовые услуги](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/finnish-postal-services-vocabulary-posti-kirje-paketti)
 - [В библиотеке](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/at-the-library-kirjastossa)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 
 [Все темы](../index.md).

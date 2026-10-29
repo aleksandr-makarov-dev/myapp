@@ -86,39 +86,60 @@ quizlet_url: "https://quizlet.com/1228545723/flashcards/embed?i=53ndi1&x=1jj1"
 | liittymä     | mobile phone plan | Haluan vaihtaa liittymää.       | I want to change my mobile phone plan. |
 | varmuuskopio | backup            | Teen kuvista varmuuskopion.     | I will make a backup of the photos.    |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Kirjaudun + where / Kirjaudun ulos — I log in / log out {#signing-in-and-out}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-Kirjautua palveluun означает «to log in to a service», kirjautua ulos palvelusta «to log out of a service». Для входа на сайт запомните sivustolle.
+- ★ **kirjautua + mihin? / kirjautua ulos + mistä?**: Kirjaudun palveluun. — I log in to the service. / Kirjaudun ulos palvelusta. — I log out of the service.
+- ★ **liittää + дополнение + mihin?**: Liitän osoitteen viestiin. — I paste the address into the message.
+- ★ **poistaa + дополнение + mistä?**: Poistan kuvan puhelimesta. — I delete the photo from the phone.
+- ★ **yhdistää + дополнение + mihin?**: Yhdistän puhelimen verkkoon. — I connect the phone to the network.
 
-Kirjaudun palveluun salasanalla. — I log in to the service with a password.  
-En voi kirjautua sivustolle. — I cannot log in to the website.  
-Kirjaudun ulos palvelusta. — I log out of the service.
+## Тексты для перевода {#translation-practice}
 
-#### ★ Something ei näy / ei kuulu / ei aukea {#technical-problems}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-Для изображения используйте näkyä, для звука kuulua. Если страница не открывается, подходит ei aukea.
+### С финского на английский {#finnish-text}
 
-Kuva ei näy. — The picture is not visible.  
-Ääni ei kuulu. — There is no sound.  
-Verkkosivu ei aukea. — The web page will not open.
+Ostan uuden älypuhelimen ja tarkistan ensin akun. Liitän laturin puhelimeen ja käynnistän laitteen. Näyttö on suuri, mutta minun täytyy muuttaa asetuksia. Yhdistän puhelimen langattomaan verkkoon, koska internet on täällä nopea. Lataan sovelluksen ja asennan sen puhelimeen.
 
-#### ★ Something on päällä / pois päältä / latauksessa {#device-status}
+Rekisteröidyn palveluun ja valitsen käyttäjätunnuksen. Sitten kirjaudun sisään ja avaan ystävän lähettämän linkin. Selaan verkkosivua ja kopioin tärkeän tekstin tiedostoon. Siirrän kuvat omaan kansioon ja teen niistä varmuuskopion. Puhelimeen tulee ilmoitus, että ohjelmaan on saatavilla päivitys.
 
-Päällä означает «on», pois päältä «off». Latauksessa означает «charging» и сообщает, что устройство заряжается.
+Päivitän ohjelman ja poistan vanhan sovelluksen, joka on hidas. Ystävä soittaa, mutta puhelun alussa ääni ei kuulu. Mikrofoni on pois päältä, joten painan painiketta ja laitan sen päälle. Kamera toimii, ja ystävän kuva näkyy hyvin. Lopuksi kuvaan lyhyen videon ja lähetän ystävälle tekstiviestin.
 
-Mikrofoni on pois päältä. — The microphone is off.  
-Kamera on päällä. — The camera is on.  
-Puhelin on latauksessa. — The phone is charging.
+??? note "Показать перевод на английский"
+
+    I buy a new smartphone and first check the battery. I connect the charger to the phone and start the device. The screen is large, but I need to change the settings. I connect the phone to the wireless network because the internet is fast here. I download an app and install it on the phone.
+
+    I register for the service and choose a username. Then I log in and open a link sent by a friend. I browse the web page and copy an important text into a file. I move the pictures to a separate folder and make a backup of them. A notification appears on the phone saying that an update is available for the program.
+
+    I update the program and delete an old app that is slow. A friend calls, but at the start of the call there is no sound. The microphone is off, so I press a button and turn it on. The camera works, and I can see my friend's picture clearly. Finally, I record a short video and send my friend a text message.
+
+### С английского на финский {#english-text}
+
+I use my tablet for studying and my smartphone for calls and text messages. Today the internet is slow, so I connect to another wireless network. I start the tablet and check the battery before the lesson. The charger is in my bag, together with my headphones. I install a new app, register and choose a username.
+
+After logging in, I click a link and browse the course website. I download a file, copy some text and paste it into a document. My keyboard and mouse make this easy, and the screen is large. I put the file in a folder and make a backup. A notification says that an update is ready, and I update the program.
+
+I delete an old video because I need more space for pictures. During the video call the teacher's picture is visible, but there is no sound. I check the settings and see that my headphones are switched off. I press a button, and now I can hear the teacher. At the end I switch off the camera and microphone and log out.
+
+??? note "Показать перевод на финский"
+
+    Käytän tablettia opiskeluun ja älypuhelinta puheluihin ja tekstiviesteihin. Tänään internet on hidas, joten yhdistän laitteen toiseen langattomaan verkkoon. Käynnistän tabletin ja tarkistan akun ennen oppituntia. Laturi on laukussani kuulokkeiden kanssa. Asennan uuden sovelluksen, rekisteröidyn ja valitsen käyttäjätunnuksen.
+
+    Kun olen kirjautunut sisään, klikkaan linkkiä ja selaan kurssin verkkosivua. Lataan tiedoston, kopioin tekstiä ja liitän sen asiakirjaan. Näppäimistö ja hiiri tekevät tästä helppoa, ja näyttö on suuri. Laitan tiedoston kansioon ja teen varmuuskopion. Ilmoitus kertoo, että päivitys on valmis, ja päivitän ohjelman.
+
+    Poistan vanhan videon, koska tarvitsen lisää tilaa kuville. Videopuhelun aikana opettajan kuva näkyy, mutta ääni ei kuulu. Tarkistan asetukset ja huomaan, että kuulokkeeni ovat pois päältä. Painan painiketta, ja nyt kuulen opettajan. Lopuksi laitan kameran ja mikrofonin pois päältä ja kirjaudun ulos.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [Телефон и связь](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/puhelin-kannykka-finnish-telephone-vocabulary)
 - [Компьютер и интернет](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/computer-tietokone-finnish-vocabulary)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 
 [Все темы](../index.md).

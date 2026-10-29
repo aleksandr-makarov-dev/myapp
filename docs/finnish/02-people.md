@@ -96,52 +96,62 @@ quizlet_url: "https://quizlet.com/1228543353/flashcards/embed?i=53ndi1&x=1jj1"
 | kanssa       | with                | Tulen ystävän kanssa.            | I will come with a friend.  |
 | yksin        | alone               | Asutko yksin?                    | Do you live alone?          |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Autan + whom — I help… {#helping-someone}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-Человек, которому помогают, стоит в partitiivi: lasta, ystävää, sinua. Слова läksyissä и kotitöissä уточняют, с чем нужна помощь.
+- ★ **auttaa + ketä?** (partitiivi): Autan lasta läksyissä. — I help the child with homework.
+- ★ **huolehtia + kenestä? / mistä?** (-sta/-stä): Huolehdin lapsesta illalla. — I take care of the child in the evening.
+- ★ **luottaa + keneen? / mihin?** (illatiivi): Luotan ystävääni. — I trust my friend.
+- ★ **tutustua + keneen? / mihin?** (illatiivi): Haluan tutustua naapuriin. — I want to get to know the neighbour.
+- ★ **pitää + kenestä? / mistä?** (to like; -sta/-stä): Pidän tästä ihmisestä. — I like this person.
 
-Autan lasta läksyissä. — I help the child with homework.  
-Autan ystävää kotitöissä. — I help a friend with housework.  
-Voitko auttaa minua? — Can you help me?
+## Тексты для перевода {#translation-practice}
 
-#### ★ Huolehdin + whom — I take care of… {#caring-for-someone}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-После huolehtia нужна форма на -sta или -stä: lapsesta, perheestä. Perheestäni означает «about my family», а окончание -ni указывает на «my».
+### С финского на английский {#finnish-text}
 
-Huolehdin lapsesta illalla. — I take care of the child in the evening.  
-Huolehdin perheestäni. — I take care of my family.
+Perheeseeni kuuluvat puolisoni, tyttäremme ja poikamme. Asumme yhdessä, ja autamme usein vanhempiamme. Äitini ja isäni ovat jo vanhoja, mutta he eivät halua asua yksin. Siskoni huolehtii heistä ja käy heidän kanssaan kaupassa. Veljeni on naimisissa, ja hänen kumppaninsa on hyvin ystävällinen.
 
-#### ★ Luotan + whom — I trust… {#trusting-someone}
+Tänään isoäidillä on syntymäpäivä, ja kutsumme hänet meille. Isoisä tulee myös, koska hän pitää seurasta. Odotamme vieraita, ja lapsi antaa isoäidille lahjan. Nuori naapurimme tulee vauvan kanssa, ja tutustumme häneen. Vauva itkee ensin, mutta rauhallinen aikuinen ottaa hänet syliin.
 
-Запоминайте управление вместе с глаголом: luottaa ystävään. У местоимений свои формы: sinuun, häneen, meihin.
+Pian kaikki hymyilevät ja nauravat yhdessä. Yksi ystävä ei pääse tulemaan, ja minulla on häntä ikävä. Ajattelen häntä ja sovin hänen kanssaan tapaamisesta. Tunnen hänet hyvin ja luotan häneen. Rakkaat ihmiset ovat minulle tärkeitä, ja haluan jakaa arkeni heidän kanssaan.
 
-Luotan sinuun. — I trust you.  
-Luotan ystävääni. — I trust my friend.
+??? note "Показать перевод на английский"
 
-#### ★ Pidän + -sta/-stä form — I like… {#liking-something}
+    My family includes my spouse, our daughter and our son. We live together and often help our parents. My mother and father are already old, but they do not want to live alone. My sister takes care of them and goes shopping with them. My brother is married, and his partner is very friendly.
 
-В значении «to like» после pitää нужна форма на -sta или -stä: ihmisestä, kirjasta, kahvista. Запоминайте эти сочетания целиком.
+    Today is Grandma's birthday, and we invite her to our home. Grandpa comes too because he likes company. We wait for the guests, and the child gives Grandma a present. Our young neighbour comes with her baby, and we get to know her. The baby cries at first, but a calm adult picks him up.
 
-Pidän tästä ihmisestä. — I like this person.  
-Pidän tästä kirjasta. — I like this book.  
-Pidän kahvista. — I like coffee.
+    Soon everyone is smiling and laughing together. One friend cannot come, and I miss her. I think about her and arrange a meeting with her. I know her well and trust her. The people I love are important to me, and I want to share my everyday life with them.
 
-#### ★ Minulla on ikävä + whom — I miss… {#missing-someone}
+### С английского на финский {#english-text}
 
-После ikävä человек, по которому скучают, стоит в partitiivi: sinua, äitiä, perhettäni.
+My sister has a young daughter and a baby boy. Her spouse is a calm and friendly person, and I know him well. They live together near our parents, and my brother often visits them. Our mother takes care of the baby when the adults need help. The baby sometimes cries, but his grandmother smiles at him.
 
-Minulla on ikävä sinua. — I miss you.  
-Minulla on ikävä perhettäni. — I miss my family.
+Today is our father's birthday, and we want to give him a present. We invite our grandfather and a good friend to dinner. Our old neighbour is lonely, so we invite her too. She likes company, and we want her to feel happy. I arrange the time with my sister and wait for the guests.
+
+My father meets my friend's partner for the first time. We share the food, laugh and think about our family. My brother is sad because he misses his wife. He is married, but she is away this week. We love him and tell him that he can trust us.
+
+??? note "Показать перевод на финский"
+
+    Siskollani on pieni tytär ja poikavauva. Hänen puolisonsa on rauhallinen ja ystävällinen ihminen, ja tunnen hänet hyvin. He asuvat yhdessä vanhempiemme lähellä, ja veljeni vierailee usein heidän luonaan. Äitimme huolehtii vauvasta, kun aikuiset tarvitsevat apua. Vauva itkee joskus, mutta hänen isoäitinsä hymyilee hänelle.
+
+    Tänään on isämme syntymäpäivä, ja haluamme antaa hänelle lahjan. Kutsumme isoisämme ja hyvän ystävän päivälliselle. Vanha naapurimme on yksinäinen, joten kutsumme hänetkin. Hän pitää seurasta, ja haluamme, että hän on iloinen. Sovin ajan siskoni kanssa ja odotan vieraita.
+
+    Isäni tapaa ystäväni kumppanin ensimmäistä kertaa. Jaamme ruoan, nauramme ja ajattelemme perhettämme. Veljeni on surullinen, koska hän kaipaa vaimoaan. Hän on naimisissa, mutta hänen vaimonsa on poissa tämän viikon. Rakastamme häntä ja kerromme, että hän voi luottaa meihin.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [Семья](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/family-members-perhe-ja-sukulaiset)
 - [Дружба и отношения](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/friendship-and-love-ystavyys-ja-rakkaus)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
+- [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
 
 [Все темы](../index.md).

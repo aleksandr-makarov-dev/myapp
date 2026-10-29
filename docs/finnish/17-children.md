@@ -86,39 +86,63 @@ quizlet_url: "https://quizlet.com/1228547111/flashcards/embed?i=53ndi1&x=1jj1"
 | itsenäinen  | independent              | Hän on jo melko itsenäinen.            | He is already quite independent.          |
 | vuorotellen | in turns                 | Lapset keinuvat vuorotellen.           | The children take turns on the swing.     |
 
-## Hyödylliset lauserakenteet — Useful sentence structures {#useful-structures}
+## Глагольное управление {#useful-structures}
 
-#### ★ Lapseni käy + where / on + school grade {#school-attendance}
+Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
 
-Запоминайте сочетания käy päiväkodissa и käy koulua. Для класса используются формы ensimmäisellä luokalla и toisella luokalla.
+- ★ **kannustaa + ketä? + -maan/-mään** (человек в partitiivi; действие в -maan/-mään): Kannustan lasta yrittämään uudelleen. — I encourage the child to try again.
+- ★ **kieltää + ketä? + -masta/-mästä** (человек в partitiivi; действие в -masta/-mästä): Kiellän lasta menemästä tielle. — I tell the child not to go onto the road.
+- ★ **syöttää + kenelle? + mitä?**: Syötän vauvalle puuroa. — I feed the baby porridge.
+- ★ **totella + ketä?** (partitiivi): Lapsi tottelee opettajaa. — The child obeys the teacher.
+- ★ **kehua + ketä? + mistä?**: Kehuin lasta hyvästä työstä. — I praised the child for good work.
 
-Lapseni käy päiväkodissa. — My child goes to daycare.  
-Poikani käy koulua. — My son goes to school.  
-Tyttäreni on toisella luokalla. — My daughter is in the second grade.
+## Тексты для перевода {#translation-practice}
 
-#### ★ Ilmoitan + about what + to whom — I report… {#reporting-an-absence}
+Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
 
-После ilmoittaa в этой конструкции нужны тема на -sta/-stä и получатель на -lle: poissaolosta opettajalle.
+### С финского на английский {#finnish-text}
 
-Ilmoitan lapsen poissaolosta opettajalle. — I will tell the teacher about my child's absence.  
-Lapseni on sairaana tänään. — My child is ill today.  
-Haen lapseni tänään tavallista aikaisemmin. — I will pick up my child earlier than usual today.
+Tyttäreni käy päiväkodissa, ja poikani on esikoulussa. Aamulla syötän pienelle lapselle puuroa ja vaihdan vaipan. Vien hänet lastenrattailla päiväkotiin ja halaan häntä ovella. Hän on ujo uudessa ryhmässä, joten aikuinen lohduttaa häntä. Pian hän leikkii nukella ja tekee palapeliä toisen lapsen kanssa.
 
-#### ★ Autan + whom + with what / Kannustan + whom + to do what {#supporting-a-child}
+Pihalla lapset keinuvat, kiipeävät ja laskevat liukumäkeä. He potkivat palloa ja käyttävät keinua vuorotellen. Poikani on vilkas, mutta hän osaa käyttäytyä hyvin ja totella ohjeita. Kannustan häntä toimimaan itsenäisesti ja kehun häntä yrittämisestä. Koulussa oppilaat värittävät, askartelevat ja laskevat pieniä laskuja.
 
-После auttaa и kannustaa человек стоит в partitiivi: lasta. Для занятия после kannustaa запомните yrittämään.
+Välitunnilla poikani hyppii luokkakaverin kanssa, eikä ketään saa kiusata. Ruokailun jälkeen pienet lapset nukkuvat päiväunet ja syövät myöhemmin välipalan. Huomenna ryhmä tekee retken, ja pakkaan eväät valmiiksi. Illan vanhempainillassa rehtori puhuu koulupäivästä ja poissaoloista. Kotona luen iltasadun ja ajattelen, miten nopeasti lapseni kasvavat.
 
-Autan lasta läksyissä. — I help the child with homework.  
-Kannustan lasta yrittämään uudelleen. — I encourage the child to try again.  
-Miten lapseni viihtyy ryhmässä? — How is my child settling into the group?
+??? note "Показать перевод на английский"
+
+    My daughter attends daycare, and my son is in preschool. In the morning, I feed the small child porridge and change her nappy. I take her to daycare in a pushchair and hug her at the door. She is shy in the new group, so an adult comforts her. Soon she is playing with a doll and doing a jigsaw puzzle with another child.
+
+    In the yard, the children swing, climb and go down the slide. They kick a ball and take turns using the swing. My son is lively, but he knows how to behave well and follow instructions. I encourage him to do things independently and praise him for trying. At school, the pupils colour, do crafts and do simple sums.
+
+    At break time, my son jumps around with a classmate, and no one may be bullied. After the meal, the small children have a nap and later eat a snack. Tomorrow the group is going on an outing, and I pack the food in advance. At the parents' evening, the head teacher talks about the school day and absences. At home, I read a bedtime story and think about how quickly my children are growing.
+
+### С английского на финский {#english-text}
+
+I am the guardian of two children, and I want to raise them with care. My older child is a pupil, and the younger one goes to daycare. In the morning I feed the baby, change a nappy and put him in the pushchair. My daughter is shy, so I hug her and encourage her to join the group. The teacher comforts her and gives her a toy and a jigsaw puzzle.
+
+Soon she is playing with a doll and taking turns with another child. Outside the children swing, climb and jump near the slide. The adults forbid them to push others and remind them to behave well. My son obeys the instructions, and I praise him for helping a classmate. During the school day the class counts, colours pictures and makes crafts.
+
+At break time the pupils play with a ball, and no one is allowed to bully others. After the meal the younger children have a nap and later eat a snack. Tomorrow there is an outing, and each child needs food to take along. At the parents' evening the head teacher explains how to report an absence. In the evening the babysitter reads a bedtime story while I prepare for tomorrow.
+
+??? note "Показать перевод на финский"
+
+    Olen kahden lapsen huoltaja, ja haluan kasvattaa heitä huolella. Vanhempi lapseni on koululainen, ja nuorempi käy päiväkodissa. Aamulla syötän vauvalle ruokaa, vaihdan vaipan ja laitan hänet lastenrattaisiin. Tyttäreni on ujo, joten halaan häntä ja kannustan häntä menemään mukaan ryhmään. Opettaja lohduttaa häntä ja antaa hänelle lelun ja palapelin.
+
+    Pian hän leikkii nukella vuorotellen toisen lapsen kanssa. Ulkona lapset keinuvat, kiipeävät ja hyppivät liukumäen lähellä. Aikuiset kieltävät heitä tönimästä muita ja muistuttavat, että pitää käyttäytyä hyvin. Poikani tottelee ohjeita, ja kehun häntä luokkakaverin auttamisesta. Koulupäivän aikana luokka laskee, värittää kuvia ja askartelee.
+
+    Välitunnilla oppilaat leikkivät pallolla, eikä kukaan saa kiusata muita. Ruokailun jälkeen nuoremmat lapset nukkuvat päiväunet ja syövät myöhemmin välipalan. Huomenna on retki, ja jokainen lapsi tarvitsee eväät mukaan. Vanhempainillassa rehtori selittää, miten poissaolosta ilmoitetaan. Illalla lapsenvahti lukee iltasadun, kun valmistaudun huomiseen.
 
 <!-- quizlet -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры и английские переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, учебные тексты и переводы составлены для этой подборки.
 
 - [Дети и повседневные занятия](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/childhood-lapsuus-finnish-vocabulary)
 - [Школа](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/school-koulu-finnish-vocabulary)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
+- [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
+- [Управление с MA-infinitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/third-infinitive-rections-kolmas-infinitiivi)
 
 [Все темы](../index.md).
