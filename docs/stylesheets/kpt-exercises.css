@@ -1,0 +1,16 @@
+/* Only the clickable gaps in the kpt exercise. */
+.kpt-gap {
+  background: #448aff1a;
+  border: 0;
+  border-radius: 0.2rem;
+  color: var(--md-typeset-a-color);
+  cursor: pointer;
+  font: inherit;
+  min-width: 6ch;
+  padding: 0 0.35em;
+}
+
+.kpt-gap:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}

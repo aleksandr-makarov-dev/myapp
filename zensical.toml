@@ -39,11 +39,12 @@ nav = [
   ] },
   { "Упражнения" = [
     { "Выбор времени" = "exercises/verb-tenses.md" },
+    { "Kpt в глаголах" = "exercises/kpt-verbs.md" },
   ] },
 ]
 
-extra_css = ["stylesheets/extra.css"]
-extra_javascript = ["javascripts/vocabulary-view.js"]
+extra_css = ["stylesheets/extra.css", "stylesheets/kpt-exercises.css"]
+extra_javascript = ["javascripts/vocabulary-view.js", "javascripts/kpt-exercises.js"]
 
 [project.theme]
 # variant = "classic"
