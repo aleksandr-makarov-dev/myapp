@@ -96,55 +96,25 @@ description: "Рассказать о семье, договориться о в
 
 ## Глагольное управление {#useful-structures}
 
-Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
+Только особые падежи и конструкции для значений этой темы. Для partitiivi приведена типичная модель.
 
-- ★ **auttaa + ketä?** (partitiivi): Autan lasta läksyissä. — I help the child with homework.
-- ★ **huolehtia + kenestä? / mistä?** (-sta/-stä): Huolehdin lapsesta illalla. — I take care of the child in the evening.
-- ★ **luottaa + keneen? / mihin?** (illatiivi): Luotan ystävääni. — I trust my friend.
-- ★ **tutustua + keneen? / mihin?** (illatiivi): Haluan tutustua naapuriin. — I want to get to know the neighbour.
-- ★ **pitää + kenestä? / mistä?** (to like; -sta/-stä): Pidän tästä ihmisestä. — I like this person.
-
-## Тексты для перевода {#translation-practice}
-
-Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
-
-### С финского на английский {#finnish-text}
-
-Perheeseeni kuuluvat puolisoni, tyttäremme ja poikamme. Asumme yhdessä, ja autamme usein vanhempiamme. Äitini ja isäni ovat jo vanhoja, mutta he eivät halua asua yksin. Siskoni huolehtii heistä ja käy heidän kanssaan kaupassa. Veljeni on naimisissa, ja hänen kumppaninsa on hyvin ystävällinen.
-
-Tänään isoäidillä on syntymäpäivä, ja kutsumme hänet meille. Isoisä tulee myös, koska hän pitää seurasta. Odotamme vieraita, ja lapsi antaa isoäidille lahjan. Nuori naapurimme tulee vauvan kanssa, ja tutustumme häneen. Vauva itkee ensin, mutta rauhallinen aikuinen ottaa hänet syliin.
-
-Pian kaikki hymyilevät ja nauravat yhdessä. Yksi ystävä ei pääse tulemaan, ja minulla on häntä ikävä. Ajattelen häntä ja sovin hänen kanssaan tapaamisesta. Tunnen hänet hyvin ja luotan häneen. Rakkaat ihmiset ovat minulle tärkeitä, ja haluan jakaa arkeni heidän kanssaan.
-
-??? note "Показать перевод на английский"
-
-    My family includes my spouse, our daughter and our son. We live together and often help our parents. My mother and father are already old, but they do not want to live alone. My sister takes care of them and goes shopping with them. My brother is married, and his partner is very friendly.
-
-    Today is Grandma's birthday, and we invite her to our home. Grandpa comes too because he likes company. We wait for the guests, and the child gives Grandma a present. Our young neighbour comes with her baby, and we get to know her. The baby cries at first, but a calm adult picks him up.
-
-    Soon everyone is smiling and laughing together. One friend cannot come, and I miss her. I think about her and arrange a meeting with her. I know her well and trust her. The people I love are important to me, and I want to share my everyday life with them.
-
-### С английского на финский {#english-text}
-
-My sister has a young daughter and a baby boy. Her spouse is a calm and friendly person, and I know him well. They live together near our parents, and my brother often visits them. Our mother takes care of the baby when the adults need help. The baby sometimes cries, but his grandmother smiles at him.
-
-Today is our father's birthday, and we want to give him a present. We invite our grandfather and a good friend to dinner. Our old neighbour is lonely, so we invite her too. She likes company, and we want her to feel happy. I arrange the time with my sister and wait for the guests.
-
-My father meets my friend's partner for the first time. We share the food, laugh and think about our family. My brother is sad because he misses his wife. He is married, but she is away this week. We love him and tell him that he can trust us.
-
-??? note "Показать перевод на финский"
-
-    Siskollani on pieni tytär ja poikavauva. Hänen puolisonsa on rauhallinen ja ystävällinen ihminen, ja tunnen hänet hyvin. He asuvat yhdessä vanhempiemme lähellä, ja veljeni vierailee usein heidän luonaan. Äitimme huolehtii vauvasta, kun aikuiset tarvitsevat apua. Vauva itkee joskus, mutta hänen isoäitinsä hymyilee hänelle.
-
-    Tänään on isämme syntymäpäivä, ja haluamme antaa hänelle lahjan. Kutsumme isoisämme ja hyvän ystävän päivälliselle. Vanha naapurimme on yksinäinen, joten kutsumme hänetkin. Hän pitää seurasta, ja haluamme, että hän on iloinen. Sovin ajan siskoni kanssa ja odotan vieraita.
-
-    Isäni tapaa ystäväni kumppanin ensimmäistä kertaa. Jaamme ruoan, nauramme ja ajattelemme perhettämme. Veljeni on surullinen, koska hän kaipaa vaimoaan. Hän on naimisissa, mutta hänen vaimonsa on poissa tämän viikon. Rakastamme häntä ja kerromme, että hän voi luottaa meihin.
-
-<!-- quizlet: https://quizlet.com/1228543353/flashcards/embed?i=53ndi1&x=1jj1 -->
+| Глагол | Управление | Пример |
+| --- | --- | --- |
+| **tutustua** | keneen? / mihin? (illatiivi) | Haluan tutustua naapureihin. |
+| **auttaa** | ketä? (partitiivi); missä? (в каком деле); MA-инфинитив: auttaa tekemään | Autan lasta läksyissä. |
+| **huolehtia** | kenestä? / mistä? (elatiivi) | Huolehdin lapsesta illalla. |
+| **rakastaa** | ketä? / mitä? (partitiivi) | Rakastan perhettäni. |
+| **pitää** | kenestä? / mistä? (elatiivi; в значении «нравиться») | Pidän tästä ihmisestä. |
+| **luottaa** | keneen? / mihin? (illatiivi) | Luotan sinuun. |
+| **ajatella** | ketä? / mitä? (partitiivi); ajatella + että… | Ajattelen sinua usein. |
+| **sopia** | mistä? + kenen kanssa? (договориться); kenelle? (подходить) | Sovimme tapaamisesta huomiselle. |
+| **odottaa** | ketä? / mitä? (partitiivi) | Odotan puolisoani kotona. |
+| **hymyillä** | kenelle? (allatiivi; улыбаться кому) | Vauva hymyilee minulle. |
+| **nauraa** | kenelle? / mille? (allatiivi); можно без дополнения | Nauramme yhdessä. |
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, учебные тексты и переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, переводы и карточки составлены для этой подборки.
 
 - [Семья](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/family-members-perhe-ja-sukulaiset)
 - [Дружба и отношения](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/friendship-and-love-ystavyys-ja-rakkaus)
@@ -152,4 +122,30 @@ My father meets my friend's partner for the first time. We share the food, laugh
 - [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 - [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
 
+- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
+- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
+
 [Все темы](../index.md).
+
+## Практика {#practice}
+
+### 1. Слова {#word-practice}
+
+Вспомните финское слово по английскому переводу. В каждом наборе — вся лексика темы.
+
+<!-- quizlet: 1228543353 flashcards -->
+
+
+### 2. Пропущенные слова {#cloze-practice}
+
+Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+
+### 3. Предложения {#sentence-practice}
+
+Напишите полное предложение на финском по английскому переводу. После проверки можно сравнить свой вариант с образцом.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->

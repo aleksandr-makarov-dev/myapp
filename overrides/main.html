@@ -1,16 +1,17 @@
 {% extends "base.html" %}
 {% block content %}
-  {% set content = super() %}
-  {% for fragment in content | split("<!-- quizlet:") %}
+  {% set rendered_content = super() %}
+  {% for fragment in rendered_content | split("<!-- quizlet:") %}
     {% if loop.first %}
       {{ fragment | safe }}
     {% else %}
-      {% set parts = fragment | split("-->") | list %}
-      {% if parts | length > 1 %}
-        {% set quizlet_url = parts[0] | trim %}
-        {% set quizlet_id = "quizlet-" ~ loop.index %}
+      {% set marker_fragments = fragment | split("-->") | list %}
+      {% if marker_fragments | length > 1 %}
+        {% set marker_arguments = marker_fragments[0] | trim | split(" ") | reject("equalto", "") | list %}
+        {% set quizlet_set_id = marker_arguments[0] if marker_arguments | length > 0 else "" %}
+        {% set quizlet_mode = marker_arguments[1] if marker_arguments | length > 1 else "flashcards" %}
         {% include "partials/quizlet.html" %}
-        {{ parts[1:] | join("-->") | safe }}
+        {{ marker_fragments[1:] | join("-->") | safe }}
       {% else %}
         {{ ("<!-- quizlet:" ~ fragment) | safe }}
       {% endif %}

@@ -1,25 +1,17 @@
-{% if quizlet_url %}
-  {% set quizlet_src = quizlet_url %}
-  {% set url_parts = quizlet_url | split("?") | list %}
-  {% set parts = url_parts[0] | split("/") | list %}
-  {% if parts | length > 3 and parts[3] and parts[3][0] in "0123456789" %}
-    {% set quizlet_src = "https://quizlet.com/" ~ parts[3] ~ "/flashcards/embed" %}
-  {% elif parts | length > 4 and parts[4] and parts[4][0] in "0123456789" %}
-    {% set quizlet_src = "https://quizlet.com/" ~ parts[4] ~ "/flashcards/embed" %}
-  {% endif %}
-  {% if url_parts | length > 1 %}
-    {% set quizlet_src = quizlet_src ~ "?" ~ url_parts[1] %}
-  {% endif %}
-  <section aria-labelledby="{{ quizlet_id }}">
-    <h2 id="{{ quizlet_id }}">Практика в Quizlet</h2>
-    <iframe
-      src="{{ quizlet_src | e }}"
-      title="Quizlet: {{ page.title | e }}"
-      height="720"
-      width="100%"
-      style="display:block;border:0"
-      loading="lazy"
-    ></iframe>
-    <p><a href="{{ quizlet_src | e }}" target="_blank" rel="noopener">Открыть карточки в Quizlet</a></p>
-  </section>
+{# Use distinct variable names: this include must not overwrite marker_fragments. #}
+{% set non_digits = quizlet_set_id | replace("0", "") | replace("1", "") | replace("2", "") | replace("3", "") | replace("4", "") | replace("5", "") | replace("6", "") | replace("7", "") | replace("8", "") | replace("9", "") %}
+{% if quizlet_set_id and not non_digits and quizlet_mode in ["flashcards", "learn", "test", "match", "spell"] %}
+  <iframe
+    class="quizlet-embed"
+    src="https://quizlet.com/{{ quizlet_set_id }}/{{ quizlet_mode }}/embed"
+    title="Quizlet: {{ page.title | e }} · {{ quizlet_mode }}"
+    width="100%"
+    height="720"
+    loading="lazy"
+    allow="fullscreen"
+    allowfullscreen
+  ></iframe>
+  <p><a href="https://quizlet.com/{{ quizlet_set_id }}/{{ quizlet_mode }}/" target="_blank" rel="noopener noreferrer">Открыть в Quizlet</a></p>
+{% elif quizlet_set_id %}
+  <p role="alert">Quizlet: укажите числовой ID набора и режим flashcards, learn, test, match или spell.</p>
 {% endif %}

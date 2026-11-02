@@ -1,0 +1,442 @@
+[
+  {
+    "id": "01-conversation-words",
+    "topic": "Знакомство",
+    "kind": "words",
+    "title": "Знакомство · Слова",
+    "cards": 55,
+    "quizletId": "1228543162"
+  },
+  {
+    "id": "01-conversation-cloze",
+    "topic": "Знакомство",
+    "kind": "cloze",
+    "title": "Знакомство · Пропущенные слова",
+    "cards": 55
+  },
+  {
+    "id": "01-conversation-sentences",
+    "topic": "Знакомство",
+    "kind": "sentences",
+    "title": "Знакомство · Предложения",
+    "cards": 55
+  },
+  {
+    "id": "02-people-words",
+    "topic": "Семья и близкие",
+    "kind": "words",
+    "title": "Семья и близкие · Слова",
+    "cards": 55,
+    "quizletId": "1228543353"
+  },
+  {
+    "id": "02-people-cloze",
+    "topic": "Семья и близкие",
+    "kind": "cloze",
+    "title": "Семья и близкие · Пропущенные слова",
+    "cards": 55
+  },
+  {
+    "id": "02-people-sentences",
+    "topic": "Семья и близкие",
+    "kind": "sentences",
+    "title": "Семья и близкие · Предложения",
+    "cards": 55
+  },
+  {
+    "id": "03-routine-words",
+    "topic": "День и время",
+    "kind": "words",
+    "title": "День и время · Слова",
+    "cards": 67,
+    "quizletId": "1228543579"
+  },
+  {
+    "id": "03-routine-cloze",
+    "topic": "День и время",
+    "kind": "cloze",
+    "title": "День и время · Пропущенные слова",
+    "cards": 67
+  },
+  {
+    "id": "03-routine-sentences",
+    "topic": "День и время",
+    "kind": "sentences",
+    "title": "День и время · Предложения",
+    "cards": 67
+  },
+  {
+    "id": "04-home-words",
+    "topic": "Дом и быт",
+    "kind": "words",
+    "title": "Дом и быт · Слова",
+    "cards": 55,
+    "quizletId": "1228543765"
+  },
+  {
+    "id": "04-home-cloze",
+    "topic": "Дом и быт",
+    "kind": "cloze",
+    "title": "Дом и быт · Пропущенные слова",
+    "cards": 55
+  },
+  {
+    "id": "04-home-sentences",
+    "topic": "Дом и быт",
+    "kind": "sentences",
+    "title": "Дом и быт · Предложения",
+    "cards": 55
+  },
+  {
+    "id": "05-food-words",
+    "topic": "Еда и кафе",
+    "kind": "words",
+    "title": "Еда и кафе · Слова",
+    "cards": 55,
+    "quizletId": "1228544040"
+  },
+  {
+    "id": "05-food-cloze",
+    "topic": "Еда и кафе",
+    "kind": "cloze",
+    "title": "Еда и кафе · Пропущенные слова",
+    "cards": 55
+  },
+  {
+    "id": "05-food-sentences",
+    "topic": "Еда и кафе",
+    "kind": "sentences",
+    "title": "Еда и кафе · Предложения",
+    "cards": 55
+  },
+  {
+    "id": "06-shopping-words",
+    "topic": "Покупки",
+    "kind": "words",
+    "title": "Покупки · Слова",
+    "cards": 55,
+    "quizletId": "1228544371"
+  },
+  {
+    "id": "06-shopping-cloze",
+    "topic": "Покупки",
+    "kind": "cloze",
+    "title": "Покупки · Пропущенные слова",
+    "cards": 55
+  },
+  {
+    "id": "06-shopping-sentences",
+    "topic": "Покупки",
+    "kind": "sentences",
+    "title": "Покупки · Предложения",
+    "cards": 55
+  },
+  {
+    "id": "07-city-words",
+    "topic": "Город и транспорт",
+    "kind": "words",
+    "title": "Город и транспорт · Слова",
+    "cards": 55,
+    "quizletId": "1228544538"
+  },
+  {
+    "id": "07-city-cloze",
+    "topic": "Город и транспорт",
+    "kind": "cloze",
+    "title": "Город и транспорт · Пропущенные слова",
+    "cards": 55
+  },
+  {
+    "id": "07-city-sentences",
+    "topic": "Город и транспорт",
+    "kind": "sentences",
+    "title": "Город и транспорт · Предложения",
+    "cards": 55
+  },
+  {
+    "id": "08-health-words",
+    "topic": "Здоровье",
+    "kind": "words",
+    "title": "Здоровье · Слова",
+    "cards": 55,
+    "quizletId": "1228544695"
+  },
+  {
+    "id": "08-health-cloze",
+    "topic": "Здоровье",
+    "kind": "cloze",
+    "title": "Здоровье · Пропущенные слова",
+    "cards": 55
+  },
+  {
+    "id": "08-health-sentences",
+    "topic": "Здоровье",
+    "kind": "sentences",
+    "title": "Здоровье · Предложения",
+    "cards": 55
+  },
+  {
+    "id": "09-work-study-words",
+    "topic": "Работа и учёба",
+    "kind": "words",
+    "title": "Работа и учёба · Слова",
+    "cards": 57,
+    "quizletId": "1228544871"
+  },
+  {
+    "id": "09-work-study-cloze",
+    "topic": "Работа и учёба",
+    "kind": "cloze",
+    "title": "Работа и учёба · Пропущенные слова",
+    "cards": 57
+  },
+  {
+    "id": "09-work-study-sentences",
+    "topic": "Работа и учёба",
+    "kind": "sentences",
+    "title": "Работа и учёба · Предложения",
+    "cards": 57
+  },
+  {
+    "id": "10-leisure-words",
+    "topic": "Досуг и погода",
+    "kind": "words",
+    "title": "Досуг и погода · Слова",
+    "cards": 55,
+    "quizletId": "1228545097"
+  },
+  {
+    "id": "10-leisure-cloze",
+    "topic": "Досуг и погода",
+    "kind": "cloze",
+    "title": "Досуг и погода · Пропущенные слова",
+    "cards": 55
+  },
+  {
+    "id": "10-leisure-sentences",
+    "topic": "Досуг и погода",
+    "kind": "sentences",
+    "title": "Досуг и погода · Предложения",
+    "cards": 55
+  },
+  {
+    "id": "11-feelings-words",
+    "topic": "Чувства и мнения",
+    "kind": "words",
+    "title": "Чувства и мнения · Слова",
+    "cards": 50,
+    "quizletId": "1228545377"
+  },
+  {
+    "id": "11-feelings-cloze",
+    "topic": "Чувства и мнения",
+    "kind": "cloze",
+    "title": "Чувства и мнения · Пропущенные слова",
+    "cards": 50
+  },
+  {
+    "id": "11-feelings-sentences",
+    "topic": "Чувства и мнения",
+    "kind": "sentences",
+    "title": "Чувства и мнения · Предложения",
+    "cards": 50
+  },
+  {
+    "id": "12-internet-words",
+    "topic": "Телефон и интернет",
+    "kind": "words",
+    "title": "Телефон и интернет · Слова",
+    "cards": 50,
+    "quizletId": "1228545723"
+  },
+  {
+    "id": "12-internet-cloze",
+    "topic": "Телефон и интернет",
+    "kind": "cloze",
+    "title": "Телефон и интернет · Пропущенные слова",
+    "cards": 50
+  },
+  {
+    "id": "12-internet-sentences",
+    "topic": "Телефон и интернет",
+    "kind": "sentences",
+    "title": "Телефон и интернет · Предложения",
+    "cards": 50
+  },
+  {
+    "id": "13-housing-words",
+    "topic": "Жильё и переезд",
+    "kind": "words",
+    "title": "Жильё и переезд · Слова",
+    "cards": 50,
+    "quizletId": "1228546092"
+  },
+  {
+    "id": "13-housing-cloze",
+    "topic": "Жильё и переезд",
+    "kind": "cloze",
+    "title": "Жильё и переезд · Пропущенные слова",
+    "cards": 50
+  },
+  {
+    "id": "13-housing-sentences",
+    "topic": "Жильё и переезд",
+    "kind": "sentences",
+    "title": "Жильё и переезд · Предложения",
+    "cards": 50
+  },
+  {
+    "id": "14-travel-words",
+    "topic": "Поездки и гостиница",
+    "kind": "words",
+    "title": "Поездки и гостиница · Слова",
+    "cards": 50,
+    "quizletId": "1228546330"
+  },
+  {
+    "id": "14-travel-cloze",
+    "topic": "Поездки и гостиница",
+    "kind": "cloze",
+    "title": "Поездки и гостиница · Пропущенные слова",
+    "cards": 50
+  },
+  {
+    "id": "14-travel-sentences",
+    "topic": "Поездки и гостиница",
+    "kind": "sentences",
+    "title": "Поездки и гостиница · Предложения",
+    "cards": 50
+  },
+  {
+    "id": "15-banking-documents-words",
+    "topic": "Банк и документы",
+    "kind": "words",
+    "title": "Банк и документы · Слова",
+    "cards": 50,
+    "quizletId": "1228546664"
+  },
+  {
+    "id": "15-banking-documents-cloze",
+    "topic": "Банк и документы",
+    "kind": "cloze",
+    "title": "Банк и документы · Пропущенные слова",
+    "cards": 50
+  },
+  {
+    "id": "15-banking-documents-sentences",
+    "topic": "Банк и документы",
+    "kind": "sentences",
+    "title": "Банк и документы · Предложения",
+    "cards": 50
+  },
+  {
+    "id": "16-post-library-words",
+    "topic": "Почта и библиотека",
+    "kind": "words",
+    "title": "Почта и библиотека · Слова",
+    "cards": 50,
+    "quizletId": "1228546818"
+  },
+  {
+    "id": "16-post-library-cloze",
+    "topic": "Почта и библиотека",
+    "kind": "cloze",
+    "title": "Почта и библиотека · Пропущенные слова",
+    "cards": 50
+  },
+  {
+    "id": "16-post-library-sentences",
+    "topic": "Почта и библиотека",
+    "kind": "sentences",
+    "title": "Почта и библиотека · Предложения",
+    "cards": 50
+  },
+  {
+    "id": "17-children-words",
+    "topic": "Дети и школа",
+    "kind": "words",
+    "title": "Дети и школа · Слова",
+    "cards": 50,
+    "quizletId": "1228547111"
+  },
+  {
+    "id": "17-children-cloze",
+    "topic": "Дети и школа",
+    "kind": "cloze",
+    "title": "Дети и школа · Пропущенные слова",
+    "cards": 50
+  },
+  {
+    "id": "17-children-sentences",
+    "topic": "Дети и школа",
+    "kind": "sentences",
+    "title": "Дети и школа · Предложения",
+    "cards": 50
+  },
+  {
+    "id": "18-personal-care-words",
+    "topic": "Уход за собой",
+    "kind": "words",
+    "title": "Уход за собой · Слова",
+    "cards": 50,
+    "quizletId": "1228547268"
+  },
+  {
+    "id": "18-personal-care-cloze",
+    "topic": "Уход за собой",
+    "kind": "cloze",
+    "title": "Уход за собой · Пропущенные слова",
+    "cards": 50
+  },
+  {
+    "id": "18-personal-care-sentences",
+    "topic": "Уход за собой",
+    "kind": "sentences",
+    "title": "Уход за собой · Предложения",
+    "cards": 50
+  },
+  {
+    "id": "19-nature-animals-words",
+    "topic": "Природа и животные",
+    "kind": "words",
+    "title": "Природа и животные · Слова",
+    "cards": 50,
+    "quizletId": "1228547436"
+  },
+  {
+    "id": "19-nature-animals-cloze",
+    "topic": "Природа и животные",
+    "kind": "cloze",
+    "title": "Природа и животные · Пропущенные слова",
+    "cards": 50
+  },
+  {
+    "id": "19-nature-animals-sentences",
+    "topic": "Природа и животные",
+    "kind": "sentences",
+    "title": "Природа и животные · Предложения",
+    "cards": 50
+  },
+  {
+    "id": "20-safety-words",
+    "topic": "Безопасность и помощь",
+    "kind": "words",
+    "title": "Безопасность и помощь · Слова",
+    "cards": 50,
+    "quizletId": "1228547622"
+  },
+  {
+    "id": "20-safety-cloze",
+    "topic": "Безопасность и помощь",
+    "kind": "cloze",
+    "title": "Безопасность и помощь · Пропущенные слова",
+    "cards": 50
+  },
+  {
+    "id": "20-safety-sentences",
+    "topic": "Безопасность и помощь",
+    "kind": "sentences",
+    "title": "Безопасность и помощь · Предложения",
+    "cards": 50
+  }
+]

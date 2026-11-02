@@ -96,54 +96,16 @@ description: "Рассказать, что вы едите, приготовит
 
 ## Глагольное управление {#useful-structures}
 
-Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
+Только особые падежи и конструкции для значений этой темы. Для partitiivi приведена типичная модель.
 
-- ★ **tarjota + kenelle? + mitä?**: Tarjoan sinulle kahvia. — I offer you some coffee.
-- ★ **riittää + kenelle? / mihin?**: Yksi annos riittää minulle. — One portion is enough for me. / Tämä riittää kahteen annokseen. — This is enough for two portions.
-- ★ **tuoksua + miltä?** (-lta/-ltä; также возможно -lle): Ruoka tuoksuu hyvältä. — The food smells good.
-- ★ **lisätä + дополнение + mihin?**: Lisään keittoon suolaa. — I add salt to the soup.
-
-## Тексты для перевода {#translation-practice}
-
-Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
-
-### С финского на английский {#finnish-text}
-
-Aamupalalla syön leipää, juustoa ja kananmunan sekä juon teetä. Lounaalla menen ystävän kanssa kahvilaan, koska minulla on nälkä. Katsomme ruokalistaa ja tilaamme kaksi annosta keittoa. Otan myös kylmää mehua, sillä minulla on jano. Ystävä kysyy, onko leipä gluteenitonta ja maito laktoositonta.
-
-Tarjoilija tarjoaa kuumaa kahvia ja tuoretta pullaa. Maistan pullaa, joka on makea ja herkullinen. Lounaan jälkeen pyydämme laskun ja lähdemme kotiin. Päivälliseksi valmistan kalaa, perunoita ja vihanneksia. Kuorin perunat, leikkaan vihannekset ja keitän veden.
-
-Paistan kalan ja lisään vähän suolaa, mutta ruoka ei saa olla liian suolaista. Sekoitan kastikkeen ja kaadan sen kalan päälle. Ruoka tuoksuu hyvältä, ja sitä riittää koko perheelle. Leivon vielä omenista piirakan ja tarjoan hedelmiä lapsille. Huomenna lämmitän loput ja teen kanasta, riisistä tai pastasta uuden aterian.
-
-??? note "Показать перевод на английский"
-
-    For breakfast, I eat bread, cheese and an egg and drink tea. At lunchtime, I go to a café with a friend because I am hungry. We look at the menu and order two portions of soup. I also have some cold juice because I am thirsty. My friend asks whether the bread is gluten-free and the milk is lactose-free.
-
-    The waiter offers hot coffee and a fresh bun. I taste the bun, which is sweet and delicious. After lunch, we ask for the bill and leave for home. For dinner, I prepare fish, potatoes and vegetables. I peel the potatoes, cut the vegetables and boil the water.
-
-    I fry the fish and add a little salt, but the food must not be too salty. I mix the sauce and pour it over the fish. The food smells good, and there is enough for the whole family. I also bake an apple pie and offer fruit to the children. Tomorrow I will heat up the leftovers and make another meal with chicken, rice or pasta.
-
-### С английского на финский {#english-text}
-
-My friend and I are hungry, so we choose a small restaurant for lunch. The menu has fish, chicken, meat and a vegetable dish. I order fish with rice, and my friend takes pasta. We ask for gluten-free bread and lactose-free milk for the coffee. The waiter offers juice, but I drink cold water because I am thirsty.
-
-The food smells good, and the portion is large enough for me. I taste the hot fish and add a little salt. The fresh bread is delicious, but the soup is too salty. We do not want anything sweet, so we ask for the bill. At home I prepare dinner and peel some potatoes.
-
-I cut vegetables, boil the potatoes and fry an egg. I mix the salad and pour tea for my partner. There is enough food for tomorrow, and I can heat it up later. For breakfast I usually eat cheese and fruit, especially apples. At the weekend I want to bake a cake and invite friends for tea.
-
-??? note "Показать перевод на финский"
-
-    Ystävälläni ja minulla on nälkä, joten valitsemme pienen ravintolan lounasta varten. Ruokalistalla on kalaa, kanaa, lihaa ja kasvisruokaa. Tilaan kalaa ja riisiä, ja ystäväni ottaa pastaa. Pyydämme gluteenitonta leipää ja laktoositonta maitoa kahviin. Tarjoilija tarjoaa mehua, mutta juon kylmää vettä, koska minulla on jano.
-
-    Ruoka tuoksuu hyvältä, ja annos on minulle tarpeeksi suuri. Maistan kuumaa kalaa ja lisään vähän suolaa. Tuore leipä on herkullista, mutta keitto on liian suolaista. Emme halua mitään makeaa, joten pyydämme laskun. Kotona valmistan päivällistä ja kuorin perunoita.
-
-    Leikkaan vihanneksia, keitän perunat ja paistan kananmunan. Sekoitan salaatin ja kaadan teetä kumppanilleni. Ruokaa riittää huomiseksi, ja voin lämmittää sen myöhemmin. Aamupalaksi syön tavallisesti juustoa ja hedelmiä, varsinkin omenoita. Viikonloppuna haluan leipoa kakun ja kutsua ystäviä teelle.
-
-<!-- quizlet: https://quizlet.com/1228544040/flashcards/embed?i=53ndi1&x=1jj1 -->
+| Глагол | Управление | Пример |
+| --- | --- | --- |
+| **riittää** | kenelle? / mihin? (allatiivi / illatiivi) | Yksi annos riittää minulle. |
+| **tuoksua** | miltä? / mille? (ablatiivi / allatiivi) | Ruoka tuoksuu hyvältä. |
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, учебные тексты и переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, переводы и карточки составлены для этой подборки.
 
 - [Завтрак и продукты](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/breakfast-aamiainen-finnish-vocabulary)
 - [Глаголы приготовления еды](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/cooking-verbs-kokkaaminen-ruoanlaitto)
@@ -151,4 +113,30 @@ I cut vegetables, boil the potatoes and fry an egg. I mix the salad and pour tea
 - [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 - [Глаголы ощущений](https://uusikielemme.fi/finnish-grammar/syntax/rections/perceptional-verbs-aistiverbit)
 
+- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
+- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
+
 [Все темы](../index.md).
+
+## Практика {#practice}
+
+### 1. Слова {#word-practice}
+
+Вспомните финское слово по английскому переводу. В каждом наборе — вся лексика темы.
+
+<!-- quizlet: 1228544040 flashcards -->
+
+
+### 2. Пропущенные слова {#cloze-practice}
+
+Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+
+### 3. Предложения {#sentence-practice}
+
+Напишите полное предложение на финском по английскому переводу. После проверки можно сравнить свой вариант с образцом.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->

@@ -123,62 +123,17 @@ description: "Описать свой день, назвать время, до�
 
 ## Глагольное управление {#useful-structures}
 
-Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
+Только особые падежи и конструкции для значений этой темы. Для partitiivi приведена типичная модель.
 
-- ★ **käydä + missä?** (форма «где»): Käyn kaupassa työn jälkeen. — I go to the shop after work.
-- ★ **unohtaa + дополнение + mihin?** (форма «куда», даже если вещь осталась на месте): Unohdin avaimet kotiin. — I left my keys at home by mistake.
-- ★ **ehtiä + инфинитив**: En ehdi syödä aamupalaa. — I do not have time to eat breakfast.
-- ★ **genetiivi + täytyy + инфинитив**: Minun täytyy lähteä nyt. — I have to leave now.
-
-## Тексты для перевода {#translation-practice}
-
-Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
-
-### С финского на английский {#finnish-text}
-
-Tänään on maanantai, ja herään aamulla kello seitsemän. Nousen heti, pukeudun ja teen aamupalaa. Tavallisesti käyn suihkussa ennen aamupalaa, mutta nyt minulla ei ole aikaa. Työ alkaa yhdeksältä ja loppuu viideltä. Matka kestää puoli tuntia, ja haluan ehtiä ajoissa.
-
-Joskus olen viisi minuuttia myöhässä, koska unohdan katsoa kelloa. Illalla riisun työvaatteet ja lepään ensin vähän. Sitten suunnittelen viikon ja muistan, että huomenna täytyy käydä kaupassa. Tiistaina ja torstaina opiskelen, keskiviikkona tapaan ystävän ja perjantaina siivoan. Lauantaina ja sunnuntaina on viikonloppu, ja nukun usein pitkään.
-
-Tammikuussa aloitan kurssin, ja helmikuussa käyn siellä joka päivä. Maaliskuussa ja huhtikuussa harjoittelen lisää, ja toukokuussa kurssi loppuu. Kesäkuussa ja heinäkuussa olen lomalla, mutta elokuussa palaan töihin. Syyskuussa ja lokakuussa opiskelen taas, ja marraskuussa suunnittelen joulukuun lomaa. Kuukausi menee nopeasti, mutta vuosi tuntuu pitkältä.
-
-Yöllä nukun hyvin, ja seuraavana päivänä jaksan taas.
-
-??? note "Показать перевод на английский"
-
-    Today is Monday, and I wake up at seven in the morning. I get up straight away, get dressed and make breakfast. I usually have a shower before breakfast, but now I do not have time. Work starts at nine and finishes at five. The journey takes half an hour, and I want to get there on time.
-
-    Sometimes I am five minutes late because I forget to look at the clock. In the evening, I take off my work clothes and first rest a little. Then I plan the week and remember that tomorrow I have to go shopping. On Tuesday and Thursday I study, on Wednesday I meet a friend and on Friday I clean. Saturday and Sunday are the weekend, and I often sleep late.
-
-    I start a course in January, and in February I go there every day. In March and April I practise more, and in May the course ends. In June and July I am on holiday, but in August I return to work. In September and October I study again, and in November I plan my December holiday. A month goes by quickly, but a year feels long.
-
-    At night I sleep well, and the next day I have energy again.
-
-### С английского на финский {#english-text}
-
-Yesterday was Sunday, and I slept late in the morning. Today I wake up at six, get up and get dressed. I first make breakfast and then look at the clock. My lesson starts at eight and lasts one hour and thirty minutes. I usually arrive on time, but I was late last week.
-
-I must remember my bag and not forget my keys before I leave. On Monday and Wednesday I study, and on Tuesday and Thursday I work. On Friday evening I take off my work clothes and rest after dinner. At the weekend I often go swimming on Saturday and rarely work on Sunday. In January and February I sleep more because the nights are long.
-
-In March and April I plan the spring, and in May I spend more time outside. In June and July I am on holiday, and in August I start work again. In September and October I take a course, and in November I book my December holiday. Every month I make a new plan, and every year I learn something new. Now I have to leave soon, but I can call my friend later.
-
-Tomorrow I want to go to bed early so that I get enough sleep at night.
-
-??? note "Показать перевод на финский"
-
-    Eilen oli sunnuntai, ja nukuin aamulla pitkään. Tänään herään kuudelta, nousen ja pukeudun. Teen ensin aamupalaa ja katson sitten kelloa. Oppituntini alkaa kahdeksalta ja kestää tunnin ja kolmekymmentä minuuttia. Saavun tavallisesti ajoissa, mutta viime viikolla olin myöhässä.
-
-    Minun täytyy muistaa ottaa laukkuni mukaan, enkä saa unohtaa avaimiani ennen lähtöä. Maanantaina ja keskiviikkona opiskelen, ja tiistaina ja torstaina olen töissä. Perjantai-iltana riisun työvaatteet ja lepään päivällisen jälkeen. Viikonloppuna käyn usein uimassa lauantaina ja olen harvoin töissä sunnuntaina. Tammikuussa ja helmikuussa nukun enemmän, koska yöt ovat pitkiä.
-
-    Maaliskuussa ja huhtikuussa suunnittelen kevättä, ja toukokuussa vietän enemmän aikaa ulkona. Kesäkuussa ja heinäkuussa olen lomalla, ja elokuussa aloitan taas työt. Syyskuussa ja lokakuussa käyn kurssilla, ja marraskuussa varaan joulukuun loman. Joka kuukausi teen uuden suunnitelman, ja joka vuosi opin jotain uutta. Nyt minun täytyy lähteä pian, mutta voin soittaa ystävälleni myöhemmin.
-
-    Huomenna haluan mennä aikaisin nukkumaan, jotta nukun yöllä tarpeeksi.
-
-<!-- quizlet: https://quizlet.com/1228543579/flashcards/embed?i=53ndi1&x=1jj1 -->
+| Глагол | Управление | Пример |
+| --- | --- | --- |
+| **pukeutua** | mihin? (illatiivi: pukeutua takkiin) | Pukeudun nopeasti aamulla. |
+| **käydä** | missä? (inessiivi / adessiivi); kenen luona?; MA-инфинитив: käydä uimassa | Käyn kaupassa työn jälkeen. |
+| **täytyä** | kenen? (genetiivi) + täytyy + A-инфинитив: minun täytyy lähteä | Minun täytyy lähteä nyt. |
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, учебные тексты и переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, переводы и карточки составлены для этой подборки.
 
 - [Названия месяцев](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/the-months-kuukaudet)
 - [Время на часах](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/telling-the-time-in-finnish-mita-kello-on)
@@ -187,4 +142,30 @@ Tomorrow I want to go to bed early so that I get enough sleep at night.
 
 - [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 
+- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
+- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
+
 [Все темы](../index.md).
+
+## Практика {#practice}
+
+### 1. Слова {#word-practice}
+
+Вспомните финское слово по английскому переводу. В каждом наборе — вся лексика темы.
+
+<!-- quizlet: 1228543579 flashcards -->
+
+
+### 2. Пропущенные слова {#cloze-practice}
+
+Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+
+### 3. Предложения {#sentence-practice}
+
+Напишите полное предложение на финском по английскому переводу. После проверки можно сравнить свой вариант с образцом.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->

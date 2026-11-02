@@ -96,54 +96,18 @@ description: "Описать симптомы, назвать место бол�
 
 ## Глагольное управление {#useful-structures}
 
-Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
+Только особые падежи и конструкции для значений этой темы. Для partitiivi приведена типичная модель.
 
-- ★ **sairastua + mihin?** (illatiivi): Sairastuin flunssaan. — I caught a cold.
-- ★ **parantua + mistä?** (-sta/-stä): Parannuin flunssasta. — I recovered from a cold.
-- ★ **sattua + mihin?** (часть тела в форме «куда»): Kurkkuuni sattuu. — My throat hurts.
-- ★ **särkeä + часть тела в partitiivi** (часть тела в partitiivi): Päätäni särkee. — My head aches.
-
-## Тексты для перевода {#translation-practice}
-
-Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
-
-### С финского на английский {#finnish-text}
-
-Eilen sairastuin flunssaan, ja tänään olen väsynyt ja heikko. Minulla on kuumetta, yskää ja nuhaa, ja päätäni särkee. Kurkkuni on kipeä, ja hengittäminen tuntuu vaikealta. Yskin ja aivastan usein, eikä nenäni lakkaa vuotamasta. Minulla on myös huono olo, mutta en ole oksentanut.
-
-Mittaan ensin kuumeen ja soitan sitten terveysasemalle. Ajanvarauksessa hoitaja kysyy oireistani ja siitä, mihin sattuu. Varaan ajan lääkärin vastaanotolle iltapäiväksi. Lääkäri tutkii kurkkuni, korvani ja silmäni. Hän kysyy myös allergioista ja siitä, onko vatsassa tai selässä kipua.
-
-Kerron, että kaaduin eilen ja kädessäni on pieni haava. Hoitaja hoitaa haavan, mutta jalkani ei onneksi ole kipeä. Saan sairauslomaa ja reseptin, ja käyn apteekissa hakemassa lääkkeen. Perun huomisen tapaamisen, koska haluan levätä ja parantua. Kun olen taas terve, voin palata töihin.
-
-??? note "Показать перевод на английский"
-
-    Yesterday I came down with a cold, and today I am tired and weak. I have a fever, a cough and a runny nose, and my head aches. My throat is sore, and breathing feels difficult. I cough and sneeze often, and my nose will not stop running. I also feel sick, but I have not vomited.
-
-    First I take my temperature and then call the health centre. When I call to make an appointment, the nurse asks about my symptoms and where it hurts. I book a doctor's appointment for the afternoon. The doctor examines my throat, ears and eyes. She also asks about allergies and whether I have pain in my stomach or back.
-
-    I tell her that I fell yesterday and have a small wound on my hand. The nurse treats the wound, but luckily my leg is not sore. I get sick leave and a prescription, and go to the pharmacy to collect the medicine. I cancel tomorrow's meeting because I want to rest and get better. When I am well again, I can return to work.
-
-### С английского на финский {#english-text}
-
-I am ill today, and I want to book an appointment at the health centre. My symptoms are a cough, a runny nose and a sore throat. I sneeze a lot, and my head and back ache. I feel tired and weak, but I can breathe normally. My nose is running, and I feel sick, although I have not vomited.
-
-The nurse asks me to take my temperature before the appointment. At the surgery the doctor examines my ears, eyes and throat. She asks whether my stomach hurts and whether I have any allergies. I also show her a wound on my hand from a fall yesterday. The nurse treats it, and the doctor writes a prescription.
-
-Another patient is waiting because he has a bad toothache. I collect my medicine at the pharmacy and go home to rest. I have sick leave, so I cancel my meeting at work. I hope to recover soon and feel healthy again. My health is important to me, and I do not want to go to work while I am ill.
-
-??? note "Показать перевод на финский"
-
-    Olen tänään sairas ja haluan varata ajan terveysasemalle. Oireeni ovat yskä, nuha ja kurkkukipu. Aivastan paljon, ja päätäni ja selkääni särkee. Olen väsynyt ja heikko, mutta pystyn hengittämään normaalisti. Nenäni vuotaa ja minulla on huono olo, vaikka en ole oksentanut.
-
-    Hoitaja pyytää minua mittaamaan kuumeen ennen vastaanottoa. Vastaanotolla lääkäri tutkii korvani, silmäni ja kurkkuni. Hän kysyy, sattuuko vatsaani ja onko minulla allergioita. Näytän hänelle myös haavan kädessäni, jonka sain, kun kaaduin eilen. Hoitaja hoitaa haavan, ja lääkäri kirjoittaa reseptin.
-
-    Toinen potilas odottaa, koska hänen hammastaan särkee kovasti. Haen lääkkeeni apteekista ja menen kotiin lepäämään. Olen sairauslomalla, joten perun työtapaamiseni. Toivon, että parannun pian ja olen taas terve. Terveyteni on minulle tärkeä, enkä halua mennä töihin sairaana.
-
-<!-- quizlet: https://quizlet.com/1228544695/flashcards/embed?i=53ndi1&x=1jj1 -->
+| Глагол | Управление | Пример |
+| --- | --- | --- |
+| **sairastua** | mihin? (illatiivi: sairastua flunssaan) | Sairastuin eilen. |
+| **parantua** | mistä? (elatiivi: parantua flunssasta) | Haluan parantua ennen matkaa. |
+| **sattua** | mihin? (куда больно: sattua selkään); ketä? (sattuu minua) | Mihin sinua sattuu? |
+| **särkeä** | ketä? / mitä? (partitiivi: minua särkee; päätä särkee) | Päätäni särkee. |
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, учебные тексты и переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, переводы и карточки составлены для этой подборки.
 
 - [Самочувствие и болезни](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/sick-sairas-illnesses-sairaudet)
 - [На приёме у врача](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/at-the-doctors-laakarilla)
@@ -152,4 +116,30 @@ Another patient is waiting because he has a bad toothache. I collect my medicine
 - [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 - [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
 
+- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
+- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
+
 [Все темы](../index.md).
+
+## Практика {#practice}
+
+### 1. Слова {#word-practice}
+
+Вспомните финское слово по английскому переводу. В каждом наборе — вся лексика темы.
+
+<!-- quizlet: 1228544695 flashcards -->
+
+
+### 2. Пропущенные слова {#cloze-practice}
+
+Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+
+### 3. Предложения {#sentence-practice}
+
+Напишите полное предложение на финском по английскому переводу. После проверки можно сравнить свой вариант с образцом.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->

@@ -96,54 +96,19 @@ description: "Рассказать об увлечениях, предложит
 
 ## Глагольное управление {#useful-structures}
 
-Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
+Только особые падежи и конструкции для значений этой темы. Для partitiivi приведена типичная модель.
 
-- ★ **harrastaa + mitä?** (partitiivi): Harrastan uintia. — Swimming is my hobby.
-- ★ **pelata + mitä?** (partitiivi): Pelaamme korttia illalla. — We play cards in the evening.
-- ★ **nauttia + mistä?** (-sta/-stä): Nautin lomasta. — I am enjoying my holiday.
-- ★ **kiinnostaa + ketä?** (человек в partitiivi): Musiikki kiinnostaa minua. — I am interested in music.
-
-## Тексты для перевода {#translation-practice}
-
-Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
-
-### С финского на английский {#finnish-text}
-
-Vapaa-ajallani harrastan liikuntaa ja nautin musiikista. Keväällä pyöräilen puistossa ja juoksen järven lähellä. Kesällä uin järvessä, kun sää on lämmin ja aurinkoinen. Syksyllä retkeilen metsässä ja katselen kauniita puita. Talvella hiihdän, jos on lunta eikä pakkanen ole liian kova.
-
-Tänään sataa ja tuulee, joten menen mieluummin uimahalliin. Ulkona on vain kolme astetta, ja tie on liukas. Ystäväni lähtee mukaan, ja käymme uinnin jälkeen saunassa. Liikunta kiinnostaa häntä, mutta hän käy yleensä kuntosalilla. Kotona kuuntelemme musiikkia ja pelaamme hauskaa peliä.
-
-Lapseni leikkii lattialla ja piirtää auringon ja sadetta. Hän pitää myös laulamisesta ja tanssimisesta. Illalla katson elokuvan tai luen mielenkiintoista kirjaa. Huomenna käyn kirjastossa ja suunnittelen seuraavaa lomaa. Toivon hyvää viikonloppua ystävälleni, vaikka tuuli ei vielä lopu.
-
-??? note "Показать перевод на английский"
-
-    In my free time, I do sports and enjoy music. In spring, I cycle in the park and run near the lake. In summer, I swim in the lake when the weather is warm and sunny. In autumn, I hike in the forest and look at the beautiful trees. In winter, I ski if there is snow and the frost is not too severe.
-
-    Today it is raining and windy, so I would rather go to the swimming pool. It is only three degrees outside, and the road is slippery. My friend comes along, and we go to the sauna after swimming. He is interested in exercise, but he usually goes to the gym. At home, we listen to music and play a fun game.
-
-    My child plays on the floor and draws the sun and some rain. She also likes singing and dancing. In the evening, I watch a film or read an interesting book. Tomorrow I will go to the library and plan my next holiday. I wish my friend a good weekend, although the wind has not stopped yet.
-
-### С английского на финский {#english-text}
-
-My favourite hobby is dancing, but I also enjoy music and films. In my free time I sing, draw and play games with my children. They like playing in the park, and we often go there together. In spring we cycle near the lake and run in the forest. In summer the sun is warm, and swimming interests the whole family.
-
-During our holiday we hike and enjoy the beautiful weather. In autumn it often rains, and the wind can be strong. When it is windy, I would rather go to the gym than exercise outside. In winter there is snow, and we ski when it is not too cold. Today it is five degrees below zero, and the paths are slippery.
-
-It does not matter, because we can go to the indoor swimming pool and sauna. My friend wants to come along, and I am happy to see her. Later we go to the library and choose an interesting book. In the evening we listen to music and watch a funny film. Before she leaves, I wish her a good weekend.
-
-??? note "Показать перевод на финский"
-
-    Lempiharrastukseni on tanssiminen, mutta nautin myös musiikista ja elokuvista. Vapaa-ajallani laulan, piirrän ja pelaan pelejä lasteni kanssa. He pitävät puistossa leikkimisestä, ja käymme siellä usein yhdessä. Keväällä pyöräilemme järven lähellä ja juoksemme metsässä. Kesällä aurinko lämmittää, ja uinti kiinnostaa koko perhettä.
-
-    Lomalla retkeilemme ja nautimme kauniista säästä. Syksyllä sataa usein, ja tuuli voi olla voimakas. Kun tuulee, menen mieluummin kuntosalille kuin liikun ulkona. Talvella on lunta, ja hiihdämme, kun ei ole liian kylmä. Tänään on viisi astetta pakkasta, ja polut ovat liukkaita.
-
-    Se ei haittaa, koska voimme mennä uimahalliin ja saunaan. Ystäväni haluaa tulla mukaan, ja olen iloinen, kun näen hänet. Myöhemmin käymme kirjastossa ja valitsemme mielenkiintoisen kirjan. Illalla kuuntelemme musiikkia ja katsomme hauskan elokuvan. Ennen kuin hän lähtee, toivotan hänelle hyvää viikonloppua.
-
-<!-- quizlet: https://quizlet.com/1228545097/flashcards/embed?i=53ndi1&x=1jj1 -->
+| Глагол | Управление | Пример |
+| --- | --- | --- |
+| **harrastaa** | mitä? (partitiivi) | Harrastan uintia. |
+| **pelata** | mitä? (partitiivi: pelata korttia) | Pelaamme korttia illalla. |
+| **kuunnella** | ketä? / mitä? (partitiivi) | Kuuntelen musiikkia bussissa. |
+| **nauttia** | mistä? (elatiivi) | Nautin rauhallisesta aamusta. |
+| **kiinnostaa** | ketä? (partitiivi: musiikki kiinnostaa minua) | Musiikki kiinnostaa minua. |
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, учебные тексты и переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, переводы и карточки составлены для этой подборки.
 
 - [Увлечения](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/list-of-hobbies-in-finnish-harrastukset)
 - [Погода](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/talking-about-the-weather-ilma-saa-keli)
@@ -151,4 +116,30 @@ It does not matter, because we can go to the indoor swimming pool and sauna. My 
 - [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 - [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
 
+- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
+- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
+
 [Все темы](../index.md).
+
+## Практика {#practice}
+
+### 1. Слова {#word-practice}
+
+Вспомните финское слово по английскому переводу. В каждом наборе — вся лексика темы.
+
+<!-- quizlet: 1228545097 flashcards -->
+
+
+### 2. Пропущенные слова {#cloze-practice}
+
+Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+
+### 3. Предложения {#sentence-practice}
+
+Напишите полное предложение на финском по английскому переводу. После проверки можно сравнить свой вариант с образцом.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->

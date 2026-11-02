@@ -84,60 +84,40 @@ description: "Найти подходящую квартиру, уточнить
 | nykyinen       | current            | Nykyinen kotini on liian pieni.     | My current home is too small.                          |
 | edellinen      | previous           | Edellinen asukas jätti tämän tänne. | The previous resident left this here.                  |
 
-## Глагольное управление {#useful-structures}
-
-Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
-
-- ★ **kiinnittää + дополнение + mihin?**: Kiinnitän hyllyn seinään. — I attach the shelf to the wall.
-- ★ **irrottaa + дополнение + mistä?**: Irrotan hyllyn seinästä. — I remove the shelf from the wall.
-- ★ **maalata + дополнение + minkä väriseksi?** (цвет в translatiivi, -ksi): Maalaan seinän valkoiseksi. — I paint the wall white.
-- ★ **siirtää + дополнение + mistä? + mihin?**: Siirrämme pöydän keittiöstä olohuoneeseen. — We will move the table from the kitchen to the living room.
-
-## Тексты для перевода {#translation-practice}
-
-Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
-
-### С финского на английский {#finnish-text}
-
-Nykyinen vuokra-asuntomme on ahdas, joten etsimme tilavaa kaksiota. Edellinen kotimme oli yksiö, mutta nyt tarvitsemme enemmän tilaa. Asuntoesittelyssä näemme valoisan asunnon kerrostalossa. Sen pinta-ala on viisikymmentä neliömetriä, ja siinä on parveke. Piha on hiljainen, mutta kellari ja eteinen ovat pimeitä.
-
-Vuokranantaja kertoo vuokravakuudesta ja antaa vuokrasopimuksen. Luemme myös irtisanomisajan, koska vuokralaisen täytyy tietää se. Irtisanomme vanhan sopimuksen ja teemme muuttoilmoituksen. Ennen muuttoa hankimme kotivakuutuksen ja uuden sähkösopimuksen. Pakkaamme tavarat muuttolaatikoihin ja kannamme huonekalut autoon.
-
-Uudessa kodissa puramme laatikot ja järjestämme tavarat paikoilleen. Asunto on kalustamaton, joten sisustamme sen itse. Siirrän pöydän ikkunan lähelle ja ripustan verhon. Kiinnitän hyllyn seinään työkalujen avulla ja ruuvaan ruuvit paikalleen. Emme halua remontoida tai maalata nyt, joten lopuksi vain tuuletamme.
-
-??? note "Показать перевод на английский"
-
-    Our current rented flat is cramped, so we are looking for a spacious two-room flat. Our previous home was a studio, but now we need more space. At a viewing, we see a bright flat in a block of flats. Its floor area is fifty square metres, and it has a balcony. The yard is quiet, but the cellar and entrance hall are dark.
-
-    The landlord tells us about the rental deposit and gives us the tenancy agreement. We also read the notice period because the tenant needs to know it. We terminate the old agreement and submit a change-of-address notification. Before moving, we take out home insurance and a new electricity contract. We pack our belongings into moving boxes and carry the furniture to the car.
-
-    In the new home, we unpack the boxes and put our belongings in their places. The flat is unfurnished, so we furnish and decorate it ourselves. I move the table near the window and hang a curtain. I attach a shelf to the wall using tools and screw the screws into place. We do not want to renovate or paint now, so at the end we just air the flat.
-
-### С английского на финский {#english-text}
-
-We are looking for a rented home because our current studio is cramped. At a viewing we see a spacious two-room flat in a terraced house. Our previous home was in a block of flats, and there was a lot of noise. The new flat is bright and quiet, with a small yard and entrance hall. The floor area is large enough, although there is no balcony or cellar.
-
-The landlord shows us the tenancy agreement and explains the rental deposit. As tenants, we also check the notice period before signing. We terminate the old agreement and submit a change-of-address notification. We arrange home insurance and an electricity contract before moving. We pack our belongings into moving boxes and carry the furniture downstairs.
-
-In the new flat we unpack, arrange our things and move the sofa near the window. The home is unfurnished, so we want to decorate it ourselves. I remove an old shelf and attach a new one to the wall. My partner uses tools to drill holes and put in screws. We paint one wall, hang the curtains and air the room after the work.
-
-??? note "Показать перевод на финский"
-
-    Etsimme vuokra-asuntoa, koska nykyinen yksiömme on ahdas. Asuntoesittelyssä näemme tilavan kaksion rivitalossa. Edellinen kotimme oli kerrostalossa, ja siellä oli paljon melua. Uusi asunto on valoisa ja hiljainen, ja siinä on pieni piha ja eteinen. Pinta-ala on riittävä, vaikka asunnossa ei ole parveketta eikä kellaria.
-
-    Vuokranantaja näyttää meille vuokrasopimuksen ja kertoo vuokravakuudesta. Vuokralaisina tarkistamme myös irtisanomisajan ennen allekirjoittamista. Irtisanomme vanhan sopimuksen ja teemme muuttoilmoituksen. Hankimme kotivakuutuksen ja sähkösopimuksen ennen muuttoa. Pakkaamme tavarat muuttolaatikoihin ja kannamme huonekalut alakertaan.
-
-    Uudessa asunnossa puramme laatikot, järjestämme tavarat ja siirrämme sohvan ikkunan lähelle. Asunto on kalustamaton, joten haluamme sisustaa sen itse. Irrotan vanhan hyllyn ja kiinnitän uuden seinään. Kumppanini poraa reikiä ja ruuvaa ruuveja työkalujen avulla. Maalaamme yhden seinän, ripustamme verhot ja tuuletamme huoneen työn jälkeen.
-
-<!-- quizlet: https://quizlet.com/1228546092/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, учебные тексты и переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, переводы и карточки составлены для этой подборки.
 
 - [Поиск квартиры](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/asuntoilmoitus-housing-advertisements-finnish-vocabulary)
 - [Переезд](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/moving)
 
 - [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 
+- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
+- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
+
 [Все темы](../index.md).
+
+## Практика {#practice}
+
+### 1. Слова {#word-practice}
+
+Вспомните финское слово по английскому переводу. В каждом наборе — вся лексика темы.
+
+<!-- quizlet: 1228546092 flashcards -->
+
+
+### 2. Пропущенные слова {#cloze-practice}
+
+Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+
+### 3. Предложения {#sentence-practice}
+
+Напишите полное предложение на финском по английскому переводу. После проверки можно сравнить свой вариант с образцом.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->

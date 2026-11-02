@@ -86,58 +86,48 @@ description: "Обсудить счёт, платежи и документы, �
 
 ## Глагольное управление {#useful-structures}
 
-Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
+Только особые падежи и конструкции для значений этой темы. Для partitiivi приведена типичная модель.
 
-- ★ **veloittaa + keneltä? + mistä?**: Pankki veloittaa minulta palvelumaksun. — The bank charges me a service fee. / Veloitatteko tästä palvelusta? — Do you charge for this service?
-- ★ **kuluttaa + дополнение + mihin?**: Kulutan rahaa ruokaan. — I spend money on food.
-- ★ **toimittaa + дополнение + kenelle? / mihin?**: Toimitan todistuksen virkailijalle. — I will submit the certificate to the clerk. / Toimitan asiakirjat pankkiin. — I will deliver the documents to the bank.
-- ★ **suojata + дополнение + miltä?** (-lta/-ltä): Suojaan tunnukseni muilta ihmisiltä. — I protect my login details from other people.
-
-## Тексты для перевода {#translation-practice}
-
-Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
-
-### С финского на английский {#finnish-text}
-
-Asioin tänään pankissa, koska haluan avata tilin. Otan mukaan passin, henkilökortin ja oleskeluluvan. Asiakaspalvelussa tunnistaudun ja näytän tarvittavat asiakirjat. Virkailija tarkistaa, että passi on voimassa. Kirjoitan lomakkeeseen henkilötunnuksen, syntymäajan ja kansalaisuuden.
-
-Olen ulkomainen asiakas, ja suomalainen ystävä auttaa minua. Jos en ymmärrä virallista tekstiä, kysyn, onko tulkkia saatavilla. Pankki käsittelee hakemukseni, ja saan tilinumeron sekä pankkitunnukset. Opettelen käyttämään verkkopankkia ja teen ensimmäisen tilisiirron. Tarkistan laskun viitenumeron, maksun ja eräpäivän.
-
-Lasku erääntyy huomenna, ja tilin saldo riittää sen maksamiseen. Pankki veloittaa pienen palvelumaksun, mutta yksi palvelu on maksuton. Ansaitsen palkkaa ja talletan osan siitä, koska haluan kuluttaa vähemmän. En hae lainaa nyt, mutta kysyn sen korosta. Lopuksi suojaan henkilökohtaiset tunnukseni enkä anna niitä muille.
-
-??? note "Показать перевод на английский"
-
-    Today I visit the bank because I want to open an account. I bring my passport, identity card and residence permit. At customer service, I verify my identity and show the required documents. The clerk checks that the passport is valid. I enter my personal identity code, date of birth and nationality on the form.
-
-    I am a foreign customer, and a Finnish friend helps me. If I do not understand the official text, I ask whether an interpreter is available. The bank processes my application, and I receive an account number and online banking credentials. I learn to use online banking and make my first bank transfer. I check the payment reference number, the amount to pay and the due date on the bill.
-
-    The bill is due tomorrow, and my account balance is enough to pay it. The bank charges a small service fee, but one service is free of charge. I earn a salary and deposit part of it because I want to spend less. I am not applying for a loan now, but I ask about its interest rate. Finally, I keep my personal credentials safe and do not give them to others.
-
-### С английского на финский {#english-text}
-
-I receive an electronic bill and check the payment amount and due date. The bill is due tomorrow, so I log in to my online bank. I use my personal banking credentials to verify my identity. Before making the bank transfer, I check the account number and payment reference number. My account balance is enough because I earned my salary yesterday.
-
-I want to reduce my spending and deposit some money every month. The bank charges a small fee, and I ask customer service about free services. I also have to deliver an official document to an authority before a deadline. I take my valid passport, identity card and residence permit with me. The form asks for my date of birth, personal identity code and nationality.
-
-I am a foreign applicant, and a Finnish friend helps me understand the text. The official asks for a certificate to prove my address. I add my signature and ask whether an electronic copy is acceptable. The authority processes the application and sends a written answer. I keep the private documents safe and do not share my banking credentials.
-
-??? note "Показать перевод на финский"
-
-    Saan sähköisen laskun ja tarkistan maksun määrän sekä eräpäivän. Lasku erääntyy huomenna, joten kirjaudun verkkopankkiini. Käytän henkilökohtaisia pankkitunnuksiani, jotta voin tunnistautua. Ennen tilisiirtoa tarkistan tilinumeron ja viitenumeron. Tilini saldo riittää, koska sain palkkani eilen.
-
-    Haluan vähentää kulutustani ja tallettaa vähän rahaa joka kuukausi. Pankki veloittaa pienen maksun, ja kysyn asiakaspalvelusta maksuttomista palveluista. Minun täytyy myös toimittaa virallinen asiakirja viranomaiselle määräaikaan mennessä. Otan mukaani voimassa olevan passini, henkilökorttini ja oleskelulupani. Lomakkeessa kysytään syntymäaikaa, henkilötunnusta ja kansalaisuutta.
-
-    Olen ulkomainen hakija, ja suomalainen ystävä auttaa minua ymmärtämään tekstin. Virkailija pyytää todistusta osoitteestani. Lisään allekirjoitukseni ja kysyn, kelpaako sähköinen kopio. Viranomainen käsittelee hakemuksen ja lähettää kirjallisen vastauksen. Pidän yksityiset asiakirjat turvassa enkä jaa pankkitunnuksiani muille.
-
-<!-- quizlet: https://quizlet.com/1228546664/flashcards/embed?i=53ndi1&x=1jj1 -->
+| Глагол | Управление | Пример |
+| --- | --- | --- |
+| **veloittaa** | mitä? / objekti + keneltä? / mistä? (списать сумму у кого / с чего) | Pankki veloittaa palvelusta kolme euroa. |
+| **laskuttaa** | ketä? (partitiivi); mistä? (за что выставить счёт) | Yritys laskuttaa minua kuukausittain. |
+| **kuluttaa** | mitä? / objekti + mihin? (тратить что на что) | Kulutan liikaa rahaa kahviin. |
+| **suojata** | objekti + miltä? (ablatiivi: suojata tiedot varkaudelta) | Suojaa tunnuksesi hyvin. |
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, учебные тексты и переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, переводы и карточки составлены для этой подборки.
 
 - [В банке](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/at-the-bank-pankissa-finnish-bank-vocabulary)
 - [Документы и обращения](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/poliisiasemalla-finnish-police-station-vocabulary)
 
 - [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
 
+- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
+- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
+
 [Все темы](../index.md).
+
+## Практика {#practice}
+
+### 1. Слова {#word-practice}
+
+Вспомните финское слово по английскому переводу. В каждом наборе — вся лексика темы.
+
+<!-- quizlet: 1228546664 flashcards -->
+
+
+### 2. Пропущенные слова {#cloze-practice}
+
+Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+
+### 3. Предложения {#sentence-practice}
+
+Напишите полное предложение на финском по английскому переводу. После проверки можно сравнить свой вариант с образцом.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->

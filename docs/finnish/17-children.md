@@ -86,55 +86,21 @@ description: "Обсудить день ребёнка, договориться
 
 ## Глагольное управление {#useful-structures}
 
-Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
+Только особые падежи и конструкции для значений этой темы. Для partitiivi приведена типичная модель.
 
-- ★ **kannustaa + ketä? + -maan/-mään** (человек в partitiivi; действие в -maan/-mään): Kannustan lasta yrittämään uudelleen. — I encourage the child to try again.
-- ★ **kieltää + ketä? + -masta/-mästä** (человек в partitiivi; действие в -masta/-mästä): Kiellän lasta menemästä tielle. — I tell the child not to go onto the road.
-- ★ **syöttää + kenelle? + mitä?**: Syötän vauvalle puuroa. — I feed the baby porridge.
-- ★ **totella + ketä?** (partitiivi): Lapsi tottelee opettajaa. — The child obeys the teacher.
-- ★ **kehua + ketä? + mistä?**: Kehuin lasta hyvästä työstä. — I praised the child for good work.
-
-## Тексты для перевода {#translation-practice}
-
-Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
-
-### С финского на английский {#finnish-text}
-
-Tyttäreni käy päiväkodissa, ja poikani on esikoulussa. Aamulla syötän pienelle lapselle puuroa ja vaihdan vaipan. Vien hänet lastenrattailla päiväkotiin ja halaan häntä ovella. Hän on ujo uudessa ryhmässä, joten aikuinen lohduttaa häntä. Pian hän leikkii nukella ja tekee palapeliä toisen lapsen kanssa.
-
-Pihalla lapset keinuvat, kiipeävät ja laskevat liukumäkeä. He potkivat palloa ja käyttävät keinua vuorotellen. Poikani on vilkas, mutta hän osaa käyttäytyä hyvin ja totella ohjeita. Kannustan häntä toimimaan itsenäisesti ja kehun häntä yrittämisestä. Koulussa oppilaat värittävät, askartelevat ja laskevat pieniä laskuja.
-
-Välitunnilla poikani hyppii luokkakaverin kanssa, eikä ketään saa kiusata. Ruokailun jälkeen pienet lapset nukkuvat päiväunet ja syövät myöhemmin välipalan. Huomenna ryhmä tekee retken, ja pakkaan eväät valmiiksi. Illan vanhempainillassa rehtori puhuu koulupäivästä ja poissaoloista. Kotona luen iltasadun ja ajattelen, miten nopeasti lapseni kasvavat.
-
-??? note "Показать перевод на английский"
-
-    My daughter attends daycare, and my son is in preschool. In the morning, I feed the small child porridge and change her nappy. I take her to daycare in a pushchair and hug her at the door. She is shy in the new group, so an adult comforts her. Soon she is playing with a doll and doing a jigsaw puzzle with another child.
-
-    In the yard, the children swing, climb and go down the slide. They kick a ball and take turns using the swing. My son is lively, but he knows how to behave well and follow instructions. I encourage him to do things independently and praise him for trying. At school, the pupils colour, do crafts and do simple sums.
-
-    At break time, my son jumps around with a classmate, and no one may be bullied. After the meal, the small children have a nap and later eat a snack. Tomorrow the group is going on an outing, and I pack the food in advance. At the parents' evening, the head teacher talks about the school day and absences. At home, I read a bedtime story and think about how quickly my children are growing.
-
-### С английского на финский {#english-text}
-
-I am the guardian of two children, and I want to raise them with care. My older child is a pupil, and the younger one goes to daycare. In the morning I feed the baby, change a nappy and put him in the pushchair. My daughter is shy, so I hug her and encourage her to join the group. The teacher comforts her and gives her a toy and a jigsaw puzzle.
-
-Soon she is playing with a doll and taking turns with another child. Outside the children swing, climb and jump near the slide. The adults forbid them to push others and remind them to behave well. My son obeys the instructions, and I praise him for helping a classmate. During the school day the class counts, colours pictures and makes crafts.
-
-At break time the pupils play with a ball, and no one is allowed to bully others. After the meal the younger children have a nap and later eat a snack. Tomorrow there is an outing, and each child needs food to take along. At the parents' evening the head teacher explains how to report an absence. In the evening the babysitter reads a bedtime story while I prepare for tomorrow.
-
-??? note "Показать перевод на финский"
-
-    Olen kahden lapsen huoltaja, ja haluan kasvattaa heitä huolella. Vanhempi lapseni on koululainen, ja nuorempi käy päiväkodissa. Aamulla syötän vauvalle ruokaa, vaihdan vaipan ja laitan hänet lastenrattaisiin. Tyttäreni on ujo, joten halaan häntä ja kannustan häntä menemään mukaan ryhmään. Opettaja lohduttaa häntä ja antaa hänelle lelun ja palapelin.
-
-    Pian hän leikkii nukella vuorotellen toisen lapsen kanssa. Ulkona lapset keinuvat, kiipeävät ja hyppivät liukumäen lähellä. Aikuiset kieltävät heitä tönimästä muita ja muistuttavat, että pitää käyttäytyä hyvin. Poikani tottelee ohjeita, ja kehun häntä luokkakaverin auttamisesta. Koulupäivän aikana luokka laskee, värittää kuvia ja askartelee.
-
-    Välitunnilla oppilaat leikkivät pallolla, eikä kukaan saa kiusata muita. Ruokailun jälkeen nuoremmat lapset nukkuvat päiväunet ja syövät myöhemmin välipalan. Huomenna on retki, ja jokainen lapsi tarvitsee eväät mukaan. Vanhempainillassa rehtori selittää, miten poissaolosta ilmoitetaan. Illalla lapsenvahti lukee iltasadun, kun valmistaudun huomiseen.
-
-<!-- quizlet: https://quizlet.com/1228547111/flashcards/embed?i=53ndi1&x=1jj1 -->
+| Глагол | Управление | Пример |
+| --- | --- | --- |
+| **lohduttaa** | ketä? (partitiivi) | Lohdutan lasta, kun hän itkee. |
+| **halata** | ketä? (обычно partitiivi: halata lasta) | Halaan lastani aamulla. |
+| **kehua** | ketä? / mitä? (partitiivi); mistä? (за что) | Opettaja kehui lasta. |
+| **kannustaa** | ketä? (partitiivi) + mihin? / MA-инфинитив: kannustaa lasta lukemaan | Kannustan lasta yrittämään uudelleen. |
+| **kieltää** | objekti (запретить что); ketä? + MA-инфинитив в elatiivi: kieltää lasta juoksemasta | Kielsin lasta menemästä tielle. |
+| **totella** | ketä? / mitä? (partitiivi) | Lapsi tottelee opettajaa. |
+| **kiusata** | ketä? (partitiivi) | Älä kiusaa muita. |
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, учебные тексты и переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, переводы и карточки составлены для этой подборки.
 
 - [Дети и повседневные занятия](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/childhood-lapsuus-finnish-vocabulary)
 - [Школа](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/school-koulu-finnish-vocabulary)
@@ -143,4 +109,30 @@ At break time the pupils play with a ball, and no one is allowed to bully others
 - [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
 - [Управление с MA-infinitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/third-infinitive-rections-kolmas-infinitiivi)
 
+- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
+- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
+
 [Все темы](../index.md).
+
+## Практика {#practice}
+
+### 1. Слова {#word-practice}
+
+Вспомните финское слово по английскому переводу. В каждом наборе — вся лексика темы.
+
+<!-- quizlet: 1228547111 flashcards -->
+
+
+### 2. Пропущенные слова {#cloze-practice}
+
+Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+
+### 3. Предложения {#sentence-practice}
+
+Напишите полное предложение на финском по английскому переводу. После проверки можно сравнить свой вариант с образцом.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->

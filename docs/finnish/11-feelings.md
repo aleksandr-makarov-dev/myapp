@@ -86,56 +86,29 @@ description: "Рассказать о чувствах, выразить мне�
 
 ## Глагольное управление {#useful-structures}
 
-Вопрос или окончание показывает нужную форму. «Дополнение»: предмет действия, его падеж зависит от предложения. Инфинитив: начальная форма глагола.
+Только особые падежи и конструкции для значений этой темы. Для partitiivi приведена типичная модель.
 
-- ★ **tuntua + miltä?** (-lta/-ltä; также возможно -lle): Tämä tuntuu vaikealta. — This seems difficult.
-- ★ **pelätä + mitä? / ketä?** (partitiivi): Pelkään pimeää. — I am afraid of the dark.
-- ★ **huolestua + mistä? / kenestä?** (-sta/-stä): Huolestuin lapsesta. — I became worried about the child.
-- ★ **suuttua + kenelle? / mistä?**: Hän suuttui minulle. — He got angry with me. / Suuttuin tästä viestistä. — I got angry about this message.
-- ★ **pettyä + mihin? / keneen?** (illatiivi): Petyin tähän palveluun. — I was disappointed with this service.
-- ★ **keskustella + mistä?** (-sta/-stä): Keskustelemme työstä. — We discuss work.
-
-## Тексты для перевода {#translation-practice}
-
-Переведите тексты, затем откройте перевод для проверки. В каждой истории встречается много слов из таблиц этой темы.
-
-### С финского на английский {#finnish-text}
-
-Tänään mielialani on huono, ja tunnen paljon stressiä. Huomenna aloitan uuden työn, ja se jännittää minua. Pelkään virheitä ja olen epävarma omista taidoistani. Ystäväni huomaa huoleni ja ehdottaa keskustelua. Keskustelemme tunteista, ja hän kertoo oman mielipiteensä.
-
-Hänen mielestään uusi työ on hyvä päätös, mutta en ole ihan samaa mieltä. Luulen, että tehtävät ovat liian vaikeita, mutta hän uskoo minuun. Toivon, että hän on oikeassa ja minä olen väärässä. Olen huolestunut myös rahasta, ja se häiritsee unta. Onneksi ystävä kuuntelee, ja alan rauhoittua.
-
-Hänen ehdotuksensa tuntuu hyvältä, ja päätän rentoutua illalla. En halua katua päätöstäni enkä pettyä itseeni. Kaipaan vanhoja työkavereitani, mutta olen myös innostunut uudesta alusta. Ystävä sanoo olevansa ylpeä minusta, ja iloitsen hänen sanoistaan. Lopulta olen tyytyväinen ja uskon, että kaikki on hyvin.
-
-??? note "Показать перевод на английский"
-
-    Today I am in a bad mood and feel a lot of stress. Tomorrow I start a new job, and I feel nervous about it. I am afraid of making mistakes and am unsure of my skills. My friend notices my worry and suggests a conversation. We talk about feelings, and she gives her opinion.
-
-    In her opinion, the new job is a good decision, but I do not quite agree. I think the tasks are too difficult, but she believes in me. I hope that she is right and I am wrong. I am also worried about money, and it disturbs my sleep. Luckily, my friend listens, and I begin to calm down.
-
-    Her suggestion feels good, and I decide to relax in the evening. I do not want to regret my decision or be disappointed in myself. I miss my old colleagues, but I am also excited about a new start. My friend says she is proud of me, and I am glad to hear her words. In the end, I am content and believe that everything is fine.
-
-### С английского на финский {#english-text}
-
-My friend is upset, and I ask about her mood. She feels stressed because she has to make an important decision. She is excited about a new course but unsure whether she has enough time. She thinks the course will be difficult and fears that she will fail. I believe in her, and I hope that she will accept the place.
-
-In my opinion she has no reason to doubt her skills. We discuss her worries, and I suggest a short walk. She agrees with the suggestion, but we disagree about the best time to go. The noise outside bothers her, and she becomes annoyed. I do not get angry, and soon she calms down.
-
-She says she regrets her words, but I tell her that it is all right. Unfortunately, she misses her family and worries about being alone. I tell her the truth and say that I am proud of her. Luckily, the walk helps us relax, and she feels much better. She is pleased with her decision, and I am glad that I could help.
-
-??? note "Показать перевод на финский"
-
-    Ystäväni on pahalla mielellä, ja kysyn hänen mielialastaan. Hänellä on stressiä, koska hänen täytyy tehdä tärkeä päätös. Hän on innostunut uudesta kurssista, mutta ei ole varma, riittääkö aika. Hän luulee, että kurssi on vaikea, ja pelkää epäonnistumista. Uskon häneen ja toivon, että hän ottaa kurssipaikan vastaan.
-
-    Minun mielestäni hänellä ei ole syytä epäillä taitojaan. Keskustelemme hänen huolistaan, ja ehdotan lyhyttä kävelyä. Hän on samaa mieltä ehdotuksesta, mutta olemme eri mieltä siitä, milloin on paras aika lähteä. Ulkona kuuluva melu häiritsee häntä, ja hän ärsyyntyy. En suutu, ja pian hän rauhoittuu.
-
-    Hän sanoo, että hän katuu sanojaan, mutta sanon, ettei se haittaa. Valitettavasti hän kaipaa perhettään ja on huolestunut siitä, että on yksin. Kerron hänelle totuuden ja sanon, että olen ylpeä hänestä. Onneksi kävely auttaa meitä rentoutumaan, ja hänellä on paljon parempi olo. Hän on tyytyväinen päätökseensä, ja olen iloinen, että pystyin auttamaan.
-
-<!-- quizlet: https://quizlet.com/1228545377/flashcards/embed?i=53ndi1&x=1jj1 -->
+| Глагол | Управление | Пример |
+| --- | --- | --- |
+| **tuntua** | miltä? / mille? (ablatiivi / allatiivi) | Tämä tuntuu vaikealta. |
+| **uskoa** | ketä? / mitä? (верить словам); keneen? / mihin? (вера в кого-либо / что-либо); että… | Uskon sinua. |
+| **pelätä** | ketä? / mitä? (partitiivi) | Pelkään pimeää. |
+| **jännittää** | ketä? (partitiivi: työ jännittää minua); также jännittää koetta | Uusi työ jännittää minua. |
+| **huolestua** | mistä? / kenestä? (elatiivi) | Huolestun, jos et vastaa. |
+| **suuttua** | kenelle? (allatiivi); mistä? (elatiivi, причина) | Hän suuttui minulle. |
+| **iloita** | mistä? (elatiivi) | Iloitsen hyvästä uutisesta. |
+| **pettyä** | keneen? / mihin? (illatiivi) | Petyin tähän palveluun. |
+| **häiritä** | ketä? / mitä? (partitiivi) | Häiritseekö musiikki sinua? |
+| **keskustella** | mistä? + kenen kanssa? (elatiivi + genetiivi перед kanssa) | Keskustelen asiasta ystävän kanssa. |
+| **ehdottaa** | mitä? (partitiivi); kenelle?; ehdottaa + että… | Ehdotan, että menemme kävelylle. |
+| **päättää** | mistä? (elatiivi, принять решение о чём-то); A-инфинитив: päättää tehdä; että… | Päätän huomenna, tulenko mukaan. |
+| **epäillä** | ketä? / mitä? (partitiivi); epäillä + että… | Epäilen tätä selitystä. |
+| **katua** | mitä? (partitiivi) | Kadun sitä, mitä sanoin. |
+| **kaivata** | ketä? / mitä? (partitiivi) | Kaipaan ystäviäni. |
 
 ## Источники {#sources}
 
-Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, учебные тексты и переводы составлены для этой подборки.
+Тематический отбор опирается на материалы Uusi kielemme. Предоставленный частотный словарь J. L. Laide использован как дополнительный ориентир. Примеры, переводы и карточки составлены для этой подборки.
 
 - [Мнения и согласие](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/expressing-your-opinion-mielipiteen-ilmaisu)
 - [Неприятные чувства](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/negative-emotions-kielteiset-tunteet)
@@ -145,4 +118,30 @@ She says she regrets her words, but I tell her that it is all right. Unfortunate
 - [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
 - [Глаголы ощущений](https://uusikielemme.fi/finnish-grammar/syntax/rections/perceptional-verbs-aistiverbit)
 
+- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
+- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
+
 [Все темы](../index.md).
+
+## Практика {#practice}
+
+### 1. Слова {#word-practice}
+
+Вспомните финское слово по английскому переводу. В каждом наборе — вся лексика темы.
+
+<!-- quizlet: 1228545377 flashcards -->
+
+
+### 2. Пропущенные слова {#cloze-practice}
+
+Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+
+### 3. Предложения {#sentence-practice}
+
+Напишите полное предложение на финском по английскому переводу. После проверки можно сравнить свой вариант с образцом.
+
+
+<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
