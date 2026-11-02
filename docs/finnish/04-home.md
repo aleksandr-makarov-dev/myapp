@@ -102,21 +102,6 @@ description: "Описать квартиру, обсудить аренду, р
 | --- | --- | --- |
 | **vuokrata** | objekti + keneltä? (арендовать у кого); kenelle? (сдать кому) | Haluan vuokrata asunnon. |
 
-## Источники {#sources}
-
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, переводы и карточки составлены для этой подборки.
-
-- [Комнаты и мебель](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/rooms-and-furniture-huoneet-ja-huonekalut)
-- [Уборка](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/cleaning-siivoaminen-finnish-vocabulary)
-- [Бытовые проблемы](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/household-problems-finnish-vocabulary)
-
-- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
-
-- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
-- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
-
-[Все темы](../index.md).
-
 ## Практика {#practice}
 
 ### 1. Слова {#word-practice}
@@ -131,11 +116,19 @@ description: "Описать квартиру, обсудить аренду, р
 Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
 
 
-<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+<!-- quizlet: 1230420953 test -->
 
-### 3. Предложения {#sentence-practice}
+## Источники {#sources}
 
-Напишите полное предложение на финском по английскому переводу. После проверки можно сравнить свой вариант с образцом.
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, переводы и карточки составлены для этой подборки.
 
+- [Комнаты и мебель](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/rooms-and-furniture-huoneet-ja-huonekalut)
+- [Уборка](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/cleaning-siivoaminen-finnish-vocabulary)
+- [Бытовые проблемы](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/household-problems-finnish-vocabulary)
 
-<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
+
+- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
+- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
+
+[Все темы](../index.md).

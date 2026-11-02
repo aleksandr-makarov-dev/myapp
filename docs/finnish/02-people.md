@@ -112,21 +112,6 @@ description: "Рассказать о семье, договориться о в
 | **hymyillä** | kenelle? (allatiivi; улыбаться кому) | Vauva hymyilee minulle. |
 | **nauraa** | kenelle? / mille? (allatiivi); можно без дополнения | Nauramme yhdessä. |
 
-## Источники {#sources}
-
-Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, переводы и карточки составлены для этой подборки.
-
-- [Семья](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/family-members-perhe-ja-sukulaiset)
-- [Дружба и отношения](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/friendship-and-love-ystavyys-ja-rakkaus)
-
-- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
-- [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
-
-- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
-- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
-
-[Все темы](../index.md).
-
 ## Практика {#practice}
 
 ### 1. Слова {#word-practice}
@@ -141,11 +126,20 @@ description: "Рассказать о семье, договориться о в
 Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
 
 
-<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
-
-### 3. Предложения {#sentence-practice}
-
-Напишите полное предложение на финском по английскому переводу. После проверки можно сравнить свой вариант с образцом.
+<!-- quizlet: 1230420007 test -->
 
 
-<!-- Здесь можно подключить дополнительный набор Quizlet по числовому ID. -->
+## Источники {#sources}
+
+Тематический отбор опирается на материалы Uusi kielemme. Частотность базовой лексики сверена с предоставленным словарём J. L. Laide. Примеры, переводы и карточки составлены для этой подборки.
+
+- [Семья](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/family-members-perhe-ja-sukulaiset)
+- [Дружба и отношения](https://uusikielemme.fi/finnish-vocabulary/vocabulary-lists/friendship-and-love-ystavyys-ja-rakkaus)
+
+- [Управление финских глаголов](https://uusikielemme.fi/finnish-grammar/syntax/rections/verb-rections-rektiot-verbit)
+- [Глаголы с partitiivi](https://uusikielemme.fi/finnish-grammar/syntax/rections/partitive-verbs-partitiiviverbit-list)
+
+- [Kielitoimiston ohjepankki: управление](https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/)
+- [Kielitoimiston ohjepankki: форма объекта](https://kielitoimistonohjepankki.fi/ohje/objekti-han-luki-kirjaa-kirjan-milloin-partitiivi-milloin-ei/)
+
+[Все темы](../index.md).
