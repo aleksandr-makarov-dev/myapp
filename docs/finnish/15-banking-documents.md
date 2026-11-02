@@ -1,8 +1,6 @@
 ---
 title: "Банк и документы"
 description: "Обсудить счёт, платежи и документы, уточнить сроки и обратиться за услугой."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228546664/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 15. Банк и документы {#banking-and-documents}
@@ -131,7 +129,7 @@ I am a foreign applicant, and a Finnish friend helps me understand the text. The
 
     Olen ulkomainen hakija, ja suomalainen ystävä auttaa minua ymmärtämään tekstin. Virkailija pyytää todistusta osoitteestani. Lisään allekirjoitukseni ja kysyn, kelpaako sähköinen kopio. Viranomainen käsittelee hakemuksen ja lähettää kirjallisen vastauksen. Pidän yksityiset asiakirjat turvassa enkä jaa pankkitunnuksiani muille.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228546664/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

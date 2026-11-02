@@ -1,8 +1,6 @@
 ---
 title: "Чувства и мнения"
 description: "Рассказать о чувствах, выразить мнение, согласиться или поддержать собеседника."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228545377/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 11. Чувства и мнения {#feelings-and-opinions}
@@ -133,7 +131,7 @@ She says she regrets her words, but I tell her that it is all right. Unfortunate
 
     Hän sanoo, että hän katuu sanojaan, mutta sanon, ettei se haittaa. Valitettavasti hän kaipaa perhettään ja on huolestunut siitä, että on yksin. Kerron hänelle totuuden ja sanon, että olen ylpeä hänestä. Onneksi kävely auttaa meitä rentoutumaan, ja hänellä on paljon parempi olo. Hän on tyytyväinen päätökseensä, ja olen iloinen, että pystyin auttamaan.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228545377/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

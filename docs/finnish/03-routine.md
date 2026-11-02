@@ -1,8 +1,6 @@
 ---
 title: "День и время"
 description: "Описать свой день, назвать время, договориться о встрече и сказать, что вы успеваете сделать."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228543579/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 03. День и время {#day-and-time}
@@ -176,7 +174,7 @@ Tomorrow I want to go to bed early so that I get enough sleep at night.
 
     Huomenna haluan mennä aikaisin nukkumaan, jotta nukun yöllä tarpeeksi.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228543579/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

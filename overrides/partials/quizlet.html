@@ -1,4 +1,3 @@
-{% set quizlet_url = page.meta.quizlet_url | default("", true) | trim %}
 {% if quizlet_url %}
   {% set quizlet_src = quizlet_url %}
   {% set url_parts = quizlet_url | split("?") | list %}
@@ -11,8 +10,8 @@
   {% if url_parts | length > 1 %}
     {% set quizlet_src = quizlet_src ~ "?" ~ url_parts[1] %}
   {% endif %}
-  <section aria-labelledby="quizlet">
-    <h2 id="quizlet">Практика в Quizlet</h2>
+  <section aria-labelledby="{{ quizlet_id }}">
+    <h2 id="{{ quizlet_id }}">Практика в Quizlet</h2>
     <iframe
       src="{{ quizlet_src | e }}"
       title="Quizlet: {{ page.title | e }}"

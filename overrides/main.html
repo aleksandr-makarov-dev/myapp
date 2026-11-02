@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+  {% set content = super() %}
+  {% for fragment in content | split("<!-- quizlet:") %}
+    {% if loop.first %}
+      {{ fragment | safe }}
+    {% else %}
+      {% set parts = fragment | split("-->") | list %}
+      {% if parts | length > 1 %}
+        {% set quizlet_url = parts[0] | trim %}
+        {% set quizlet_id = "quizlet-" ~ loop.index %}
+        {% include "partials/quizlet.html" %}
+        {{ parts[1:] | join("-->") | safe }}
+      {% else %}
+        {{ ("<!-- quizlet:" ~ fragment) | safe }}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endblock %}

@@ -1,8 +1,6 @@
 ---
 title: "Почта и библиотека"
 description: "Отправить посылку, получить помощь у сотрудника и взять книгу в библиотеке."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228546818/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 16. Почта и библиотека {#post-and-library}
@@ -132,7 +130,7 @@ The librarian recommends an easy-language book, but it is not available today. I
 
     Kirjastonhoitaja suosittelee selkokirjaa, mutta sitä ei ole saatavilla tänään. Lainaan kirjastokortillani sen sijaan romaanin ja äänikirjan. Tarkistan laina-ajan ja palautuspäivän sekä uusin toisen lainan. Ennen lähtöä skannaan sivun, tulostan kopion ja etsin sanan sanakirjasta. Itsepalveluautomaattia on helppo käyttää, ja palautan vanhan lehden ilman myöhästymismaksua.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228546818/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

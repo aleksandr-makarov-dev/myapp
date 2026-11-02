@@ -1,8 +1,6 @@
 ---
 title: "Работа и учёба"
 description: "Рассказать о работе и учёбе, попросить объяснение, позвонить, отправить сообщение и заполнить заявление."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228544871/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 09. Работа и учёба {#work-and-study}
@@ -144,7 +142,7 @@ After a break I continue working until everything is ready. In the evening I sig
 
     Tauon jälkeen jatkan työskentelyä, kunnes kaikki on valmista. Illalla ilmoittaudun kielikurssille ja aloitan opiskelun. Opettaja antaa meille helpon harjoituksen, jossa on kymmenen uutta sanaa. Harjoittelen toisen opiskelijan kanssa, teen läksyt ja lähetän viestin opettajalle. Oppitunti loppuu kahdeksalta, ja kiireisen päivän jälkeen olen vapaa.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228544871/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

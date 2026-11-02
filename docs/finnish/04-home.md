@@ -1,8 +1,6 @@
 ---
 title: "Дом и быт"
 description: "Описать квартиру, обсудить аренду, распределить уборку и сообщить о бытовой поломке."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228543765/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 04. Дом и быт {#home-and-household}
@@ -142,7 +140,7 @@ The fridge does not work, so we call maintenance to repair it. The tap in the to
 
     Jääkaappi ei toimi, joten soitamme huoltoon ja pyydämme korjausta. Vessan hana toimii, ja meillä on kuumaa vettä. Vesi sisältyy vuokraan, mutta maksamme sähköstä erikseen. Illalla sytytämme valot ja nautimme siististä kodistamme. Ennen nukkumaanmenoa suljen oven ja sammutan keittiön valon.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228543765/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

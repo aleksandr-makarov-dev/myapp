@@ -1,8 +1,6 @@
 ---
 title: "Знакомство"
 description: "Представиться, спросить о человеке, переспросить и объяснить, что вы понимаете или чего хотите."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228543162/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 01. Знакомство {#introductions}
@@ -144,7 +142,7 @@ I want to ask how much the language course costs. He does not know, but perhaps 
 
     Haluan kysyä, kuinka paljon kielikurssi maksaa. Hän ei tiedä, mutta ehkä voimme kysyä opettajalta huomenna. Saan paljon hyödyllistä tietoa ja kiitän häntä. Hän sanoo, ettei kestä kiittää ja että on hauska tutustua minuun. Sanomme näkemiin, ja haluan puhua suomea taas huomenna.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228543162/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

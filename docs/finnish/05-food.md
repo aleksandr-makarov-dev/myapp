@@ -1,8 +1,6 @@
 ---
 title: "Еда и кафе"
 description: "Рассказать, что вы едите, приготовить простую еду, заказать в кафе и уточнить состав блюда."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228544040/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 05. Еда и кафе {#food-and-cafes}
@@ -141,7 +139,7 @@ I cut vegetables, boil the potatoes and fry an egg. I mix the salad and pour tea
 
     Leikkaan vihanneksia, keitän perunat ja paistan kananmunan. Sekoitan salaatin ja kaadan teetä kumppanilleni. Ruokaa riittää huomiseksi, ja voin lämmittää sen myöhemmin. Aamupalaksi syön tavallisesti juustoa ja hedelmiä, varsinkin omenoita. Viikonloppuna haluan leipoa kakun ja kutsua ystäviä teelle.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228544040/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

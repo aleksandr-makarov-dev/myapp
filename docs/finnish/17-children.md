@@ -1,8 +1,6 @@
 ---
 title: "Дети и школа"
 description: "Обсудить день ребёнка, договориться с учителем и говорить о заботе, играх и поведении."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228547111/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 17. Дети и школа {#children-and-school}
@@ -132,7 +130,7 @@ At break time the pupils play with a ball, and no one is allowed to bully others
 
     Välitunnilla oppilaat leikkivät pallolla, eikä kukaan saa kiusata muita. Ruokailun jälkeen nuoremmat lapset nukkuvat päiväunet ja syövät myöhemmin välipalan. Huomenna on retki, ja jokainen lapsi tarvitsee eväät mukaan. Vanhempainillassa rehtori selittää, miten poissaolosta ilmoitetaan. Illalla lapsenvahti lukee iltasadun, kun valmistaudun huomiseen.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228547111/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

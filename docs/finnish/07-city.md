@@ -1,8 +1,6 @@
 ---
 title: "Город и транспорт"
 description: "Спросить дорогу, понять указания, купить билет и разобраться с остановками и пересадками."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228544538/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 07. Город и транспорт {#city-and-transport}
@@ -137,7 +135,7 @@ A bus is waiting in front of the station, and there are taxis behind it. Our hot
 
     Aseman edessä odottaa bussi, ja sen takana on takseja. Hotellimme ei ole kaukana, joten menemme sinne jalkaisin. Emme halua eksyä, ja kysymme joltakulta, missä katu on. Huomenna vuokraamme pyörät, ja myöhemmin palaamme tänne autolla. Paluumatkalla ystäväni ajaa, koska olen matkan jälkeen väsynyt.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228544538/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

@@ -1,8 +1,6 @@
 ---
 title: "Семья и близкие"
 description: "Рассказать о семье, договориться о встрече, предложить помощь и сказать о своих чувствах."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228543353/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 02. Семья и близкие {#family-and-friends}
@@ -142,7 +140,7 @@ My father meets my friend's partner for the first time. We share the food, laugh
 
     Isäni tapaa ystäväni kumppanin ensimmäistä kertaa. Jaamme ruoan, nauramme ja ajattelemme perhettämme. Veljeni on surullinen, koska hän kaipaa vaimoaan. Hän on naimisissa, mutta hänen vaimonsa on poissa tämän viikon. Rakastamme häntä ja kerromme, että hän voi luottaa meihin.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228543353/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

@@ -1,8 +1,6 @@
 ---
 title: "Телефон и интернет"
 description: "Пользоваться телефоном и онлайн-сервисами, описать неполадку и попросить помощи."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228545723/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 12. Телефон и интернет {#phone-and-internet}
@@ -131,7 +129,7 @@ I delete an old video because I need more space for pictures. During the video c
 
     Poistan vanhan videon, koska tarvitsen lisää tilaa kuville. Videopuhelun aikana opettajan kuva näkyy, mutta ääni ei kuulu. Tarkistan asetukset ja huomaan, että kuulokkeeni ovat pois päältä. Painan painiketta, ja nyt kuulen opettajan. Lopuksi laitan kameran ja mikrofonin pois päältä ja kirjaudun ulos.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228545723/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

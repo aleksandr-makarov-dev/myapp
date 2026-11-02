@@ -1,8 +1,6 @@
 ---
 title: "Поездки и гостиница"
 description: "Подготовиться к поездке, разобраться с багажом и заселиться в гостиницу."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228546330/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 14. Поездки и гостиница {#travel-and-hotels}
@@ -132,7 +130,7 @@ Breakfast is included, but there is an extra charge for a late check-out. In our
 
     Aamupala sisältyy hintaan, mutta myöhäisestä uloskirjautumisesta tulee lisämaksu. Huoneestamme löydämme puhtaat lakanat, kaksi tyynyä ja lämpimän peiton. Aikaero väsyttää meitä, joten lepäämme ennen kuin lähdemme kiertelemään. Huomenna opas näyttää meille nähtävyyksiä ja kertoo pääsymaksuista. Hotellin henkilökunta palvelee meitä ystävällisesti, ja toivomme, että voimme yöpyä täällä uudelleen.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228546330/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

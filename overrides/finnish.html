@@ -1,6 +1,1 @@
 {% extends "main.html" %}
-
-{% block content %}
-  {% set quizlet %}{% include "partials/quizlet.html" %}{% endset %}
-  {{ super() | replace("<!-- quizlet -->", quizlet) | safe }}
-{% endblock %}

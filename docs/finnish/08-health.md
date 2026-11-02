@@ -1,8 +1,6 @@
 ---
 title: "Здоровье"
 description: "Описать симптомы, назвать место боли, записаться на приём и задать вопрос в аптеке."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228544695/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 08. Здоровье {#health}
@@ -141,7 +139,7 @@ Another patient is waiting because he has a bad toothache. I collect my medicine
 
     Toinen potilas odottaa, koska hänen hammastaan särkee kovasti. Haen lääkkeeni apteekista ja menen kotiin lepäämään. Olen sairauslomalla, joten perun työtapaamiseni. Toivon, että parannun pian ja olen taas terve. Terveyteni on minulle tärkeä, enkä halua mennä töihin sairaana.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228544695/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

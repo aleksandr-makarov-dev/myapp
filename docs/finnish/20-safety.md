@@ -1,8 +1,6 @@
 ---
 title: "Безопасность и помощь"
 description: "Описать происшествие, сообщить о потере вещей и обратиться за помощью."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228547622/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 20. Безопасность и помощь {#safety-and-help}
@@ -131,7 +129,7 @@ I watch out for broken glass and walk carefully to avoid falling. My phone falls
 
     Varon lasinsiruja ja kävelen varovasti, jotta en kaadu. Puhelimeni putoaa taskusta, mutta onneksi se on yhä ehjä. Ystäväni vie minut autolla kotiin, ja kiinnitän turvavyön. Hän on kadottanut lompakkonsa, joten kysymme myös löytötavaroista. Kotona lukitsen oven ja ajattelen pelottavaa hätätilannetta.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228547622/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

@@ -1,8 +1,6 @@
 ---
 title: "Уход за собой"
 description: "Рассказать о ежедневном уходе, объяснить пожелания парикмахеру и пользоваться сауной."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228547268/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 18. Уход за собой {#personal-care}
@@ -130,7 +128,7 @@ After work I take my swimming trunks and go to the changing room. During our sau
 
     Töiden jälkeen otan uimahousut ja menen pukuhuoneeseen. Saunavuorollamme istun lauteilla kaukana kiukaasta. Löyly saa minut hikoilemaan, ja pian menen ulos vilvoittelemaan. Kumppanini hieroo hartioitani, ja venyttelen jalkojani. Kotona laitan kostean pyyhkeen pyykkiin ja puen yöpuvun päälleni.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228547268/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

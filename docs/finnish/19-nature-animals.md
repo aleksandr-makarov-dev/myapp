@@ -1,8 +1,6 @@
 ---
 title: "Природа и животные"
 description: "Говорить о прогулках, растениях, домашних животных и заботе об окружающем мире."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228547436/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 19. Природа и животные {#nature-and-animals}
@@ -129,7 +127,7 @@ I dig a hole, plant a flower and water it. My partner feeds the cat and strokes 
 
     Kaivan kuopan, istutan kukan ja kastelen sen. Kumppanini ruokkii kissan ja silittää sen pehmeää karvaa. Koira on satuttanut tassunsa, joten viemme sen huomenna eläinlääkärille. Lemmikkimme tarvitsevat hoitoa, ja ulkoilutamme koiraa joka päivä. Illalla istumme rannalla ja katselemme eläimiä ympärillämme.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228547436/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

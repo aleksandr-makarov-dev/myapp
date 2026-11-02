@@ -1,8 +1,6 @@
 ---
 title: "Жильё и переезд"
 description: "Найти подходящую квартиру, уточнить условия аренды и организовать переезд."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228546092/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 13. Жильё и переезд {#housing-and-moving}
@@ -131,7 +129,7 @@ In the new flat we unpack, arrange our things and move the sofa near the window.
 
     Uudessa asunnossa puramme laatikot, järjestämme tavarat ja siirrämme sohvan ikkunan lähelle. Asunto on kalustamaton, joten haluamme sisustaa sen itse. Irrotan vanhan hyllyn ja kiinnitän uuden seinään. Kumppanini poraa reikiä ja ruuvaa ruuveja työkalujen avulla. Maalaamme yhden seinän, ripustamme verhot ja tuuletamme huoneen työn jälkeen.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228546092/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

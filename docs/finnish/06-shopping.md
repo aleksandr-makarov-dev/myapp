@@ -1,8 +1,6 @@
 ---
 title: "Покупки"
 description: "Найти товар, попросить другой размер, оплатить покупку и обсудить обмен или возврат."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228544371/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 06. Покупки {#shopping}
@@ -147,7 +145,7 @@ The price is twenty euros and ninety cents in total. I pay in cash because I hav
 
     Hinta on yhteensä kaksikymmentä euroa ja yhdeksänkymmentä senttiä. Maksan käteisellä, koska olen kadottanut pankkikorttini. Kassi on ilmainen, ja kaikki mahtuu siihen. Tarkistan kuitin, jotta voin vaihtaa tai palauttaa tuotteen myöhemmin. Kotona tarkistan kassin uudelleen, eikä mitään puutu.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228544371/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 

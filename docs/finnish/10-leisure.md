@@ -1,8 +1,6 @@
 ---
 title: "Досуг и погода"
 description: "Рассказать об увлечениях, предложить совместный план и обсудить погоду перед прогулкой."
-template: finnish.html
-quizlet_url: "https://quizlet.com/1228545097/flashcards/embed?i=53ndi1&x=1jj1"
 ---
 
 # 10. Досуг и погода {#leisure-and-weather}
@@ -141,7 +139,7 @@ It does not matter, because we can go to the indoor swimming pool and sauna. My 
 
     Se ei haittaa, koska voimme mennä uimahalliin ja saunaan. Ystäväni haluaa tulla mukaan, ja olen iloinen, kun näen hänet. Myöhemmin käymme kirjastossa ja valitsemme mielenkiintoisen kirjan. Illalla kuuntelemme musiikkia ja katsomme hauskan elokuvan. Ennen kuin hän lähtee, toivotan hänelle hyvää viikonloppua.
 
-<!-- quizlet -->
+<!-- quizlet: https://quizlet.com/1228545097/flashcards/embed?i=53ndi1&x=1jj1 -->
 
 ## Источники {#sources}
 
