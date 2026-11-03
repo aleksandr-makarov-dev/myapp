@@ -34,6 +34,7 @@ nav = [
     { "19. Природа и животные" = "finnish/19-nature-animals.md" },
     { "20. Безопасность и помощь" = "finnish/20-safety.md" },
   ] },
+  { "Упражнения" = "exercises.md" },
 ]
 
 extra_css = ["stylesheets/extra.css", "stylesheets/quizlet.css"]
