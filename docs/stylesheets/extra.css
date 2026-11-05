@@ -36,3 +36,14 @@
 .md-typeset table:not([class]) td {
   padding: 0.5em 0.75em;
 }
+
+/* YouTube videos fill the article while preserving their 16:9 proportions. */
+.md-typeset iframe[src*="youtube.com/embed/"],
+.md-typeset iframe[src*="youtube-nocookie.com/embed/"] {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  margin: 1rem 0;
+  border: 0;
+}
