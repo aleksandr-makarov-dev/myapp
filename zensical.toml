@@ -33,6 +33,7 @@ nav = [
     { "18. Уход за собой" = "finnish/18-personal-care.md" },
     { "19. Природа и животные" = "finnish/19-nature-animals.md" },
     { "20. Безопасность и помощь" = "finnish/20-safety.md" },
+    { "21. Глаголы по типам" = "finnish/21-verbtypes.md" },
   ] },
   { "Грамматика" = [
     { "Обзор" = "grammar/index.md" },

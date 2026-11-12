@@ -438,5 +438,13 @@
     "kind": "sentences",
     "title": "Безопасность и помощь · Предложения",
     "cards": 50
+  },
+  {
+    "id": "21-verbtypes-words",
+    "topic": "Глаголы по типам",
+    "kind": "words",
+    "title": "Глаголы по типам · Слова",
+    "cards": 140,
+    "importFile": "21-verbtypes-words.txt"
   }
 ]
