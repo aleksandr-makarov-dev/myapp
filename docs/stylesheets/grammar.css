@@ -17,3 +17,5 @@
 body:has(.grammar-gallery) .md-nav--secondary .md-nav__list .md-nav__list {
   display: none;
 }
+
+.grammar-image a { cursor: zoom-in; }

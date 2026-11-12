@@ -41,8 +41,8 @@ nav = [
   { "Упражнения" = "exercises.md" },
 ]
 
-extra_css = ["stylesheets/extra.css", "stylesheets/quizlet.css", "stylesheets/grammar.css"]
-extra_javascript = ["javascripts/vocabulary-view.js"]
+extra_css = ["stylesheets/extra.css", "stylesheets/quizlet.css", "assets/vendor/glightbox/glightbox.min.css", "stylesheets/grammar.css"]
+extra_javascript = ["javascripts/vocabulary-view.js", "assets/vendor/glightbox/glightbox.min.js", "javascripts/grammar-lightbox.js"]
 
 [project.theme]
 # variant = "classic"
