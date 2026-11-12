@@ -34,11 +34,15 @@ nav = [
     { "19. Природа и животные" = "finnish/19-nature-animals.md" },
     { "20. Безопасность и помощь" = "finnish/20-safety.md" },
   ] },
+  { "Грамматика" = [
+    { "Обзор" = "grammar/index.md" },
+    { "Suomen mestari" = "grammar/suomen-mestari.md" },
+  ] },
   { "Упражнения" = "exercises.md" },
   { "Видео" = "video.md" },
 ]
 
-extra_css = ["stylesheets/extra.css", "stylesheets/quizlet.css"]
+extra_css = ["stylesheets/extra.css", "stylesheets/quizlet.css", "stylesheets/grammar.css"]
 extra_javascript = ["javascripts/vocabulary-view.js"]
 
 [project.theme]
