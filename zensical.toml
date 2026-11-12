@@ -39,7 +39,6 @@ nav = [
     { "Suomen mestari" = "grammar/suomen-mestari.md" },
   ] },
   { "Упражнения" = "exercises.md" },
-  { "Видео" = "video.md" },
 ]
 
 extra_css = ["stylesheets/extra.css", "stylesheets/quizlet.css", "stylesheets/grammar.css"]

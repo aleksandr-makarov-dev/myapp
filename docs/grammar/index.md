@@ -1,16 +1,30 @@
 ---
 title: "Грамматика"
-description: "Грамматика финского языка: страницы Suomen mestari в PDF."
+description: "Правила Suomen mestari 1 и 2 по темам."
 ---
 
-# Грамматика {#grammar}
+# Грамматика
 
-Правила и примеры из **Suomen mestari**. Страницы учебника можно читать прямо на сайте или открыть отдельным PDF.
+## Suomen mestari 1 и 2
 
-## Учебник {#textbook}
+- [Произношение и гармония гласных](suomen-mestari.md#sounds)
+- [K-p-t-vaihtelu — чередование согласных](suomen-mestari.md#kpt)
+- [Sanatyypit — типы слов](suomen-mestari.md#sanatyypit)
+- [Monikko — множественное число](suomen-mestari.md#plural)
+- [Падежи](suomen-mestari.md#cases)
+- [Местоимения и указательные наречия](suomen-mestari.md#pronouns)
+- [Прилагательные и наречия](suomen-mestari.md#adjectives)
+- [Verbityypit — типы глаголов](suomen-mestari.md#verbityypit)
+- [Aikamuodot — времена и отрицание](suomen-mestari.md#tenses)
+- [Повелительное наклонение и Mennään!](suomen-mestari.md#imperative)
+- [Глагольные конструкции и minen](suomen-mestari.md#infinitives)
+- [Rektio — управление глаголов](suomen-mestari.md#rektio)
+- [Lausetyypit — типы предложений](suomen-mestari.md#sentences)
+- [Objekti — дополнение](suomen-mestari.md#object)
+- [Послелоги и предлоги](suomen-mestari.md#postpositions)
+- [Время, даты и порядковые числительные](suomen-mestari.md#time)
+- [Puhekieli — разговорный язык](suomen-mestari.md#spoken)
 
-[Suomen mestari](suomen-mestari.md)
+## Практика
 
-## Практика {#practice}
-
-После изучения правила переходите к [упражнениям по грамматике](../exercises.md).
+[Упражнения по грамматике](../exercises.md)

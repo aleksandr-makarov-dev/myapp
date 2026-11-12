@@ -1,35 +1,19 @@
-.grammar-pdf {
-  margin-block: 2rem;
-}
-
-.grammar-pdf__actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.grammar-pdf__viewer {
+.grammar-image { margin: 1rem 0 2rem; }
+.grammar-image p { margin: 0; }
+.grammar-image a { display: block; }
+.grammar-image img {
   display: block;
-  width: 100%;
-  height: 80vh;
-  height: 80dvh;
-  min-height: 24rem;
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 0.25rem;
-  background: var(--md-default-bg-color);
+  max-width: 100%;
+  height: auto;
+  background: #fff;
 }
-
-.grammar-pdf__hint,
-.grammar-pdf__empty {
+.grammar-image figcaption {
+  margin-top: 0.4rem;
   color: var(--md-default-fg-color--light);
+  font-size: 0.75rem;
 }
 
-.grammar-pdf__hint {
-  font-size: 0.8rem;
-}
-
-@media (max-width: 600px) {
-  .grammar-pdf__viewer {
-    min-height: 18rem;
-  }
+/* Keep the page contents focused on the seventeen topic groups. */
+body:has(.grammar-gallery) .md-nav--secondary .md-nav__list .md-nav__list {
+  display: none;
 }
