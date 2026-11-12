@@ -181,18 +181,13 @@ description: "Полный список из 140 финских глаголов
 | valjeta (6) | to get light, brighten | Kesällä valkenee aikaisin. | It gets light early in summer. |
 | vanheta (6) | to grow older | Me kaikki vanhenemme. | We all grow older. |
 
-## Quizlet {#quizlet}
+## Практика {#practice}
 
-[Скачать все 140 карточек для импорта](../assets/quizlet/21-verbtypes-words.txt){ download }
+### 1. Слова {#word-practice}
 
-В карточках: финский инфинитив с типом в скобках → английский перевод.
+Вспомните финское слово по английскому переводу.
 
-1. Откройте файл и скопируйте его содержимое целиком.
-2. На сайте Quizlet создайте новый набор и выберите импорт.
-3. Укажите разделитель между термином и определением **Tab (табуляция)**, между карточками — **New line (новая строка)**.
-4. Проверьте, что в предварительном просмотре получилось **140 карточек**; языки — Finnish и English.
-
-[Инструкция Quizlet по импорту](https://help.quizlet.com/hc/en-us/articles/360029977151-Creating-sets-by-importing-content).
+<!-- quizlet: 1234724497 flashcards -->
 
 ## Источники {#sources}
 
