@@ -1,6 +1,11 @@
 {# Use distinct variable names: this include must not overwrite marker_fragments. #}
 {% set non_digits = quizlet_set_id | replace("0", "") | replace("1", "") | replace("2", "") | replace("3", "") | replace("4", "") | replace("5", "") | replace("6", "") | replace("7", "") | replace("8", "") | replace("9", "") %}
-{% if quizlet_set_id and not non_digits and quizlet_mode in ["flashcards", "learn", "test", "match", "spell"] %}
+{% if quizlet_set_id == "placeholder" %}
+  <div class="admonition info" role="note">
+    <p class="admonition-title">Карточки Quizlet</p>
+    <p>Здесь появится набор для практики конструкций.</p>
+  </div>
+{% elif quizlet_set_id and not non_digits and quizlet_mode in ["flashcards", "learn", "test", "match", "spell"] %}
   <iframe
     class="quizlet-embed"
     src="https://quizlet.com/{{ quizlet_set_id }}/{{ quizlet_mode }}/embed"

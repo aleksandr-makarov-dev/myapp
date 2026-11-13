@@ -103,6 +103,10 @@ description: "Рассказать, что вы едите, приготовит
 | **riittää** | kenelle? / mihin? (allatiivi / illatiivi) | Yksi annos riittää minulle. |
 | **tuoksua** | miltä? / mille? (ablatiivi / allatiivi) | Ruoka tuoksuu hyvältä. |
 
+## Конструкции {#construction-practice}
+
+<!-- quizlet: placeholder flashcards -->
+
 ## Практика {#practice}
 
 ### 1. Слова {#word-practice}
@@ -117,6 +121,10 @@ description: "Рассказать, что вы едите, приготовит
 Впишите изучаемое слово или выражение в форме, подходящей для предложения. Английская подсказка уточняет значение. Ответ — только пропущенная часть.
 
 <!-- quizlet: 1230416370 test -->
+
+### 3. Pattern drills {#pattern-drills-practice}
+
+<!-- quizlet: 1234962318 flashcards -->
 
 ## Источники {#sources}
 

@@ -102,6 +102,10 @@ description: "Описать квартиру, обсудить аренду, р
 | --- | --- | --- |
 | **vuokrata** | objekti + keneltä? (арендовать у кого); kenelle? (сдать кому) | Haluan vuokrata asunnon. |
 
+## Конструкции {#construction-practice}
+
+<!-- quizlet: placeholder flashcards -->
+
 ## Практика {#practice}
 
 ### 1. Слова {#word-practice}
@@ -117,6 +121,10 @@ description: "Описать квартиру, обсудить аренду, р
 
 
 <!-- quizlet: 1230420953 test -->
+
+### 3. Pattern drills {#pattern-drills-practice}
+
+<!-- quizlet: 1234962146 flashcards -->
 
 ## Источники {#sources}
 
