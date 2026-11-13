@@ -106,6 +106,232 @@ description: "Представиться, спросить о человеке, 
 | **kertoa** | mistä? / kenestä? (elatiivi) | Kerron perheestäni. |
 | **pyytää** | mitä? + keneltä?; ketä? + MA-инфинитив в illatiivi: pyytää häntä auttamaan | Pyydän sinulta apua. |
 
+## Pattern Drills {#pattern-drills}
+
+Say each sentence aloud. Translate each cue and keep the pattern. Answers give only the parts to insert. In cues and answers, `/` separates slots. Other correct translations are possible. In the headings, sg. means singular.
+
+### 1. Olen kotoisin + place (elat./abl.).
+*I am from + place.*
+
+*Ex: Olen kotoisin Ruotsista. (I am from Sweden.)*
+
+1\. Finland; 2. Russia; 3. Estonia; 4. Helsinki; 5. Tampere; 6. Turku; 7. a small town; 8. a large city; 9. a quiet village; 10. the same country as you
+
+??? note "Правильные ответы"
+
+    1. Suomesta
+    2. Venäjältä
+    3. Virosta
+    4. Helsingistä
+    5. Tampereelta
+    6. Turusta
+    7. pienestä kaupungista
+    8. suuresta kaupungista
+    9. rauhallisesta kylästä
+    10. samasta maasta kuin sinä
+
+### 2. Puhun + language (part.) + complement.
+*I speak + language + extra information.*
+
+*Ex: Puhun vähän englantia. (I speak a little English.)*
+
+1\. Finnish; 2. Russian; 3. a little Swedish; 4. Finnish at work; 5. Russian at home; 6. a little English with friends; 7. Finnish slowly; 8. only English; 9. two languages; 10. Finnish and English
+
+??? note "Правильные ответы"
+
+    1. suomea
+    2. venäjää
+    3. vähän ruotsia
+    4. suomea töissä
+    5. venäjää kotona
+    6. vähän englantia ystävien kanssa
+    7. suomea hitaasti
+    8. vain englantia
+    9. kahta kieltä
+    10. suomea ja englantia
+
+### 3. En ymmärrä + obj (part.).
+*I do not understand + object.*
+
+*Ex: En ymmärrä tätä ohjetta. (I do not understand this instruction.)*
+
+1\. this word; 2. your question; 3. the answer; 4. this sentence; 5. your surname; 6. the last word; 7. this language; 8. his explanation; 9. the teacher's question; 10. these words
+
+??? note "Правильные ответы"
+
+    1. tätä sanaa
+    2. kysymystäsi
+    3. vastausta
+    4. tätä lausetta
+    5. sukunimeäsi
+    6. viimeistä sanaa
+    7. tätä kieltä
+    8. hänen selitystään
+    9. opettajan kysymystä
+    10. näitä sanoja
+
+### 4. Voitko + inf + complement?
+*Can you + verb + complement?*
+
+*Ex: Voitko kertoa kotimaastasi? (Can you tell me about your home country?)*
+
+1\. repeat your first name; 2. say your surname slowly; 3. write your name here; 4. explain this word; 5. speak Finnish with me; 6. repeat the question; 7. tell me your name; 8. say the answer again; 9. speak a little more slowly; 10. help me with this question
+
+??? note "Правильные ответы"
+
+    1. toistaa etunimesi
+    2. sanoa sukunimesi hitaasti
+    3. kirjoittaa nimesi tähän
+    4. selittää tämän sanan
+    5. puhua suomea kanssani
+    6. toistaa kysymyksen
+    7. kertoa nimesi
+    8. sanoa vastauksen uudelleen
+    9. puhua vähän hitaammin
+    10. auttaa minua tässä kysymyksessä
+
+### 5. Haluan + inf + complement.
+*I want to + verb + complement.*
+
+*Ex: Haluan ymmärtää tämän vastauksen. (I want to understand this answer.)*
+
+1\. learn Finnish; 2. speak with you; 3. ask one question; 4. say something in Finnish; 5. tell you about my home country; 6. understand this word; 7. hear your answer; 8. write my name; 9. repeat the sentence; 10. explain what I mean
+
+??? note "Правильные ответы"
+
+    1. oppia suomea
+    2. puhua kanssasi
+    3. kysyä yhden kysymyksen
+    4. sanoa jotain suomeksi
+    5. kertoa sinulle kotimaastani
+    6. ymmärtää tämän sanan
+    7. kuulla vastauksesi
+    8. kirjoittaa nimeni
+    9. toistaa lauseen
+    10. selittää, mitä tarkoitan
+
+### 6. Vastaan + question (ill.) + complement.
+*I answer + question + extra information.*
+
+*Ex: Vastaan uuteen kysymykseen. (I answer a new question.)*
+
+1\. your question; 2. this question; 3. an easy question; 4. a difficult question; 5. the first question; 6. the last question; 7. one question; 8. my friend's question; 9. the same question again; 10. a short question
+
+??? note "Правильные ответы"
+
+    1. kysymykseesi
+    2. tähän kysymykseen
+    3. helppoon kysymykseen
+    4. vaikeaan kysymykseen
+    5. ensimmäiseen kysymykseen
+    6. viimeiseen kysymykseen
+    7. yhteen kysymykseen
+    8. ystäväni kysymykseen
+    9. samaan kysymykseen uudelleen
+    10. lyhyeen kysymykseen
+
+### 7. Saanko + inf + complement?
+*May I + verb + complement?*
+
+*Ex: Saanko kysyä suomeksi? (May I ask in Finnish?)*
+
+1\. ask one more question; 2. write my name here; 3. answer in English; 4. speak Russian; 5. say something; 6. tell you about myself; 7. repeat the answer; 8. ask for help; 9. answer later; 10. ask your name
+
+??? note "Правильные ответы"
+
+    1. kysyä vielä yhden kysymyksen
+    2. kirjoittaa nimeni tähän
+    3. vastata englanniksi
+    4. puhua venäjää
+    5. sanoa jotain
+    6. kertoa sinulle itsestäni
+    7. toistaa vastauksen
+    8. pyytää apua
+    9. vastata myöhemmin
+    10. kysyä nimeäsi
+
+### 8. Tiedätkö, + question word + clause?
+*Do you know + question word + clause?*
+
+*Ex: Tiedätkö, missä opettaja on? (Do you know where the teacher is?)*
+
+1\. where your friend lives; 2. what this word means; 3. how old he is; 4. where she is from; 5. what the teacher's name is; 6. which language he speaks; 7. why she is here; 8. how much this costs; 9. where I can ask for help; 10. when we can talk
+
+??? note "Правильные ответы"
+
+    1. missä ystäväsi asuu
+    2. mitä tämä sana tarkoittaa
+    3. kuinka vanha hän on
+    4. mistä hän on kotoisin
+    5. mikä opettajan nimi on
+    6. mitä kieltä hän puhuu
+    7. miksi hän on täällä
+    8. kuinka paljon tämä maksaa
+    9. missä voin pyytää apua
+    10. milloin voimme puhua
+
+### 9. Eilen + verb (imperf.) + complement.
+*Yesterday I + past-tense verb + complement.*
+
+*Ex: Eilen kysyin opettajalta yhden kysymyksen. (Yesterday I asked the teacher one question.)*
+
+1\. spoke Finnish at work; 2. asked a friend for help; 3. answered slowly; 4. heard a new word; 5. said my first name; 6. repeated my surname; 7. explained the question; 8. told a friend about Finland; 9. understood the answer; 10. wrote my name here
+
+??? note "Правильные ответы"
+
+    1. puhuin suomea töissä
+    2. pyysin ystävältä apua
+    3. vastasin hitaasti
+    4. kuulin uuden sanan
+    5. sanoin etunimeni
+    6. toistin sukunimeni
+    7. selitin kysymyksen
+    8. kerroin ystävälle Suomesta
+    9. ymmärsin vastauksen
+    10. kirjoitin nimeni tähän
+
+### 10. Opiskelen suomea, koska + clause.
+*I study Finnish because + clause.*
+
+*Ex: Opiskelen suomea, koska kieli on minulle tärkeä. (I study Finnish because the language is important to me.)*
+
+1\. I live in Finland; 2. I work here; 3. my spouse is Finnish; 4. I want to understand people; 5. I need Finnish at work; 6. I want to study here; 7. my child speaks Finnish; 8. I have Finnish friends; 9. I want to talk to my neighbours; 10. I want to read books in Finnish
+
+??? note "Правильные ответы"
+
+    1. asun Suomessa
+    2. työskentelen täällä
+    3. puolisoni on suomalainen
+    4. haluan ymmärtää ihmisiä
+    5. tarvitsen suomea töissä
+    6. haluan opiskella täällä
+    7. lapseni puhuu suomea
+    8. minulla on suomalaisia ystäviä
+    9. haluan puhua naapurieni kanssa
+    10. haluan lukea kirjoja suomeksi
+
+## Task Repetition: Ensimmäinen keskustelu {#task-repetition}
+
+**Story:**
+
+Olen kotoisin Venäjältä. Puhun venäjää ja vähän suomea. Haluan puhua suomea. En ymmärrä tätä sanaa. Voitko sanoa sen uudelleen?
+
+**English:**
+
+I am from Russia. I speak Russian and a little Finnish. I want to speak Finnish. I do not understand this word. Can you say it again?
+
+**Retell using these cues:**
+
+1. from Russia
+2. Russian / a little Finnish
+3. want to speak Finnish
+4. do not understand this word
+5. ask the other person to say it again
+
+**Repeat with changes:**
+
+Retell the conversation: you are from Sweden, speak Swedish and a little Finnish, want to ask a question, do not understand the answer and ask the other person to repeat it. Use your own wording.
+
 ## Практика {#practice}
 
 ### 1. Слова {#word-practice}
