@@ -4,7 +4,7 @@
   const modes = [
     { id: "all", label: "Всё", title: "Финские слова, примеры и их перевод", columns: [0, 1, 2, 3] },
     { id: "finnish", label: "Финский", title: "Только финские слова и примеры", columns: [0, 2] },
-    { id: "translation", label: "Перевод", title: "Только английские переводы слов и примеров", columns: [1, 3] },
+    { id: "translation", label: "Перевод", title: "Только переводы слов и примеров", columns: [1, 3] },
   ];
 
   function initialize() {
