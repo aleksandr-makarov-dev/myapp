@@ -35,12 +35,11 @@ nav = [
     { "20. Безопасность и помощь" = "finnish/20-safety.md" },
     { "21. Частицы, глаголы и прилагательные" = "finnish/21-word-sets.md" },
   ] },
-  { "Грамматика" = "grammar/index.md" },
   { "Упражнения" = "exercises.md" },
 ]
 
-extra_css = ["stylesheets/extra.css", "stylesheets/quizlet.css", "assets/vendor/glightbox/glightbox.min.css", "stylesheets/grammar.css"]
-extra_javascript = ["javascripts/vocabulary-view.js", "assets/vendor/glightbox/glightbox.min.js", "javascripts/grammar-lightbox.js"]
+extra_css = ["stylesheets/extra.css", "stylesheets/quizlet.css"]
+extra_javascript = ["javascripts/vocabulary-view.js"]
 
 [project.theme]
 # variant = "classic"
