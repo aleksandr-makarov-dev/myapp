@@ -1,3 +1,0 @@
-GLightbox 3.3.1
-https://github.com/biati-digital/glightbox/tree/v3.3.1
-License: MIT (see LICENSE.txt)
