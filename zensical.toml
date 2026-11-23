@@ -35,10 +35,7 @@ nav = [
     { "20. Безопасность и помощь" = "finnish/20-safety.md" },
     { "21. Частицы, глаголы и прилагательные" = "finnish/21-word-sets.md" },
   ] },
-  { "Грамматика" = [
-    { "Обзор" = "grammar/index.md" },
-    { "Suomen mestari" = "grammar/suomen-mestari.md" },
-  ] },
+  { "Грамматика" = "grammar/index.md" },
   { "Упражнения" = "exercises.md" },
 ]
 
