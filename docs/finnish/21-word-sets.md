@@ -358,3 +358,40 @@ description: "Шесть наборов финской лексики с при�
 <!-- quizlet: 1238702510 flashcards -->
 
 <!-- quizlet: 1238706058 test -->
+
+
+## Неопределённые и отрицательные местоимения, послелоги {#prepositions}
+
+| Слово | Перевод | Пример | Перевод примера |
+| --- | --- | --- | --- |
+| joku                | someone, somebody           | Joku odottaa minua vanhan talon edessä.         | Someone is waiting for me in front of the old house.   |
+| kukaan              | anyone, nobody              | Kukaan ei auta minua tässä tilanteessa.         | Nobody helps me in this situation.                     |
+| jokin               | something, some             | Jokin outo ääni kuuluu keittiöstä.              | Some strange sound is coming from the kitchen.         |
+| mikään              | anything, nothing           | Mikään ei kiinnosta minua tänään.               | Nothing interests me today.                            |
+| jossakin            | somewhere                   | Jossakin tässä kaupungissa on hyvä ravintola.   | There is a good restaurant somewhere in this city.     |
+| missään             | anywhere, nowhere           | En löydä tätä tietoa mistään.                   | I can't find this information anywhere.                |
+| joskus              | sometimes, sometime         | Käyn joskus ystävän kanssa kahvilassa.          | I sometimes go to a café with a friend.                |
+| koskaan             | ever, never                 | En ole koskaan käynyt tässä museossa.           | I have never been to this museum.                      |
+| jonnekin            | somewhere, to somewhere     | Haluan matkustaa jonnekin lämpimään paikkaan.   | I want to travel somewhere warm.                       |
+| minnekään           | anywhere, nowhere           | En halua mennä minnekään tänään.                | I don't want to go anywhere today.                     |
+| jostakin            | from somewhere              | Saan joskus viestin jostakin oudosta numerosta. | I sometimes get a message from an unfamiliar number.   |
+| mistään             | from anywhere, from nowhere | En ole saanut vastausta mistään.                | I haven't received an answer from anywhere.            |
+| edessä              | in front of                 | Auto on vanhan talon edessä.                    | The car is in front of the old house.                  |
+| takana              | behind                      | Puisto on suuren talon takana.                  | The park is behind the big house.                      |
+| vieressä            | next to, beside             | Istun ystäväni vieressä.                        | I am sitting next to my friend.                        |
+| oikealla puolella   | on the right side of        | Apteekki on kaupan oikealla puolella.           | The pharmacy is on the right side of the shop.         |
+| vasemmalla puolella | on the left side of         | Kirjasto on koulun vasemmalla puolella.         | The library is on the left side of the school.         |
+| välissä             | between                     | Kahvila on kaupan ja kirjaston välissä.         | The café is between the shop and the library.          |
+| keskellä            | in the middle of            | Pöytä on huoneen keskellä.                      | The table is in the middle of the room.                |
+| ympärillä           | around                      | Lapset juoksevat suuren pöydän ympärillä.       | The children are running around the big table.         |
+| ääressä             | at, by                      | Istun keittiön pöydän ääressä ja juon kahvia.   | I am sitting at the kitchen table and drinking coffee. |
+| päällä              | on, on top of               | Puhelin on pöydän päällä.                       | The phone is on the table.                             |
+| alla                | under, underneath           | Kissa nukkuu pöydän alla.                       | The cat is sleeping under the table.                   |
+| kanssa              | with                        | Matkustan ystäväni kanssa Helsinkiin.           | I am travelling to Helsinki with my friend.            |
+| jälkeen             | after                       | Työpäivän jälkeen menen kuntosalille.           | After the workday, I go to the gym.                    |
+| ennen               | before                      | Syön aamiaisen ennen työpäivää.                 | I eat breakfast before the workday.                    |
+| ilman               | without                     | Juon kahvia ilman sokeria.                      | I drink coffee without sugar.                          |
+
+<!-- quizlet: 1239640609 flashcards -->
+
+<!-- quizlet: 1239652159 flashcards -->
